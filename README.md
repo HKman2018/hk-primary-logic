@@ -1,1 +1,109 @@
-# hk-primary-logic
+# 香港小學邏輯訓練網站 · 靜態 MVP
+
+小四至小六 · 五類：找規律／數列、分類／歸類、條件推理、圖形／空間、真假／矛盾。  
+純前端、繁體中文 UI、**唔使登入／後端**。
+
+線上即玩：**https://hkman2018.github.io/hk-primary-logic/**
+
+GitHub Pages 由公開 repo 嘅 `main` 分支根目錄（`/`）發佈。第一次推上或者更新後，頁面可能要等一兩分鐘先更新。
+
+---
+
+## 需要咩
+
+- 電腦有現代瀏覽器（Chrome／Edge／Safari／Firefox）
+- （本機試玩先要）已安裝 [Python 3](https://www.python.org/)——用嚟開本機靜態伺服器  
+  或者用 VS Code／Cursor 嘅 Live Server 都得
+
+唔使 `npm install`、唔使資料庫。呢個係公開 repo，clone 唔使 Personal Access Token。
+
+---
+
+## 安裝（取得檔案）
+
+```bash
+git clone https://github.com/HKman2018/hk-primary-logic.git
+cd hk-primary-logic
+```
+
+檔案喺 **repo 根目錄**（有 `index.html`），唔使再入子目錄。
+
+目錄內應見到：`index.html`、`css/`、`js/`。
+
+---
+
+## 執行
+
+### 線上
+
+直接開：**https://hkman2018.github.io/hk-primary-logic/**
+
+### 本機
+
+喺專案根目錄（有 `index.html` 嗰層）開本機伺服器：
+
+```bash
+python3 -m http.server 8765
+```
+
+然後用瀏覽器開：
+
+**http://127.0.0.1:8765/**
+
+停伺服器：喺終端機按 `Ctrl+C`。
+
+### 其他開法
+
+| 方法 | 做法 |
+|------|------|
+| 另一埠 | `python3 -m http.server 8080` → 開 `http://127.0.0.1:8080/` |
+| 直接雙擊 `index.html` | 多數情況可用；若瀏覽器擋本地腳本，改用上面 `http.server` |
+| npx（有 Node 時） | `npx --yes serve -p 8765` |
+
+---
+
+## 點玩
+
+1. 開首頁，揀題型（五類之一）。
+2. 當日每類會出 **5 題**（同日再開會見到同一組，方便複習）。
+3. 揀答案 → 睇啱／錯同提示。
+4. 進度存在瀏覽器 `localStorage`（換瀏覽器或清網站資料＝當新用戶）。
+
+---
+
+## 每日唔重複（硬約束）
+
+- 用 **香港時區（HKT）日期**做種子：同日穩定、換日換題。
+- 用內容指紋（`contentKey`）記錄已出過嘅題，**禁止跨日重用同一內容**湊滿 5 題。
+- 池不夠時當日可以少過 5 題，都唔會用舊題充數。
+
+---
+
+## 專案結構
+
+```
+.
+├── index.html          # 繁中 UI
+├── css/styles.css
+├── js/questions.js     # 靜態樣本（後備）
+├── js/generators.js    # 日期種子＋參數化出題＋每日組卷
+├── js/app.js           # 答題流程、localStorage
+├── docs/題型大綱.md
+├── .gitignore          # 擋住 .env、金鑰、憑證同本機雜檔
+└── README.md
+```
+
+---
+
+## 自測摘要（2026-10-15 HKT）
+
+- 五題型：`pattern` / `classify` / `condition` / `spatial` / `truth`
+- 抽樣 30／60 日：每日每類 5 題、零 contentKey 重用、無隨機 `-x` id
+- 無登入、無後端
+
+---
+
+## 已知限制
+
+- 圖形／空間題目前偏文字描述。
+- 進度只喺本機瀏覽器；唔會同步到其他裝置。

@@ -1,0 +1,52 @@
+# Secrets / credentials
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+*.p12
+*.pfx
+*secret*
+*credentials*
+*.token
+auth.json
+credentials.json
+*-credentials.json
+*service-account*.json
+*serviceAccount*.json
+secrets/
+
+# Private keys
+id_rsa
+id_rsa.*
+id_ed25519
+id_ed25519.*
+id_ecdsa
+id_ecdsa.*
+*.ppk
+*.keystore
+*.jks
+
+# Cloud CLI credential dirs
+.aws/
+.gcloud/
+
+# OS / editor junk
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+.idea/
+.vscode/
+*.log
+
+# Node / build (if added later)
+node_modules/
+dist/
+build/
+.cache/
+coverage/
+
+# Local scratch
+*.local
+.tmp/
