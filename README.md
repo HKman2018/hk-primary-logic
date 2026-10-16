@@ -86,7 +86,7 @@ python3 -m http.server 8765
 ├── index.html          # 繁中 UI
 ├── css/styles.css
 ├── js/questions.js     # 靜態樣本（後備）
-├── js/generators.js    # 日期種子＋參數化出題＋每日組卷
+├── js/generators.js    # 日期種子＋參數化出題＋每日組卷（v4-rich-pool）
 ├── js/app.js           # 答題流程、localStorage
 ├── docs/題型大綱.md
 ├── .gitignore          # 擋住 .env、金鑰、憑證同本機雜檔
@@ -95,10 +95,12 @@ python3 -m http.server 8765
 
 ---
 
-## 自測摘要（2026-10-15 HKT）
+## 自測摘要（2026-10-16）
 
 - 五題型：`pattern` / `classify` / `condition` / `spatial` / `truth`
-- 抽樣 30／60 日：每日每類 5 題、零 contentKey 重用、無隨機 `-x` id
+- 生成器種子標籤：`v4-rich-pool`（題目靠規律族同情境參數加深，唔靠選項次序充數，亦無隨機 `-x` id）
+- 靜態樣本（`js/questions.js`）每類 7 題
+- 由 2026-10-15 起連續 90 日：每日每類 5 題、零 contentKey 重用（每類 450 個唔同內容）
 - 無登入、無後端
 
 ---
