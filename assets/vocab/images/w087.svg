@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="480" viewBox="0 0 640 480" shape-rendering="geometricPrecision">
+<rect x="0.0" y="0.0" width="640.0" height="480.0" fill="#d7f0ff"/>
+<rect x="0.0" y="0.0" width="640.0" height="480.0" fill="#f6f3ee"/>
+<g transform="translate(320.0 250.0) scale(2.4)">
+<circle cx="-36.0" cy="0.0" r="16.0" fill="#3a322c" stroke="#243044" stroke-width="3.0" stroke-linejoin="round" stroke-linecap="round"/>
+<circle cx="0.0" cy="0.0" r="20.0" fill="#3a322c" stroke="#243044" stroke-width="3.0" stroke-linejoin="round" stroke-linecap="round"/>
+<ellipse cx="40.0" cy="0.0" rx="28.0" ry="20.0" fill="#3a322c" stroke="#243044" stroke-width="3.0" stroke-linejoin="round" stroke-linecap="round"/>
+<circle cx="-44.0" cy="-6.0" r="3.0" fill="#ffffff"/>
+<polyline points="-10.0,0.0 -37.6,-18.0" fill="none" stroke="#243044" stroke-width="3.0" stroke-linecap="round" stroke-linejoin="round"/>
+<polyline points="16.0,0.0 43.6,-18.0" fill="none" stroke="#243044" stroke-width="3.0" stroke-linecap="round" stroke-linejoin="round"/>
+<polyline points="-10.0,0.0 -46.0,0.0" fill="none" stroke="#243044" stroke-width="3.0" stroke-linecap="round" stroke-linejoin="round"/>
+<polyline points="16.0,0.0 52.0,0.0" fill="none" stroke="#243044" stroke-width="3.0" stroke-linecap="round" stroke-linejoin="round"/>
+<polyline points="-10.0,0.0 -37.6,18.0" fill="none" stroke="#243044" stroke-width="3.0" stroke-linecap="round" stroke-linejoin="round"/>
+<polyline points="16.0,0.0 43.6,18.0" fill="none" stroke="#243044" stroke-width="3.0" stroke-linecap="round" stroke-linejoin="round"/>
+<polyline points="-48.0,-8.0 -60.0,-28.0" fill="none" stroke="#243044" stroke-width="3.0" stroke-linecap="round" stroke-linejoin="round"/>
+<polyline points="-42.0,-10.0 -40.0,-32.0" fill="none" stroke="#243044" stroke-width="3.0" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+</svg>

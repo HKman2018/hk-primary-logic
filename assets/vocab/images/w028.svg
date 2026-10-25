@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="480" viewBox="0 0 640 480" shape-rendering="geometricPrecision">
+<rect x="0.0" y="0.0" width="640.0" height="480.0" fill="#d7f0ff"/>
+<rect x="0.0" y="0.0" width="640.0" height="480.0" fill="#d9ecff"/>
+<rect x="0.0" y="348.0" width="640.0" height="132.0" fill="#7dce6a"/>
+<rect x="0.0" y="348.0" width="640.0" height="10.0" fill="#5eae4e"/>
+<rect x="120.0" y="160.0" width="36.0" height="240.0" fill="#ffd34d" stroke="#243044" stroke-width="4.0" stroke-linejoin="round" stroke-linecap="round"/>
+<rect x="120.0" y="150.0" width="280.0" height="18.0" fill="#ffd34d" stroke="#243044" stroke-width="4.0" stroke-linejoin="round" stroke-linecap="round"/>
+<polyline points="300.0,168.0 300.0,230.0" fill="none" stroke="#243044" stroke-width="3.0" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="250.0" y="230.0" width="90.0" height="70.0" rx="6.0" fill="#f5a524" stroke="#243044" stroke-width="3.0" stroke-linejoin="round" stroke-linecap="round"/>
+<rect x="200.0" y="250.0" width="70.0" height="50.0" rx="4.0" fill="#d9dee6" stroke="#243044" stroke-width="3.0" stroke-linejoin="round" stroke-linecap="round"/>
+<rect x="280.0" y="310.0" width="70.0" height="50.0" rx="4.0" fill="#d9dee6" stroke="#243044" stroke-width="3.0" stroke-linejoin="round" stroke-linecap="round"/>
+</svg>

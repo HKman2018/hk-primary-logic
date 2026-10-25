@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="480" viewBox="0 0 640 480" shape-rendering="geometricPrecision">
+<rect x="0.0" y="0.0" width="640.0" height="480.0" fill="#d7f0ff"/>
+<rect x="0.0" y="0.0" width="640.0" height="480.0" fill="#fff4d8"/>
+<rect x="0.0" y="340.0" width="640.0" height="140.0" fill="#e7c98a"/>
+<rect x="0.0" y="340.0" width="640.0" height="10.0" fill="#5eae4e"/>
+<polyline points="60.0,180.0 110.0,180.0" fill="none" stroke="#9aa8b8" stroke-width="4.0" stroke-linecap="round" stroke-linejoin="round"/>
+<polyline points="60.0,198.0 120.0,198.0" fill="none" stroke="#9aa8b8" stroke-width="4.0" stroke-linecap="round" stroke-linejoin="round"/>
+<polyline points="60.0,216.0 130.0,216.0" fill="none" stroke="#9aa8b8" stroke-width="4.0" stroke-linecap="round" stroke-linejoin="round"/>
+<polyline points="40.0,230.0 90.0,230.0" fill="none" stroke="#9aa8b8" stroke-width="4.0" stroke-linecap="round" stroke-linejoin="round"/>
+<polyline points="40.0,248.0 100.0,248.0" fill="none" stroke="#9aa8b8" stroke-width="4.0" stroke-linecap="round" stroke-linejoin="round"/>
+<polyline points="40.0,266.0 110.0,266.0" fill="none" stroke="#9aa8b8" stroke-width="4.0" stroke-linecap="round" stroke-linejoin="round"/>
+<g transform="translate(340.0 300.0) scale(1.4)">
+<ellipse cx="0.0" cy="-20.0" rx="90.0" ry="32.0" fill="#e0a85a" stroke="#243044" stroke-width="4.0" stroke-linejoin="round" stroke-linecap="round"/>
+<circle cx="-40.0" cy="-28.0" r="5.0" fill="#3a322c"/>
+<circle cx="-10.0" cy="-36.0" r="5.0" fill="#3a322c"/>
+<circle cx="20.0" cy="-24.0" r="5.0" fill="#3a322c"/>
+<circle cx="50.0" cy="-30.0" r="5.0" fill="#3a322c"/>
+<circle cx="-20.0" cy="-8.0" r="5.0" fill="#3a322c"/>
+<circle cx="78.0" cy="-36.0" r="26.0" fill="#e0a85a" stroke="#243044" stroke-width="3.0" stroke-linejoin="round" stroke-linecap="round"/>
+<circle cx="88.0" cy="-40.0" r="3.0" fill="#243044"/>
+<path d="M-80 -10 Q-120 -30 -100 10" fill="none" stroke="#e0a85a" stroke-width="8.0" stroke-linejoin="round" stroke-linecap="round"/>
+<polyline points="-40.0,0.0 -60.0,30.0" fill="none" stroke="#c4844a" stroke-width="6.0" stroke-linecap="round" stroke-linejoin="round"/>
+<polyline points="10.0,4.0 0.0,34.0" fill="none" stroke="#c4844a" stroke-width="6.0" stroke-linecap="round" stroke-linejoin="round"/>
+<polyline points="40.0,0.0 70.0,24.0" fill="none" stroke="#c4844a" stroke-width="6.0" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+</svg>

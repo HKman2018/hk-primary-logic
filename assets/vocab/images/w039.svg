@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="480" viewBox="0 0 640 480" shape-rendering="geometricPrecision">
+<rect x="0.0" y="0.0" width="640.0" height="480.0" fill="#d7f0ff"/>
+<rect x="0.0" y="0.0" width="640.0" height="480.0" fill="#d7f0ff"/>
+<rect x="0.0" y="348.0" width="640.0" height="132.0" fill="#7dce6a"/>
+<rect x="0.0" y="348.0" width="640.0" height="10.0" fill="#5eae4e"/>
+<path d="M-20 80 C120 140 80 220 200 260 C340 310 260 380 420 420 C520 450 600 400 680 460 L680 200 C520 180 480 300 320 240 C180 180 160 80 -20 40 Z" fill="#4aa3e8" stroke="#243044" stroke-width="4.0" stroke-linejoin="round" stroke-linecap="round"/>
+<rect x="72.0" y="288.0" width="16.0" height="72.0" rx="6.0" fill="#8a5a3b" stroke="#243044" stroke-width="3.0" stroke-linejoin="round" stroke-linecap="round"/>
+<circle cx="80.0" cy="264.0" r="36.8" fill="#3cb371" stroke="#243044" stroke-width="4.0" stroke-linejoin="round" stroke-linecap="round"/>
+<circle cx="54.4" cy="283.2" r="25.6" fill="#3cb371" stroke="#243044" stroke-width="4.0" stroke-linejoin="round" stroke-linecap="round"/>
+<circle cx="107.2" cy="281.6" r="24.0" fill="#3cb371" stroke="#243044" stroke-width="4.0" stroke-linejoin="round" stroke-linecap="round"/>
+<rect x="534.0" y="146.0" width="12.0" height="54.0" rx="6.0" fill="#8a5a3b" stroke="#243044" stroke-width="3.0" stroke-linejoin="round" stroke-linecap="round"/>
+<circle cx="540.0" cy="128.0" r="27.6" fill="#3cb371" stroke="#243044" stroke-width="4.0" stroke-linejoin="round" stroke-linecap="round"/>
+<circle cx="520.8" cy="142.4" r="19.2" fill="#3cb371" stroke="#243044" stroke-width="4.0" stroke-linejoin="round" stroke-linecap="round"/>
+<circle cx="560.4" cy="141.2" r="18.0" fill="#3cb371" stroke="#243044" stroke-width="4.0" stroke-linejoin="round" stroke-linecap="round"/>
+</svg>

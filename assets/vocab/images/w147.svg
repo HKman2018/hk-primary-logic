@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="480" viewBox="0 0 640 480" shape-rendering="geometricPrecision">
+<rect x="0.0" y="0.0" width="640.0" height="480.0" fill="#d7f0ff"/>
+<rect x="0.0" y="0.0" width="640.0" height="480.0" fill="#fff8ea"/>
+<rect x="40.0" y="70.0" width="560.0" height="230.0" rx="16.0" fill="#ffffff" stroke="#243044" stroke-width="4.0" stroke-linejoin="round" stroke-linecap="round"/>
+<rect x="40.0" y="70.0" width="560.0" height="48.0" fill="#ef5b5b"/>
+<rect x="40.0" y="70.0" width="560.0" height="48.0" rx="16.0" fill="#ef5b5b"/>
+<rect x="40.0" y="94.0" width="560.0" height="24.0" fill="#ef5b5b"/>
+<circle cx="76.0" cy="78.0" r="8.0" fill="#ffffff"/>
+<circle cx="564.0" cy="78.0" r="8.0" fill="#ffffff"/>
+<rect x="60.0" y="150.0" width="67.4" height="64.0" rx="8.0" fill="#f4f7fb" stroke="#243044" stroke-width="3.0" stroke-linejoin="round" stroke-linecap="round"/>
+<text x="93.7" y="180.0" dy="0.35em" text-anchor="middle" font-family='"PingFang TC","Microsoft JhengHei","Noto Sans CJK TC","WenQuanYi Micro Hei",sans-serif' font-size="22.0" font-weight="700" fill="#243044">一</text>
+<rect x="135.4" y="150.0" width="67.4" height="64.0" rx="8.0" fill="#f4f7fb" stroke="#243044" stroke-width="3.0" stroke-linejoin="round" stroke-linecap="round"/>
+<text x="169.1" y="180.0" dy="0.35em" text-anchor="middle" font-family='"PingFang TC","Microsoft JhengHei","Noto Sans CJK TC","WenQuanYi Micro Hei",sans-serif' font-size="22.0" font-weight="700" fill="#243044">二</text>
+<rect x="210.9" y="150.0" width="67.4" height="64.0" rx="8.0" fill="#f4f7fb" stroke="#243044" stroke-width="3.0" stroke-linejoin="round" stroke-linecap="round"/>
+<text x="244.6" y="180.0" dy="0.35em" text-anchor="middle" font-family='"PingFang TC","Microsoft JhengHei","Noto Sans CJK TC","WenQuanYi Micro Hei",sans-serif' font-size="22.0" font-weight="700" fill="#243044">三</text>
+<rect x="286.3" y="150.0" width="67.4" height="64.0" rx="8.0" fill="#f4f7fb" stroke="#243044" stroke-width="3.0" stroke-linejoin="round" stroke-linecap="round"/>
+<text x="320.0" y="180.0" dy="0.35em" text-anchor="middle" font-family='"PingFang TC","Microsoft JhengHei","Noto Sans CJK TC","WenQuanYi Micro Hei",sans-serif' font-size="22.0" font-weight="700" fill="#243044">四</text>
+<rect x="361.7" y="150.0" width="67.4" height="64.0" rx="8.0" fill="#f4f7fb" stroke="#243044" stroke-width="3.0" stroke-linejoin="round" stroke-linecap="round"/>
+<text x="395.4" y="180.0" dy="0.35em" text-anchor="middle" font-family='"PingFang TC","Microsoft JhengHei","Noto Sans CJK TC","WenQuanYi Micro Hei",sans-serif' font-size="22.0" font-weight="700" fill="#243044">五</text>
+<rect x="437.1" y="150.0" width="67.4" height="64.0" rx="8.0" fill="#f4f7fb" stroke="#243044" stroke-width="3.0" stroke-linejoin="round" stroke-linecap="round"/>
+<text x="470.9" y="180.0" dy="0.35em" text-anchor="middle" font-family='"PingFang TC","Microsoft JhengHei","Noto Sans CJK TC","WenQuanYi Micro Hei",sans-serif' font-size="22.0" font-weight="700" fill="#243044">六</text>
+<rect x="512.6" y="150.0" width="67.4" height="64.0" rx="8.0" fill="#f4f7fb" stroke="#243044" stroke-width="3.0" stroke-linejoin="round" stroke-linecap="round"/>
+<text x="546.3" y="180.0" dy="0.35em" text-anchor="middle" font-family='"PingFang TC","Microsoft JhengHei","Noto Sans CJK TC","WenQuanYi Micro Hei",sans-serif' font-size="22.0" font-weight="700" fill="#243044">日</text>
+<rect x="430.0" y="150.0" width="150.0" height="64.0" rx="8.0" fill="#ffe08a" stroke="#f5a524" stroke-width="4.0" stroke-linejoin="round" stroke-linecap="round"/>
+<circle cx="200.0" cy="390.0" r="40.0" fill="#f5a524" stroke="#243044" stroke-width="4.0" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M160.0 390.0 Q200.0 382.0 240.0 390.0" fill="none" stroke="#ffffff" stroke-width="3.0" stroke-linejoin="round" stroke-linecap="round"/>
+<polyline points="200.0,350.0 200.0,430.0" fill="none" stroke="#ffffff" stroke-width="3.0" stroke-linecap="round" stroke-linejoin="round"/>
+<polyline points="504.0,390.0 522.0,390.0" fill="none" stroke="#f5a524" stroke-width="6.0" stroke-linecap="round" stroke-linejoin="round"/>
+<polyline points="498.1,412.0 513.7,421.0" fill="none" stroke="#f5a524" stroke-width="6.0" stroke-linecap="round" stroke-linejoin="round"/>
+<polyline points="482.0,428.1 491.0,443.7" fill="none" stroke="#f5a524" stroke-width="6.0" stroke-linecap="round" stroke-linejoin="round"/>
+<polyline points="460.0,434.0 460.0,452.0" fill="none" stroke="#f5a524" stroke-width="6.0" stroke-linecap="round" stroke-linejoin="round"/>
+<polyline points="438.0,428.1 429.0,443.7" fill="none" stroke="#f5a524" stroke-width="6.0" stroke-linecap="round" stroke-linejoin="round"/>
+<polyline points="421.9,412.0 406.3,421.0" fill="none" stroke="#f5a524" stroke-width="6.0" stroke-linecap="round" stroke-linejoin="round"/>
+<polyline points="416.0,390.0 398.0,390.0" fill="none" stroke="#f5a524" stroke-width="6.0" stroke-linecap="round" stroke-linejoin="round"/>
+<polyline points="421.9,368.0 406.3,359.0" fill="none" stroke="#f5a524" stroke-width="6.0" stroke-linecap="round" stroke-linejoin="round"/>
+<polyline points="438.0,351.9 429.0,336.3" fill="none" stroke="#f5a524" stroke-width="6.0" stroke-linecap="round" stroke-linejoin="round"/>
+<polyline points="460.0,346.0 460.0,328.0" fill="none" stroke="#f5a524" stroke-width="6.0" stroke-linecap="round" stroke-linejoin="round"/>
+<polyline points="482.0,351.9 491.0,336.3" fill="none" stroke="#f5a524" stroke-width="6.0" stroke-linecap="round" stroke-linejoin="round"/>
+<polyline points="498.1,368.0 513.7,359.0" fill="none" stroke="#f5a524" stroke-width="6.0" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="460.0" cy="390.0" r="36.0" fill="#ffd34d" stroke="#243044" stroke-width="4.0" stroke-linejoin="round" stroke-linecap="round"/>
+<circle cx="444.0" cy="384.0" r="5.0" fill="#243044"/>
+<circle cx="476.0" cy="384.0" r="5.0" fill="#243044"/>
+<path d="M442.0 400.0 Q460.0 418.0 478.0 400.0" fill="none" stroke="#243044" stroke-width="4.0" stroke-linejoin="round" stroke-linecap="round"/>
+</svg>

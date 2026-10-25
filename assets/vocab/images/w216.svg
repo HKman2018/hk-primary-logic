@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="480" viewBox="0 0 640 480" shape-rendering="geometricPrecision">
+<rect x="0.0" y="0.0" width="640.0" height="480.0" fill="#d7f0ff"/>
+<rect x="0.0" y="0.0" width="640.0" height="480.0" fill="#e9f8ee"/>
+<polygon points="220.0,80.0 460.0,80.0 420.0,220.0 180.0,220.0" fill="#ffffff" stroke="#243044" stroke-width="5.0" stroke-linejoin="round" stroke-linecap="round"/>
+<circle cx="250.0" cy="140.0" r="12.0" fill="#e9f8ee" stroke="#243044" stroke-width="3.0" stroke-linejoin="round" stroke-linecap="round"/>
+<text x="330.0" y="120.0" dy="0.35em" text-anchor="middle" font-family='Verdana, sans-serif' font-size="64.0" font-weight="700" fill="#3cb371">0</text>
+<rect x="285.0" y="311.0" width="70.0" height="52.5" rx="6.0" fill="#ef5b5b" stroke="#243044" stroke-width="4.0" stroke-linejoin="round" stroke-linecap="round"/>
+<rect x="312.0" y="311.0" width="16.0" height="52.5" fill="#ffd34d"/>
+<rect x="285.0" y="330.6" width="70.0" height="14.0" fill="#ffd34d"/>
+<polygon points="320.0,311.0 296.0,286.5 312.0,311.0" fill="#ffd34d" stroke="#243044" stroke-width="3.0" stroke-linejoin="round" stroke-linecap="round"/>
+<polygon points="320.0,311.0 344.0,286.5 328.0,311.0" fill="#f0b429" stroke="#243044" stroke-width="3.0" stroke-linejoin="round" stroke-linecap="round"/>
+<circle cx="320.0" cy="309.6" r="8.0" fill="#ffd34d" stroke="#243044" stroke-width="3.0" stroke-linejoin="round" stroke-linecap="round"/>
+</svg>

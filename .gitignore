@@ -50,3 +50,5 @@ coverage/
 # Local scratch
 *.local
 .tmp/
+__pycache__/
+*.pyc

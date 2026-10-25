@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="480" viewBox="0 0 640 480" shape-rendering="geometricPrecision">
+<rect x="0.0" y="0.0" width="640.0" height="480.0" fill="#d7f0ff"/>
+<rect x="0.0" y="0.0" width="640.0" height="480.0" fill="#fff6ea"/>
+<g transform="translate(300.0 450.0) scale(1.2 1.2)">
+<ellipse cx="0.0" cy="6.0" rx="50.0" ry="12.0" fill="rgba(36,48,68,0.12)"/>
+<rect x="-26.0" y="-86.0" width="20.0" height="82.0" rx="10.0" fill="#2c3e50" stroke="#243044" stroke-width="4.0" stroke-linejoin="round" stroke-linecap="round"/>
+<rect x="6.0" y="-86.0" width="20.0" height="82.0" rx="10.0" fill="#2c3e50" stroke="#243044" stroke-width="4.0" stroke-linejoin="round" stroke-linecap="round"/>
+<ellipse cx="-16.0" cy="-6.0" rx="16.0" ry="8.0" fill="#2c3e50"/>
+<ellipse cx="16.0" cy="-6.0" rx="16.0" ry="8.0" fill="#2c3e50"/>
+<rect x="-8.0" y="0" width="16.0" height="58.0" rx="8.0" fill="#f0d2b0" stroke="#243044" stroke-width="4" stroke-linejoin="round" transform="translate(30.0 -146.0) rotate(-130.0)"/>
+<rect x="-8.0" y="0" width="16.0" height="64.0" rx="8.0" fill="#f0d2b0" stroke="#243044" stroke-width="4" stroke-linejoin="round" transform="translate(-34.0 -148.0) rotate(14.0)"/>
+<rect x="-36.0" y="-168.0" width="72.0" height="96.0" rx="22.0" fill="#f0d2b0" stroke="#243044" stroke-width="4.0" stroke-linejoin="round" stroke-linecap="round"/>
+<circle cx="0.0" cy="-214.0" r="46.0" fill="#f6c7a1" stroke="#243044" stroke-width="4.0" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M-42 -206 Q-46 -270 0 -276 Q46 -270 42 -206 Q20 -226 0 -220 Q-20 -226 -42 -206" fill="#3a322c" stroke="#243044" stroke-width="3.0" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M-22 -222 Q-13 -230 -4 -222" fill="none" stroke="#243044" stroke-width="4.0" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M4 -222 Q13 -230 22 -222" fill="none" stroke="#243044" stroke-width="4.0" stroke-linejoin="round" stroke-linecap="round"/>
+<polyline points="-10.0,-194.0 10.0,-194.0" fill="none" stroke="#243044" stroke-width="4.0" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+<path d="M460.0 176.0 C402.4 132.8 431.2 93.2 460.0 125.6 C488.8 93.2 517.6 132.8 460.0 176.0 Z" fill="#ff8fab" stroke="#243044" stroke-width="3.0" stroke-linejoin="round" stroke-linecap="round"/>
+<polyline points="392.0,80.0 408.0,80.0" fill="none" stroke="#ffd34d" stroke-width="3.0" stroke-linecap="round" stroke-linejoin="round"/>
+<polyline points="400.0,72.0 400.0,88.0" fill="none" stroke="#ffd34d" stroke-width="3.0" stroke-linecap="round" stroke-linejoin="round"/>
+<polyline points="512.0,100.0 528.0,100.0" fill="none" stroke="#ffd34d" stroke-width="3.0" stroke-linecap="round" stroke-linejoin="round"/>
+<polyline points="520.0,92.0 520.0,108.0" fill="none" stroke="#ffd34d" stroke-width="3.0" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

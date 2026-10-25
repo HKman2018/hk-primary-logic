@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="480" viewBox="0 0 640 480" shape-rendering="geometricPrecision">
+<rect x="0.0" y="0.0" width="640.0" height="480.0" fill="#d7f0ff"/>
+<rect x="0.0" y="0.0" width="640.0" height="480.0" fill="#d7f0ff"/>
+<rect x="0.0" y="348.0" width="640.0" height="132.0" fill="#7dce6a"/>
+<rect x="0.0" y="348.0" width="640.0" height="10.0" fill="#5eae4e"/>
+<g transform="translate(300.0 340.0) scale(1.8)">
+<ellipse cx="0.0" cy="4.0" rx="70.0" ry="12.0" fill="rgba(36,48,68,0.12)"/>
+<rect x="-40.0" y="-40.0" width="12.0" height="40.0" rx="6.0" fill="#2c3e50"/>
+<rect x="-10.0" y="-40.0" width="12.0" height="40.0" rx="6.0" fill="#2c3e50"/>
+<rect x="16.0" y="-40.0" width="12.0" height="40.0" rx="6.0" fill="#2c3e50"/>
+<rect x="40.0" y="-40.0" width="12.0" height="40.0" rx="6.0" fill="#2c3e50"/>
+<circle cx="-30.0" cy="-70.0" r="28.0" fill="#ffffff" stroke="#243044" stroke-width="3.0" stroke-linejoin="round" stroke-linecap="round"/>
+<circle cx="0.0" cy="-84.0" r="34.0" fill="#ffffff" stroke="#243044" stroke-width="3.0" stroke-linejoin="round" stroke-linecap="round"/>
+<circle cx="32.0" cy="-70.0" r="28.0" fill="#ffffff" stroke="#243044" stroke-width="3.0" stroke-linejoin="round" stroke-linecap="round"/>
+<circle cx="0.0" cy="-60.0" r="30.0" fill="#ffffff" stroke="#243044" stroke-width="3.0" stroke-linejoin="round" stroke-linecap="round"/>
+<ellipse cx="62.0" cy="-78.0" rx="22.0" ry="18.0" fill="#3a322c" stroke="#243044" stroke-width="3.0" stroke-linejoin="round" stroke-linecap="round"/>
+<circle cx="78.0" cy="-84.0" r="4.0" fill="#ffffff"/>
+<circle cx="70.0" cy="-80.0" r="2.0" fill="#243044"/>
+</g>
+<circle cx="100.0" cy="80.0" r="18.2" fill="#ffffff"/>
+<circle cx="119.6" cy="84.2" r="15.4" fill="#ffffff"/>
+<circle cx="79.0" cy="85.6" r="14.0" fill="#ffffff"/>
+<ellipse cx="100.0" cy="91.2" rx="32.2" ry="12.6" fill="#ffffff"/>
+</svg>

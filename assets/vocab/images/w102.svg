@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="480" viewBox="0 0 640 480" shape-rendering="geometricPrecision">
+<rect x="0.0" y="0.0" width="640.0" height="480.0" fill="#d7f0ff"/>
+<rect x="0.0" y="0.0" width="640.0" height="480.0" fill="#f4fbf8"/>
+<rect x="80.0" y="60.0" width="320.0" height="340.0" rx="16.0" fill="#ffffff" stroke="#243044" stroke-width="4.0" stroke-linejoin="round" stroke-linecap="round"/>
+<rect x="80.0" y="60.0" width="320.0" height="48.0" fill="#ef5b5b"/>
+<rect x="80.0" y="60.0" width="320.0" height="48.0" rx="16.0" fill="#ef5b5b"/>
+<rect x="80.0" y="84.0" width="320.0" height="24.0" fill="#ef5b5b"/>
+<circle cx="116.0" cy="68.0" r="8.0" fill="#ffffff"/>
+<circle cx="364.0" cy="68.0" r="8.0" fill="#ffffff"/>
+<rect x="100.0" y="140.0" width="33.1" height="64.0" rx="8.0" fill="#f4f7fb" stroke="#243044" stroke-width="3.0" stroke-linejoin="round" stroke-linecap="round"/>
+<rect x="141.1" y="140.0" width="33.1" height="64.0" rx="8.0" fill="#f4f7fb" stroke="#243044" stroke-width="3.0" stroke-linejoin="round" stroke-linecap="round"/>
+<rect x="182.3" y="140.0" width="33.1" height="64.0" rx="8.0" fill="#f4f7fb" stroke="#243044" stroke-width="3.0" stroke-linejoin="round" stroke-linecap="round"/>
+<rect x="223.4" y="140.0" width="33.1" height="64.0" rx="8.0" fill="#f4f7fb" stroke="#243044" stroke-width="3.0" stroke-linejoin="round" stroke-linecap="round"/>
+<rect x="264.6" y="140.0" width="33.1" height="64.0" rx="8.0" fill="#e8f7f1" stroke="#2e9a5c" stroke-width="3.0" stroke-linejoin="round" stroke-linecap="round"/>
+<rect x="305.7" y="140.0" width="33.1" height="64.0" rx="8.0" fill="#f4f7fb" stroke="#243044" stroke-width="3.0" stroke-linejoin="round" stroke-linecap="round"/>
+<rect x="346.9" y="140.0" width="33.1" height="64.0" rx="8.0" fill="#f4f7fb" stroke="#243044" stroke-width="3.0" stroke-linejoin="round" stroke-linecap="round"/>
+<circle cx="470.0" cy="250.0" r="60.0" fill="none" stroke="#ef5b5b" stroke-width="8.0" stroke-linejoin="round" stroke-linecap="round"/>
+<polygon points="440.0,250.0 470.0,280.0 510.0,220.0" fill="none" stroke="#ef5b5b" stroke-width="6.0" stroke-linejoin="round" stroke-linecap="round"/>
+</svg>

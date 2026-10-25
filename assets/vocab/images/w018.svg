@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="480" viewBox="0 0 640 480" shape-rendering="geometricPrecision">
+<rect x="0.0" y="0.0" width="640.0" height="480.0" fill="#d7f0ff"/>
+<rect x="0.0" y="0.0" width="640.0" height="480.0" fill="#efe6d6"/>
+<ellipse cx="230.0" cy="300.0" rx="90.0" ry="46.0" fill="#6b4a32" stroke="#243044" stroke-width="4.0" stroke-linejoin="round" stroke-linecap="round"/>
+<ellipse cx="400.0" cy="300.0" rx="90.0" ry="46.0" fill="#6b4a32" stroke="#243044" stroke-width="4.0" stroke-linejoin="round" stroke-linecap="round"/>
+<ellipse cx="210.0" cy="270.0" rx="50.0" ry="24.0" fill="#8a5a3b" stroke="#243044" stroke-width="3.0" stroke-linejoin="round" stroke-linecap="round"/>
+<ellipse cx="380.0" cy="270.0" rx="50.0" ry="24.0" fill="#8a5a3b" stroke="#243044" stroke-width="3.0" stroke-linejoin="round" stroke-linecap="round"/>
+<circle cx="140.0" cy="180.0" r="8.0" fill="#6b4a32"/>
+<circle cx="180.0" cy="220.0" r="8.0" fill="#6b4a32"/>
+<circle cx="480.0" cy="170.0" r="8.0" fill="#6b4a32"/>
+<circle cx="500.0" cy="230.0" r="8.0" fill="#6b4a32"/>
+<circle cx="300.0" cy="150.0" r="8.0" fill="#6b4a32"/>
+</svg>

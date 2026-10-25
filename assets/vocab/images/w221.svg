@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="480" viewBox="0 0 640 480" shape-rendering="geometricPrecision">
+<rect x="0.0" y="0.0" width="640.0" height="480.0" fill="#d7f0ff"/>
+<rect x="0.0" y="0.0" width="640.0" height="480.0" fill="#f3f6fb"/>
+<rect x="0.0" y="340.0" width="640.0" height="140.0" fill="#e7d3b0"/>
+<rect x="0.0" y="340.0" width="640.0" height="6.0" fill="#d2b48c"/>
+<rect x="120.0" y="280.0" width="400.0" height="24.0" rx="6.0" fill="#8a5a3b"/>
+<path d="M300 260 L280 180 L400 180 L380 260 Z" fill="#c9854a" stroke="#243044" stroke-width="4.0" stroke-linejoin="round" stroke-linecap="round"/>
+<circle cx="351.2" cy="150.0" r="8.4" fill="#ff8fab" stroke="#243044" stroke-width="2.0" stroke-linejoin="round" stroke-linecap="round"/>
+<circle cx="345.6" cy="159.7" r="8.4" fill="#ff8fab" stroke="#243044" stroke-width="2.0" stroke-linejoin="round" stroke-linecap="round"/>
+<circle cx="334.4" cy="159.7" r="8.4" fill="#ff8fab" stroke="#243044" stroke-width="2.0" stroke-linejoin="round" stroke-linecap="round"/>
+<circle cx="328.8" cy="150.0" r="8.4" fill="#ff8fab" stroke="#243044" stroke-width="2.0" stroke-linejoin="round" stroke-linecap="round"/>
+<circle cx="334.4" cy="140.3" r="8.4" fill="#ff8fab" stroke="#243044" stroke-width="2.0" stroke-linejoin="round" stroke-linecap="round"/>
+<circle cx="345.6" cy="140.3" r="8.4" fill="#ff8fab" stroke="#243044" stroke-width="2.0" stroke-linejoin="round" stroke-linecap="round"/>
+<circle cx="340.0" cy="150.0" r="5.6" fill="#ffd34d" stroke="#243044" stroke-width="2.0" stroke-linejoin="round" stroke-linecap="round"/>
+<polyline points="340.0,159.8 340.0,194.8" fill="none" stroke="#2e9a5c" stroke-width="4.0" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M120 200 C180 140 240 180 290 190" fill="#f6c7a1" stroke="#243044" stroke-width="12.0" stroke-linejoin="round" stroke-linecap="round"/>
+</svg>

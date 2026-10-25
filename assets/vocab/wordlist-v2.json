@@ -1,0 +1,1556 @@
+[
+  {
+    "id": 1,
+    "english": "close",
+    "zh": "鄰近的",
+    "pos": "adj.",
+    "image_hint": "two houses near each other"
+  },
+  {
+    "id": 2,
+    "english": "milk",
+    "zh": "牛奶",
+    "pos": "n.",
+    "image_hint": "glass of milk"
+  },
+  {
+    "id": 3,
+    "english": "jam",
+    "zh": "果醬",
+    "pos": "n.",
+    "image_hint": "jar of jam"
+  },
+  {
+    "id": 4,
+    "english": "black",
+    "zh": "黑色的",
+    "pos": "adj.",
+    "image_hint": "black color swatch"
+  },
+  {
+    "id": 5,
+    "english": "popcorn",
+    "zh": "爆米花",
+    "pos": "n.",
+    "image_hint": "bowl of popcorn"
+  },
+  {
+    "id": 6,
+    "english": "clear",
+    "zh": "清楚的",
+    "pos": "adj.",
+    "image_hint": "clear glass of water"
+  },
+  {
+    "id": 7,
+    "english": "soda",
+    "zh": "汽水",
+    "pos": "n.",
+    "image_hint": "soda can"
+  },
+  {
+    "id": 8,
+    "english": "roof",
+    "zh": "屋頂",
+    "pos": "n.",
+    "image_hint": "house roof"
+  },
+  {
+    "id": 9,
+    "english": "weak",
+    "zh": "軟弱的",
+    "pos": "adj.",
+    "image_hint": "person giving up easily"
+  },
+  {
+    "id": 10,
+    "english": "light",
+    "zh": "輕的",
+    "pos": "adj.",
+    "image_hint": "feather floating"
+  },
+  {
+    "id": 11,
+    "english": "special",
+    "zh": "特別的",
+    "pos": "adj.",
+    "image_hint": "gift with bow"
+  },
+  {
+    "id": 12,
+    "english": "weak",
+    "zh": "虛弱的",
+    "pos": "adj.",
+    "image_hint": "frail sick person in bed"
+  },
+  {
+    "id": 13,
+    "english": "down",
+    "zh": "沮喪的",
+    "pos": "adj.",
+    "image_hint": "sad slumped shoulders"
+  },
+  {
+    "id": 14,
+    "english": "free",
+    "zh": "有空的",
+    "pos": "adj.",
+    "image_hint": "empty calendar slot"
+  },
+  {
+    "id": 15,
+    "english": "poor",
+    "zh": "貧乏的",
+    "pos": "adj.",
+    "image_hint": "scarce empty shelf"
+  },
+  {
+    "id": 16,
+    "english": "bright",
+    "zh": "明朗的",
+    "pos": "adj.",
+    "image_hint": "sunny sky"
+  },
+  {
+    "id": 17,
+    "english": "near",
+    "zh": "附近的",
+    "pos": "adj.",
+    "image_hint": "arrow pointing nearby"
+  },
+  {
+    "id": 18,
+    "english": "dirty",
+    "zh": "髒的",
+    "pos": "adj.",
+    "image_hint": "muddy shoes"
+  },
+  {
+    "id": 19,
+    "english": "dry",
+    "zh": "乾燥的",
+    "pos": "adj.",
+    "image_hint": "cracked dry earth"
+  },
+  {
+    "id": 20,
+    "english": "sharp",
+    "zh": "鮮明的",
+    "pos": "adj.",
+    "image_hint": "vivid colorful painting"
+  },
+  {
+    "id": 21,
+    "english": "poor",
+    "zh": "貧窮的",
+    "pos": "adj.",
+    "image_hint": "person with empty pockets"
+  },
+  {
+    "id": 22,
+    "english": "basic",
+    "zh": "基本的",
+    "pos": "adj.",
+    "image_hint": "simple ABC blocks"
+  },
+  {
+    "id": 23,
+    "english": "mean",
+    "zh": "刻薄的",
+    "pos": "adj.",
+    "image_hint": "angry frowning face"
+  },
+  {
+    "id": 24,
+    "english": "iron",
+    "zh": "熨斗",
+    "pos": "n.",
+    "image_hint": "clothes iron appliance"
+  },
+  {
+    "id": 25,
+    "english": "rice",
+    "zh": "米飯",
+    "pos": "n.",
+    "image_hint": "bowl of rice"
+  },
+  {
+    "id": 26,
+    "english": "bee",
+    "zh": "蜜蜂",
+    "pos": "n.",
+    "image_hint": "honeybee"
+  },
+  {
+    "id": 27,
+    "english": "church",
+    "zh": "教會",
+    "pos": "n.",
+    "image_hint": "church building"
+  },
+  {
+    "id": 28,
+    "english": "build",
+    "zh": "建造",
+    "pos": "v.",
+    "image_hint": "construction crane"
+  },
+  {
+    "id": 29,
+    "english": "continue",
+    "zh": "繼續",
+    "pos": "v.",
+    "image_hint": "arrow continuing forward"
+  },
+  {
+    "id": 30,
+    "english": "grow",
+    "zh": "生長",
+    "pos": "v.",
+    "image_hint": "seedling growing"
+  },
+  {
+    "id": 31,
+    "english": "know",
+    "zh": "知道",
+    "pos": "v.",
+    "image_hint": "person thinking with lightbulb"
+  },
+  {
+    "id": 32,
+    "english": "agree",
+    "zh": "贊成",
+    "pos": "v.",
+    "image_hint": "two people handshake"
+  },
+  {
+    "id": 33,
+    "english": "agree",
+    "zh": "相符",
+    "pos": "v.",
+    "image_hint": "matching puzzle pieces"
+  },
+  {
+    "id": 34,
+    "english": "old",
+    "zh": "老的",
+    "pos": "adj.",
+    "image_hint": "elderly person"
+  },
+  {
+    "id": 35,
+    "english": "pretty",
+    "zh": "漂亮的",
+    "pos": "adj.",
+    "image_hint": "flower bouquet"
+  },
+  {
+    "id": 36,
+    "english": "quick",
+    "zh": "快速的",
+    "pos": "adj.",
+    "image_hint": "running cheetah"
+  },
+  {
+    "id": 37,
+    "english": "kitten",
+    "zh": "小貓",
+    "pos": "n.",
+    "image_hint": "small kitten"
+  },
+  {
+    "id": 38,
+    "english": "lake",
+    "zh": "湖",
+    "pos": "n.",
+    "image_hint": "calm lake"
+  },
+  {
+    "id": 39,
+    "english": "river",
+    "zh": "河",
+    "pos": "n.",
+    "image_hint": "flowing river"
+  },
+  {
+    "id": 40,
+    "english": "receive",
+    "zh": "歡迎",
+    "pos": "v.",
+    "image_hint": "person welcoming at door"
+  },
+  {
+    "id": 41,
+    "english": "think",
+    "zh": "考慮",
+    "pos": "v.",
+    "image_hint": "person with thought bubble"
+  },
+  {
+    "id": 42,
+    "english": "big",
+    "zh": "大的",
+    "pos": "adj.",
+    "image_hint": "large elephant"
+  },
+  {
+    "id": 43,
+    "english": "big",
+    "zh": "重大的",
+    "pos": "adj.",
+    "image_hint": "important headline news"
+  },
+  {
+    "id": 44,
+    "english": "beautiful",
+    "zh": "極好的",
+    "pos": "adj.",
+    "image_hint": "scenic mountain view"
+  },
+  {
+    "id": 45,
+    "english": "read",
+    "zh": "讀",
+    "pos": "v.",
+    "image_hint": "person silently reading book"
+  },
+  {
+    "id": 46,
+    "english": "read",
+    "zh": "朗讀",
+    "pos": "v.",
+    "image_hint": "person reading aloud to audience"
+  },
+  {
+    "id": 47,
+    "english": "own",
+    "zh": "擁有",
+    "pos": "v.",
+    "image_hint": "person holding house keys"
+  },
+  {
+    "id": 48,
+    "english": "allow",
+    "zh": "准許",
+    "pos": "v.",
+    "image_hint": "green check permission sign"
+  },
+  {
+    "id": 49,
+    "english": "believe",
+    "zh": "相信",
+    "pos": "v.",
+    "image_hint": "person with faith gesture"
+  },
+  {
+    "id": 50,
+    "english": "appear",
+    "zh": "出現",
+    "pos": "v.",
+    "image_hint": "magician revealing object"
+  },
+  {
+    "id": 51,
+    "english": "careful",
+    "zh": "小心的",
+    "pos": "adj.",
+    "image_hint": "person handling fragile glass"
+  },
+  {
+    "id": 52,
+    "english": "careful",
+    "zh": "仔細的",
+    "pos": "adj.",
+    "image_hint": "person inspecting with magnifier"
+  },
+  {
+    "id": 53,
+    "english": "difficult",
+    "zh": "困難的",
+    "pos": "adj.",
+    "image_hint": "hard puzzle"
+  },
+  {
+    "id": 54,
+    "english": "blue",
+    "zh": "悲傷的、憂鬱的",
+    "pos": "adj.",
+    "image_hint": "sad blue rainy scene"
+  },
+  {
+    "id": 55,
+    "english": "down",
+    "zh": "情緒低落",
+    "pos": "adj.",
+    "image_hint": "person looking depressed"
+  },
+  {
+    "id": 56,
+    "english": "country",
+    "zh": "國家",
+    "pos": "n.",
+    "image_hint": "world flags map"
+  },
+  {
+    "id": 57,
+    "english": "country",
+    "zh": "鄉下",
+    "pos": "n.",
+    "image_hint": "rural countryside farm"
+  },
+  {
+    "id": 58,
+    "english": "driver",
+    "zh": "司機",
+    "pos": "v.",
+    "image_hint": "bus driver"
+  },
+  {
+    "id": 59,
+    "english": "point",
+    "zh": "瞄準",
+    "pos": "v.",
+    "image_hint": "person aiming"
+  },
+  {
+    "id": 60,
+    "english": "prove",
+    "zh": "證明",
+    "pos": "v.",
+    "image_hint": "checklist with proof stamp"
+  },
+  {
+    "id": 61,
+    "english": "mad",
+    "zh": "瘋狂的",
+    "pos": "adj.",
+    "image_hint": "crazy wild hair cartoon"
+  },
+  {
+    "id": 62,
+    "english": "mad",
+    "zh": "生氣的",
+    "pos": "adj.",
+    "image_hint": "angry red face"
+  },
+  {
+    "id": 63,
+    "english": "silly",
+    "zh": "愚蠢的",
+    "pos": "adj.",
+    "image_hint": "clown face"
+  },
+  {
+    "id": 64,
+    "english": "ham",
+    "zh": "火腿",
+    "pos": "n.",
+    "image_hint": "slice of ham"
+  },
+  {
+    "id": 65,
+    "english": "inch",
+    "zh": "英吋",
+    "pos": "n.",
+    "image_hint": "ruler showing one inch"
+  },
+  {
+    "id": 66,
+    "english": "bathe",
+    "zh": "浸泡",
+    "pos": "v.",
+    "image_hint": "person soaking in bath"
+  },
+  {
+    "id": 67,
+    "english": "dig",
+    "zh": "挖",
+    "pos": "v.",
+    "image_hint": "shovel digging"
+  },
+  {
+    "id": 68,
+    "english": "examine",
+    "zh": "檢查",
+    "pos": "v.",
+    "image_hint": "doctor with magnifying glass"
+  },
+  {
+    "id": 69,
+    "english": "hot",
+    "zh": "熱的",
+    "pos": "adj.",
+    "image_hint": "bright sun"
+  },
+  {
+    "id": 70,
+    "english": "back",
+    "zh": "支持",
+    "pos": "v.",
+    "image_hint": "person supporting friend"
+  },
+  {
+    "id": 71,
+    "english": "force",
+    "zh": "強迫",
+    "pos": "v.",
+    "image_hint": "pushing heavy door"
+  },
+  {
+    "id": 72,
+    "english": "welcome",
+    "zh": "受歡迎的",
+    "pos": "adj.",
+    "image_hint": "welcome mat"
+  },
+  {
+    "id": 73,
+    "english": "kind",
+    "zh": "親切的",
+    "pos": "adj.",
+    "image_hint": "person helping other"
+  },
+  {
+    "id": 74,
+    "english": "shark",
+    "zh": "鯊魚",
+    "pos": "n.",
+    "image_hint": "shark in ocean"
+  },
+  {
+    "id": 75,
+    "english": "sheep",
+    "zh": "綿羊",
+    "pos": "n.",
+    "image_hint": "fluffy sheep"
+  },
+  {
+    "id": 76,
+    "english": "tiger",
+    "zh": "老虎",
+    "pos": "n.",
+    "image_hint": "tiger"
+  },
+  {
+    "id": 77,
+    "english": "wife",
+    "zh": "妻子",
+    "pos": "n.",
+    "image_hint": "wedding couple"
+  },
+  {
+    "id": 78,
+    "english": "actor",
+    "zh": "演員",
+    "pos": "n.",
+    "image_hint": "actor on stage"
+  },
+  {
+    "id": 79,
+    "english": "actress",
+    "zh": "女演員",
+    "pos": "n.",
+    "image_hint": "actress on stage"
+  },
+  {
+    "id": 80,
+    "english": "park",
+    "zh": "停車",
+    "pos": "v.",
+    "image_hint": "parking sign P"
+  },
+  {
+    "id": 81,
+    "english": "blow",
+    "zh": "吹動",
+    "pos": "v.",
+    "image_hint": "wind blowing leaves"
+  },
+  {
+    "id": 82,
+    "english": "carry",
+    "zh": "搬",
+    "pos": "v.",
+    "image_hint": "person carrying box"
+  },
+  {
+    "id": 83,
+    "english": "nice",
+    "zh": "愉快的",
+    "pos": "adj.",
+    "image_hint": "smiling pleasant scene"
+  },
+  {
+    "id": 84,
+    "english": "tall",
+    "zh": "高的",
+    "pos": "adj.",
+    "image_hint": "tall skyscraper"
+  },
+  {
+    "id": 85,
+    "english": "wide",
+    "zh": "寬的",
+    "pos": "adj.",
+    "image_hint": "wide open road"
+  },
+  {
+    "id": 86,
+    "english": "banana",
+    "zh": "香蕉",
+    "pos": "n.",
+    "image_hint": "yellow banana"
+  },
+  {
+    "id": 87,
+    "english": "ant",
+    "zh": "螞蟻",
+    "pos": "n.",
+    "image_hint": "ant insect"
+  },
+  {
+    "id": 88,
+    "english": "bat",
+    "zh": "蝙蝠",
+    "pos": "n.",
+    "image_hint": "bat animal"
+  },
+  {
+    "id": 89,
+    "english": "fill",
+    "zh": "裝滿",
+    "pos": "v.",
+    "image_hint": "cup being filled"
+  },
+  {
+    "id": 90,
+    "english": "marry",
+    "zh": "結婚",
+    "pos": "v.",
+    "image_hint": "wedding rings"
+  },
+  {
+    "id": 91,
+    "english": "forget",
+    "zh": "忘記",
+    "pos": "v.",
+    "image_hint": "person forgetting with blank thought"
+  },
+  {
+    "id": 92,
+    "english": "remember",
+    "zh": "記住",
+    "pos": "v.",
+    "image_hint": "string on finger reminder"
+  },
+  {
+    "id": 93,
+    "english": "lucky",
+    "zh": "幸運的",
+    "pos": "adj.",
+    "image_hint": "four leaf clover"
+  },
+  {
+    "id": 94,
+    "english": "chicken",
+    "zh": "雞肉",
+    "pos": "n.",
+    "image_hint": "cooked chicken"
+  },
+  {
+    "id": 95,
+    "english": "pie",
+    "zh": "派",
+    "pos": "n.",
+    "image_hint": "fruit pie"
+  },
+  {
+    "id": 96,
+    "english": "say",
+    "zh": "說",
+    "pos": "v.",
+    "image_hint": "speech bubble"
+  },
+  {
+    "id": 97,
+    "english": "take",
+    "zh": "拿走",
+    "pos": "v.",
+    "image_hint": "hand taking object"
+  },
+  {
+    "id": 98,
+    "english": "add",
+    "zh": "加上",
+    "pos": "v.",
+    "image_hint": "plus sign adding numbers"
+  },
+  {
+    "id": 99,
+    "english": "add",
+    "zh": "增加",
+    "pos": "v.",
+    "image_hint": "growing bar chart"
+  },
+  {
+    "id": 100,
+    "english": "ask",
+    "zh": "詢問",
+    "pos": "v.",
+    "image_hint": "person asking a question"
+  },
+  {
+    "id": 101,
+    "english": "ask",
+    "zh": "請求",
+    "pos": "v.",
+    "image_hint": "person requesting help"
+  },
+  {
+    "id": 102,
+    "english": "book",
+    "zh": "預訂、預約",
+    "pos": "v.",
+    "image_hint": "calendar booking stamp"
+  },
+  {
+    "id": 103,
+    "english": "bring",
+    "zh": "帶來",
+    "pos": "v.",
+    "image_hint": "person bringing gift"
+  },
+  {
+    "id": 104,
+    "english": "check",
+    "zh": "核對",
+    "pos": "v.",
+    "image_hint": "checklist with checkmarks"
+  },
+  {
+    "id": 105,
+    "english": "do",
+    "zh": "做",
+    "pos": "v.",
+    "image_hint": "person doing chores"
+  },
+  {
+    "id": 106,
+    "english": "ready",
+    "zh": "準備好的",
+    "pos": "adj.",
+    "image_hint": "ready set go starting line"
+  },
+  {
+    "id": 107,
+    "english": "selfish",
+    "zh": "自私的",
+    "pos": "adj.",
+    "image_hint": "person hogging toys"
+  },
+  {
+    "id": 108,
+    "english": "stupid",
+    "zh": "愚蠢的",
+    "pos": "adj.",
+    "image_hint": "confused dunce cap"
+  },
+  {
+    "id": 109,
+    "english": "policeman",
+    "zh": "男員警",
+    "pos": "n.",
+    "image_hint": "policeman in uniform"
+  },
+  {
+    "id": 110,
+    "english": "mind",
+    "zh": "注意",
+    "pos": "v.",
+    "image_hint": "attention warning sign"
+  },
+  {
+    "id": 111,
+    "english": "miss",
+    "zh": "錯過",
+    "pos": "v.",
+    "image_hint": "missed bus departing"
+  },
+  {
+    "id": 112,
+    "english": "rub",
+    "zh": "摩擦",
+    "pos": "v.",
+    "image_hint": "hands rubbing"
+  },
+  {
+    "id": 113,
+    "english": "dead",
+    "zh": "死亡的",
+    "pos": "adj.",
+    "image_hint": "wilted flower"
+  },
+  {
+    "id": 114,
+    "english": "fine",
+    "zh": "好的",
+    "pos": "adj.",
+    "image_hint": "thumbs up ok"
+  },
+  {
+    "id": 115,
+    "english": "fine",
+    "zh": "夠好的",
+    "pos": "adj.",
+    "image_hint": "good enough thumbs up"
+  },
+  {
+    "id": 116,
+    "english": "huge",
+    "zh": "巨大的",
+    "pos": "adj.",
+    "image_hint": "giant whale"
+  },
+  {
+    "id": 117,
+    "english": "important",
+    "zh": "重要的",
+    "pos": "adj.",
+    "image_hint": "exclamation priority star"
+  },
+  {
+    "id": 118,
+    "english": "season",
+    "zh": "季節",
+    "pos": "n.",
+    "image_hint": "four seasons tree"
+  },
+  {
+    "id": 119,
+    "english": "story",
+    "zh": "故事",
+    "pos": "n.",
+    "image_hint": "open storybook"
+  },
+  {
+    "id": 120,
+    "english": "wear",
+    "zh": "穿戴",
+    "pos": "v.",
+    "image_hint": "person wearing coat"
+  },
+  {
+    "id": 121,
+    "english": "lay",
+    "zh": "放置",
+    "pos": "v.",
+    "image_hint": "laying object on table"
+  },
+  {
+    "id": 122,
+    "english": "lie",
+    "zh": "躺下、平躺",
+    "pos": "v.",
+    "image_hint": "person lying down"
+  },
+  {
+    "id": 123,
+    "english": "become",
+    "zh": "成為",
+    "pos": "v.",
+    "image_hint": "caterpillar to butterfly"
+  },
+  {
+    "id": 124,
+    "english": "become",
+    "zh": "變得",
+    "pos": "v.",
+    "image_hint": "mood changing weather"
+  },
+  {
+    "id": 125,
+    "english": "best",
+    "zh": "打敗、戰勝",
+    "pos": "v.",
+    "image_hint": "trophy winner"
+  },
+  {
+    "id": 126,
+    "english": "sharp",
+    "zh": "銳利的",
+    "pos": "adj.",
+    "image_hint": "sharp knife edge"
+  },
+  {
+    "id": 127,
+    "english": "round",
+    "zh": "圓形的",
+    "pos": "adj.",
+    "image_hint": "round ball"
+  },
+  {
+    "id": 128,
+    "english": "yummy",
+    "zh": "美味的",
+    "pos": "adj.",
+    "image_hint": "delicious cake"
+  },
+  {
+    "id": 129,
+    "english": "able",
+    "zh": "能夠的",
+    "pos": "adj.",
+    "image_hint": "person capable lifting"
+  },
+  {
+    "id": 130,
+    "english": "give",
+    "zh": "送給",
+    "pos": "v.",
+    "image_hint": "hand giving a gift"
+  },
+  {
+    "id": 131,
+    "english": "give",
+    "zh": "提供",
+    "pos": "v.",
+    "image_hint": "person providing service"
+  },
+  {
+    "id": 132,
+    "english": "mother",
+    "zh": "溺愛",
+    "pos": "v.",
+    "image_hint": "parent cuddling child"
+  },
+  {
+    "id": 133,
+    "english": "funny",
+    "zh": "好笑的",
+    "pos": "adj.",
+    "image_hint": "laughing emoji face"
+  },
+  {
+    "id": 134,
+    "english": "soft",
+    "zh": "軟的",
+    "pos": "adj.",
+    "image_hint": "soft pillow"
+  },
+  {
+    "id": 135,
+    "english": "writer",
+    "zh": "作家",
+    "pos": "n.",
+    "image_hint": "person writing at desk"
+  },
+  {
+    "id": 136,
+    "english": "zoo",
+    "zh": "動物園",
+    "pos": "n.",
+    "image_hint": "zoo entrance"
+  },
+  {
+    "id": 137,
+    "english": "town",
+    "zh": "城鎮",
+    "pos": "n.",
+    "image_hint": "small town street"
+  },
+  {
+    "id": 138,
+    "english": "bug",
+    "zh": "煩擾",
+    "pos": "v.",
+    "image_hint": "annoying insect"
+  },
+  {
+    "id": 139,
+    "english": "climb",
+    "zh": "上升、上漲",
+    "pos": "v.",
+    "image_hint": "rising stock chart"
+  },
+  {
+    "id": 140,
+    "english": "die",
+    "zh": "死去、死亡",
+    "pos": "v.",
+    "image_hint": "wilted plant"
+  },
+  {
+    "id": 141,
+    "english": "tiny",
+    "zh": "微小的",
+    "pos": "adj.",
+    "image_hint": "tiny ant next to coin"
+  },
+  {
+    "id": 142,
+    "english": "useful",
+    "zh": "有用的",
+    "pos": "adj.",
+    "image_hint": "swiss army knife"
+  },
+  {
+    "id": 143,
+    "english": "shy",
+    "zh": "害羞的",
+    "pos": "adj.",
+    "image_hint": "bashful child hiding"
+  },
+  {
+    "id": 144,
+    "english": "smart",
+    "zh": "聰明的",
+    "pos": "adj.",
+    "image_hint": "graduation cap"
+  },
+  {
+    "id": 145,
+    "english": "strange",
+    "zh": "奇怪的",
+    "pos": "adj.",
+    "image_hint": "odd mysterious door"
+  },
+  {
+    "id": 146,
+    "english": "week",
+    "zh": "星期",
+    "pos": "n.",
+    "image_hint": "calendar week"
+  },
+  {
+    "id": 147,
+    "english": "weekend",
+    "zh": "週末",
+    "pos": "n.",
+    "image_hint": "saturday sunday calendar"
+  },
+  {
+    "id": 148,
+    "english": "year",
+    "zh": "年",
+    "pos": "n.",
+    "image_hint": "calendar year"
+  },
+  {
+    "id": 149,
+    "english": "pond",
+    "zh": "池塘",
+    "pos": "n.",
+    "image_hint": "small pond"
+  },
+  {
+    "id": 150,
+    "english": "pool",
+    "zh": "水池",
+    "pos": "n.",
+    "image_hint": "swimming pool"
+  },
+  {
+    "id": 151,
+    "english": "problem",
+    "zh": "問題",
+    "pos": "n.",
+    "image_hint": "tangled knot puzzle"
+  },
+  {
+    "id": 152,
+    "english": "age",
+    "zh": "衰老",
+    "pos": "v.",
+    "image_hint": "aging rings on tree"
+  },
+  {
+    "id": 153,
+    "english": "appear",
+    "zh": "看來好像、似乎",
+    "pos": "v.",
+    "image_hint": "optical illusion mirage"
+  },
+  {
+    "id": 154,
+    "english": "happen",
+    "zh": "發生",
+    "pos": "v.",
+    "image_hint": "sudden event burst"
+  },
+  {
+    "id": 155,
+    "english": "shut",
+    "zh": "關上",
+    "pos": "v.",
+    "image_hint": "closed door"
+  },
+  {
+    "id": 156,
+    "english": "store",
+    "zh": "貯藏",
+    "pos": "v.",
+    "image_hint": "storage shelves"
+  },
+  {
+    "id": 157,
+    "english": "certain",
+    "zh": "確定的",
+    "pos": "adj.",
+    "image_hint": "confident checkmark"
+  },
+  {
+    "id": 158,
+    "english": "common",
+    "zh": "共同的",
+    "pos": "adj.",
+    "image_hint": "shared overlapping circles"
+  },
+  {
+    "id": 159,
+    "english": "final",
+    "zh": "最後的",
+    "pos": "adj.",
+    "image_hint": "finish line flag"
+  },
+  {
+    "id": 160,
+    "english": "key",
+    "zh": "重要的",
+    "pos": "adj.",
+    "image_hint": "important key icon"
+  },
+  {
+    "id": 161,
+    "english": "sure",
+    "zh": "確定的",
+    "pos": "adj.",
+    "image_hint": "nodding confident person"
+  },
+  {
+    "id": 162,
+    "english": "tool",
+    "zh": "工具",
+    "pos": "n.",
+    "image_hint": "hammer wrench"
+  },
+  {
+    "id": 163,
+    "english": "unit",
+    "zh": "單位",
+    "pos": "n.",
+    "image_hint": "measuring unit blocks"
+  },
+  {
+    "id": 164,
+    "english": "voice",
+    "zh": "說話聲",
+    "pos": "n.",
+    "image_hint": "sound waves from mouth"
+  },
+  {
+    "id": 165,
+    "english": "action",
+    "zh": "動作",
+    "pos": "n.",
+    "image_hint": "running action pose"
+  },
+  {
+    "id": 166,
+    "english": "tie",
+    "zh": "捆",
+    "pos": "v.",
+    "image_hint": "rope tied knot"
+  },
+  {
+    "id": 167,
+    "english": "better",
+    "zh": "改善、改進",
+    "pos": "v.",
+    "image_hint": "improvement upward arrow"
+  },
+  {
+    "id": 168,
+    "english": "clear",
+    "zh": "清除",
+    "pos": "v.",
+    "image_hint": "broom clearing mess"
+  },
+  {
+    "id": 169,
+    "english": "bad",
+    "zh": "不好的",
+    "pos": "adj.",
+    "image_hint": "thumbs down"
+  },
+  {
+    "id": 170,
+    "english": "different",
+    "zh": "不同的",
+    "pos": "adj.",
+    "image_hint": "two distinct shapes"
+  },
+  {
+    "id": 171,
+    "english": "monday",
+    "zh": "星期一",
+    "pos": "n.",
+    "image_hint": "Monday calendar"
+  },
+  {
+    "id": 172,
+    "english": "tuesday",
+    "zh": "星期二",
+    "pos": "n.",
+    "image_hint": "Tuesday calendar"
+  },
+  {
+    "id": 173,
+    "english": "wednesday",
+    "zh": "星期三",
+    "pos": "n.",
+    "image_hint": "Wednesday calendar"
+  },
+  {
+    "id": 174,
+    "english": "thursday",
+    "zh": "星期四",
+    "pos": "n.",
+    "image_hint": "Thursday calendar"
+  },
+  {
+    "id": 175,
+    "english": "friday",
+    "zh": "星期五",
+    "pos": "n.",
+    "image_hint": "Friday calendar"
+  },
+  {
+    "id": 176,
+    "english": "saturday",
+    "zh": "星期六",
+    "pos": "n.",
+    "image_hint": "Saturday calendar"
+  },
+  {
+    "id": 177,
+    "english": "sunday",
+    "zh": "星期日",
+    "pos": "n.",
+    "image_hint": "Sunday calendar"
+  },
+  {
+    "id": 178,
+    "english": "month",
+    "zh": "月",
+    "pos": "n.",
+    "image_hint": "monthly calendar"
+  },
+  {
+    "id": 179,
+    "english": "january",
+    "zh": "一月",
+    "pos": "n.",
+    "image_hint": "January snow"
+  },
+  {
+    "id": 180,
+    "english": "february",
+    "zh": "二月",
+    "pos": "n.",
+    "image_hint": "February heart"
+  },
+  {
+    "id": 181,
+    "english": "march",
+    "zh": "三月",
+    "pos": "n.",
+    "image_hint": "March wind"
+  },
+  {
+    "id": 182,
+    "english": "april",
+    "zh": "四月",
+    "pos": "n.",
+    "image_hint": "April rain"
+  },
+  {
+    "id": 183,
+    "english": "may",
+    "zh": "五月",
+    "pos": "n.",
+    "image_hint": "May flowers"
+  },
+  {
+    "id": 184,
+    "english": "june",
+    "zh": "六月",
+    "pos": "n.",
+    "image_hint": "June sun"
+  },
+  {
+    "id": 185,
+    "english": "july",
+    "zh": "七月",
+    "pos": "n.",
+    "image_hint": "July fireworks"
+  },
+  {
+    "id": 186,
+    "english": "august",
+    "zh": "八月",
+    "pos": "n.",
+    "image_hint": "August beach"
+  },
+  {
+    "id": 187,
+    "english": "september",
+    "zh": "九月",
+    "pos": "n.",
+    "image_hint": "September leaves"
+  },
+  {
+    "id": 188,
+    "english": "october",
+    "zh": "十月",
+    "pos": "n.",
+    "image_hint": "October pumpkin"
+  },
+  {
+    "id": 189,
+    "english": "november",
+    "zh": "十一月",
+    "pos": "n.",
+    "image_hint": "November turkey"
+  },
+  {
+    "id": 190,
+    "english": "december",
+    "zh": "十二月",
+    "pos": "n.",
+    "image_hint": "December tree"
+  },
+  {
+    "id": 191,
+    "english": "iron",
+    "zh": "燙",
+    "pos": "v.",
+    "image_hint": "ironing a shirt"
+  },
+  {
+    "id": 192,
+    "english": "join",
+    "zh": "參加",
+    "pos": "v.",
+    "image_hint": "people joining group"
+  },
+  {
+    "id": 193,
+    "english": "make",
+    "zh": "製作",
+    "pos": "v.",
+    "image_hint": "hands making craft"
+  },
+  {
+    "id": 194,
+    "english": "plant",
+    "zh": "種植",
+    "pos": "v.",
+    "image_hint": "planting seedling"
+  },
+  {
+    "id": 195,
+    "english": "reach",
+    "zh": "到達",
+    "pos": "v.",
+    "image_hint": "hand reaching destination"
+  },
+  {
+    "id": 196,
+    "english": "sad",
+    "zh": "傷心的",
+    "pos": "adj.",
+    "image_hint": "crying face"
+  },
+  {
+    "id": 197,
+    "english": "strong",
+    "zh": "強勁的",
+    "pos": "adj.",
+    "image_hint": "flexing arm"
+  },
+  {
+    "id": 198,
+    "english": "sorry",
+    "zh": "抱歉的",
+    "pos": "adj.",
+    "image_hint": "apology bow"
+  },
+  {
+    "id": 199,
+    "english": "short",
+    "zh": "矮的",
+    "pos": "adj.",
+    "image_hint": "short person next to tall"
+  },
+  {
+    "id": 200,
+    "english": "short",
+    "zh": "缺乏的",
+    "pos": "adj.",
+    "image_hint": "empty fuel gauge"
+  },
+  {
+    "id": 201,
+    "english": "eagle",
+    "zh": "老鷹",
+    "pos": "n.",
+    "image_hint": "eagle bird"
+  },
+  {
+    "id": 202,
+    "english": "fact",
+    "zh": "事實",
+    "pos": "n.",
+    "image_hint": "document with facts"
+  },
+  {
+    "id": 203,
+    "english": "farmer",
+    "zh": "農夫",
+    "pos": "n.",
+    "image_hint": "farmer with pitchfork"
+  },
+  {
+    "id": 204,
+    "english": "save",
+    "zh": "節省",
+    "pos": "v.",
+    "image_hint": "piggy bank saving"
+  },
+  {
+    "id": 205,
+    "english": "send",
+    "zh": "發送",
+    "pos": "v.",
+    "image_hint": "envelope being sent"
+  },
+  {
+    "id": 206,
+    "english": "teach",
+    "zh": "教導",
+    "pos": "v.",
+    "image_hint": "teacher at blackboard"
+  },
+  {
+    "id": 207,
+    "english": "understand",
+    "zh": "理解",
+    "pos": "v.",
+    "image_hint": "lightbulb understanding"
+  },
+  {
+    "id": 208,
+    "english": "let",
+    "zh": "讓",
+    "pos": "v.",
+    "image_hint": "open gate allowing through"
+  },
+  {
+    "id": 209,
+    "english": "hear",
+    "zh": "聽見",
+    "pos": "v.",
+    "image_hint": "ear listening"
+  },
+  {
+    "id": 210,
+    "english": "new",
+    "zh": "新的",
+    "pos": "adj.",
+    "image_hint": "new shiny label"
+  },
+  {
+    "id": 211,
+    "english": "left",
+    "zh": "左邊的、左側的",
+    "pos": "adj.",
+    "image_hint": "left arrow direction"
+  },
+  {
+    "id": 212,
+    "english": "foreign",
+    "zh": "外國的",
+    "pos": "adj.",
+    "image_hint": "passport stamps"
+  },
+  {
+    "id": 213,
+    "english": "ice",
+    "zh": "冰",
+    "pos": "n.",
+    "image_hint": "ice cube"
+  },
+  {
+    "id": 214,
+    "english": "shop",
+    "zh": "買、購物",
+    "pos": "v.",
+    "image_hint": "shopping cart"
+  },
+  {
+    "id": 215,
+    "english": "see",
+    "zh": "看、明白",
+    "pos": "v.",
+    "image_hint": "eye looking"
+  },
+  {
+    "id": 216,
+    "english": "free",
+    "zh": "免費的",
+    "pos": "adj.",
+    "image_hint": "free price tag zero"
+  },
+  {
+    "id": 217,
+    "english": "level",
+    "zh": "水平的",
+    "pos": "adj.",
+    "image_hint": "spirit level tool"
+  },
+  {
+    "id": 218,
+    "english": "kid",
+    "zh": "小孩",
+    "pos": "n.",
+    "image_hint": "child playing"
+  },
+  {
+    "id": 219,
+    "english": "leader",
+    "zh": "領導者",
+    "pos": "n.",
+    "image_hint": "leader guiding group"
+  },
+  {
+    "id": 220,
+    "english": "level",
+    "zh": "水準",
+    "pos": "n.",
+    "image_hint": "quality meter gauge"
+  },
+  {
+    "id": 221,
+    "english": "set",
+    "zh": "放",
+    "pos": "v.",
+    "image_hint": "setting flower pot down"
+  },
+  {
+    "id": 222,
+    "english": "spell",
+    "zh": "拼寫",
+    "pos": "v.",
+    "image_hint": "alphabet letters spelling"
+  }
+]

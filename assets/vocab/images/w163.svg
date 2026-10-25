@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="480" viewBox="0 0 640 480" shape-rendering="geometricPrecision">
+<rect x="0.0" y="0.0" width="640.0" height="480.0" fill="#d7f0ff"/>
+<rect x="0.0" y="0.0" width="640.0" height="480.0" fill="#f7fbff"/>
+<rect x="80.0" y="180.0" width="100.0" height="100.0" rx="10.0" fill="#4c8dff" stroke="#243044" stroke-width="4.0" stroke-linejoin="round" stroke-linecap="round"/>
+<rect x="210.0" y="180.0" width="100.0" height="100.0" rx="10.0" fill="#3cb371" stroke="#243044" stroke-width="4.0" stroke-linejoin="round" stroke-linecap="round"/>
+<rect x="340.0" y="180.0" width="100.0" height="100.0" rx="10.0" fill="#f5a524" stroke="#243044" stroke-width="4.0" stroke-linejoin="round" stroke-linecap="round"/>
+<rect x="470.0" y="180.0" width="100.0" height="100.0" rx="10.0" fill="#7d5cc7" stroke="#243044" stroke-width="4.0" stroke-linejoin="round" stroke-linecap="round"/>
+<polyline points="80.0,150.0 180.0,150.0" fill="none" stroke="#ef5b5b" stroke-width="5.0" stroke-linecap="round" stroke-linejoin="round"/>
+<polyline points="80.0,140.0 80.0,160.0" fill="none" stroke="#ef5b5b" stroke-width="4.0" stroke-linecap="round" stroke-linejoin="round"/>
+<polyline points="180.0,140.0 180.0,160.0" fill="none" stroke="#ef5b5b" stroke-width="4.0" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="130.0" y="90.0" dy="0.35em" text-anchor="middle" font-family='Verdana, sans-serif' font-size="32.0" font-weight="700" fill="#ef5b5b">1</text>
+</svg>
