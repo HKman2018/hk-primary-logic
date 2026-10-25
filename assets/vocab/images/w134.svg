@@ -1,7 +1,14 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="640" height="480" viewBox="0 0 640 480" shape-rendering="geometricPrecision">
 <rect x="0.0" y="0.0" width="640.0" height="480.0" fill="#d7f0ff"/>
-<rect x="0.0" y="0.0" width="640.0" height="480.0" fill="#f7f3ff"/>
-<ellipse cx="320.0" cy="260.0" rx="180.0" ry="90.0" fill="#d7c4f5" stroke="#243044" stroke-width="5.0" stroke-linejoin="round" stroke-linecap="round"/>
-<ellipse cx="300.0" cy="240.0" rx="40.0" ry="16.0" fill="rgba(255,255,255,0.7)"/>
-<path d="M160 180 C200 140 240 200 200 230" fill="#f6c7a1" stroke="#243044" stroke-width="12.0" stroke-linejoin="round" stroke-linecap="round"/>
+<rect x="0.0" y="0.0" width="640.0" height="480.0" fill="#f4f0ff"/>
+<ellipse cx="320.0" cy="280.0" rx="220.0" ry="120.0" fill="#d4c2f2" stroke="#243044" stroke-width="6.0" stroke-linejoin="round" stroke-linecap="round"/>
+<ellipse cx="250.0" cy="250.0" rx="70.0" ry="40.0" fill="#c3a8ea" stroke="#243044" stroke-width="4.0" stroke-linejoin="round" stroke-linecap="round"/>
+<ellipse cx="390.0" cy="260.0" rx="60.0" ry="34.0" fill="#c3a8ea" stroke="#243044" stroke-width="4.0" stroke-linejoin="round" stroke-linecap="round"/>
+<ellipse cx="280.0" cy="245.0" rx="50.0" ry="18.0" fill="rgba(255,255,255,0.75)"/>
+<path d="M100 190 C170 110 250 200 200 260" fill="#f6c7a1" stroke="#243044" stroke-width="16.0" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M140 230 Q200 290 250 250" fill="none" stroke="#243044" stroke-width="5.0" stroke-linejoin="round" stroke-linecap="round"/>
+<polyline points="112.0,120.0 128.0,120.0" fill="none" stroke="#ffd34d" stroke-width="3.0" stroke-linecap="round" stroke-linejoin="round"/>
+<polyline points="120.0,112.0 120.0,128.0" fill="none" stroke="#ffd34d" stroke-width="3.0" stroke-linecap="round" stroke-linejoin="round"/>
+<polyline points="510.0,140.0 530.0,140.0" fill="none" stroke="#ffd34d" stroke-width="3.0" stroke-linecap="round" stroke-linejoin="round"/>
+<polyline points="520.0,130.0 520.0,150.0" fill="none" stroke="#ffd34d" stroke-width="3.0" stroke-linecap="round" stroke-linejoin="round"/>
 </svg>

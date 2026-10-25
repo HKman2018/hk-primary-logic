@@ -30,7 +30,7 @@
             </span>
             <span class="mode-card-copy">
               <strong>看圖學英文單字</strong>
-              <span>睇圖，打出英文單字</span>
+              <span>睇意思，打出英文單字</span>
             </span>
           </span>
           <span class="vocab-pill">開始 →</span>
@@ -70,7 +70,7 @@
       </div>
       <div class="card vocab-mode-card">
         <h2>看圖學英文單字</h2>
-        <p>會見到一張圖，請打出對應嘅英文單字。答完即時睇結果。</p>
+        <p>會見到繁中意思，請打出對應嘅英文單字。答完即時睇結果。</p>
         <p id="vocab-mode-count" class="vocab-mode-count"></p>
         <button type="button" id="btn-vocab-start" class="primary vocab-primary">開始練習</button>
       </div>
@@ -82,23 +82,10 @@
         <span class="vocab-title">看圖學英文</span>
         <span id="vocab-progress"></span>
       </div>
-      <div id="vocab-image-wrap" class="card vocab-figure is-loading">
-        <div id="vocab-image-loading" class="vocab-status">
-          <span class="vocab-skeleton" aria-hidden="true"></span>
-          <p>圖片載入中…</p>
-        </div>
-        <div id="vocab-image-error" class="vocab-status hidden">
-          <span class="vocab-status-badge" aria-hidden="true">
-            <svg viewBox="0 0 24 24" width="28" height="28" fill="none">
-              <rect x="3.5" y="5" width="17" height="14" rx="2.5" stroke="currentColor" stroke-width="1.7" />
-              <path d="M9 10l6 6M15 10l-6 6" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" />
-            </svg>
-          </span>
-          <p>圖片載入唔到</p>
-        </div>
-        <img id="vocab-image" alt="睇圖學英文題目圖" width="640" height="480" />
-      </div>
-      <label for="vocab-input" class="vocab-prompt">請打出圖中事物嘅英文：</label>
+      <p id="vocab-zh-cue" class="is-primary">
+        <span class="vocab-zh-prefix">意思：</span><span id="vocab-zh-text"></span>
+      </p>
+      <label id="vocab-prompt" for="vocab-input" class="vocab-prompt">請打出對應嘅英文：</label>
       <div class="vocab-answer">
         <input id="vocab-input" type="text" lang="en" autocomplete="off" autocapitalize="off" autocorrect="off" spellcheck="false" enterkeyhint="done" placeholder="例如 apple" disabled />
         <button type="button" id="btn-vocab-submit" class="primary vocab-primary" disabled>提交答案</button>

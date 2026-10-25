@@ -1,32 +1,31 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="640" height="480" viewBox="0 0 640 480" shape-rendering="geometricPrecision">
 <rect x="0.0" y="0.0" width="640.0" height="480.0" fill="#d7f0ff"/>
 <rect x="0.0" y="0.0" width="640.0" height="480.0" fill="#f4f8fc"/>
-<rect x="70.0" y="28.0" width="500.0" height="424.0" rx="16.0" fill="#ffffff" stroke="#243044" stroke-width="4.0" stroke-linejoin="round" stroke-linecap="round"/>
-<rect x="70.0" y="28.0" width="500.0" height="48.0" fill="#ef5b5b"/>
-<rect x="70.0" y="28.0" width="500.0" height="48.0" rx="16.0" fill="#ef5b5b"/>
-<rect x="70.0" y="52.0" width="500.0" height="24.0" fill="#ef5b5b"/>
-<circle cx="106.0" cy="36.0" r="8.0" fill="#ffffff"/>
-<circle cx="534.0" cy="36.0" r="8.0" fill="#ffffff"/>
-<rect x="92.0" y="96.0" width="58.3" height="64.0" rx="8.0" fill="#f4f7fb" stroke="#243044" stroke-width="3.0" stroke-linejoin="round" stroke-linecap="round"/>
-<text x="121.1" y="126.0" dy="0.35em" text-anchor="middle" font-family='"PingFang TC","Microsoft JhengHei","Noto Sans CJK TC","WenQuanYi Micro Hei",sans-serif' font-size="22.0" font-weight="700" fill="#243044">一</text>
-<rect x="158.3" y="96.0" width="58.3" height="64.0" rx="8.0" fill="#f4f7fb" stroke="#243044" stroke-width="3.0" stroke-linejoin="round" stroke-linecap="round"/>
-<text x="187.4" y="126.0" dy="0.35em" text-anchor="middle" font-family='"PingFang TC","Microsoft JhengHei","Noto Sans CJK TC","WenQuanYi Micro Hei",sans-serif' font-size="22.0" font-weight="700" fill="#243044">二</text>
-<rect x="224.6" y="96.0" width="58.3" height="64.0" rx="8.0" fill="#e8f7f1" stroke="#2e9a5c" stroke-width="3.0" stroke-linejoin="round" stroke-linecap="round"/>
-<text x="253.7" y="126.0" dy="0.35em" text-anchor="middle" font-family='"PingFang TC","Microsoft JhengHei","Noto Sans CJK TC","WenQuanYi Micro Hei",sans-serif' font-size="22.0" font-weight="700" fill="#243044">三</text>
-<rect x="290.9" y="96.0" width="58.3" height="64.0" rx="8.0" fill="#f4f7fb" stroke="#243044" stroke-width="3.0" stroke-linejoin="round" stroke-linecap="round"/>
-<text x="320.0" y="126.0" dy="0.35em" text-anchor="middle" font-family='"PingFang TC","Microsoft JhengHei","Noto Sans CJK TC","WenQuanYi Micro Hei",sans-serif' font-size="22.0" font-weight="700" fill="#243044">四</text>
-<rect x="357.1" y="96.0" width="58.3" height="64.0" rx="8.0" fill="#f4f7fb" stroke="#243044" stroke-width="3.0" stroke-linejoin="round" stroke-linecap="round"/>
-<text x="386.3" y="126.0" dy="0.35em" text-anchor="middle" font-family='"PingFang TC","Microsoft JhengHei","Noto Sans CJK TC","WenQuanYi Micro Hei",sans-serif' font-size="22.0" font-weight="700" fill="#243044">五</text>
-<rect x="423.4" y="96.0" width="58.3" height="64.0" rx="8.0" fill="#f4f7fb" stroke="#243044" stroke-width="3.0" stroke-linejoin="round" stroke-linecap="round"/>
-<text x="452.6" y="126.0" dy="0.35em" text-anchor="middle" font-family='"PingFang TC","Microsoft JhengHei","Noto Sans CJK TC","WenQuanYi Micro Hei",sans-serif' font-size="22.0" font-weight="700" fill="#243044">六</text>
-<rect x="489.7" y="96.0" width="58.3" height="64.0" rx="8.0" fill="#f4f7fb" stroke="#243044" stroke-width="3.0" stroke-linejoin="round" stroke-linecap="round"/>
-<text x="518.9" y="126.0" dy="0.35em" text-anchor="middle" font-family='"PingFang TC","Microsoft JhengHei","Noto Sans CJK TC","WenQuanYi Micro Hei",sans-serif' font-size="22.0" font-weight="700" fill="#243044">日</text>
-<text x="320.0" y="250.0" dy="0.35em" text-anchor="middle" font-family='"PingFang TC","Microsoft JhengHei","Noto Sans CJK TC","WenQuanYi Micro Hei",sans-serif' font-size="54.0" font-weight="700" fill="#2f6fe0">星期三</text>
-<ellipse cx="320.0" cy="360.0" rx="70.2" ry="52.0" fill="#ffffff" stroke="#243044" stroke-width="4.0" stroke-linejoin="round" stroke-linecap="round"/>
-<circle cx="333.0" cy="370.4" r="15.6" fill="#f3f6fb" stroke="#243044" stroke-width="3.0" stroke-linejoin="round" stroke-linecap="round"/>
-<circle cx="273.2" cy="344.4" r="10.4" fill="#ef5b5b" stroke="#243044" stroke-width="2.0" stroke-linejoin="round" stroke-linecap="round"/>
-<circle cx="296.6" cy="344.4" r="10.4" fill="#ffd34d" stroke="#243044" stroke-width="2.0" stroke-linejoin="round" stroke-linecap="round"/>
-<circle cx="320.0" cy="344.4" r="10.4" fill="#4c8dff" stroke="#243044" stroke-width="2.0" stroke-linejoin="round" stroke-linecap="round"/>
-<circle cx="343.4" cy="344.4" r="10.4" fill="#3cb371" stroke="#243044" stroke-width="2.0" stroke-linejoin="round" stroke-linecap="round"/>
-<circle cx="366.8" cy="344.4" r="10.4" fill="#f5a524" stroke="#243044" stroke-width="2.0" stroke-linejoin="round" stroke-linecap="round"/>
+<rect x="70.0" y="36.0" width="500.0" height="200.0" rx="16.0" fill="#ffffff" stroke="#243044" stroke-width="4.0" stroke-linejoin="round" stroke-linecap="round"/>
+<rect x="70.0" y="36.0" width="500.0" height="48.0" fill="#ef5b5b"/>
+<rect x="70.0" y="36.0" width="500.0" height="48.0" rx="16.0" fill="#ef5b5b"/>
+<rect x="70.0" y="60.0" width="500.0" height="24.0" fill="#ef5b5b"/>
+<circle cx="106.0" cy="44.0" r="8.0" fill="#ffffff"/>
+<circle cx="534.0" cy="44.0" r="8.0" fill="#ffffff"/>
+<rect x="92.0" y="108.0" width="58.3" height="64.0" rx="8.0" fill="#f4f7fb" stroke="#243044" stroke-width="3.0" stroke-linejoin="round" stroke-linecap="round"/>
+<text x="121.1" y="138.0" dy="0.35em" text-anchor="middle" font-family='"PingFang TC","Microsoft JhengHei","Noto Sans CJK TC","WenQuanYi Micro Hei",sans-serif' font-size="22.0" font-weight="700" fill="#243044">一</text>
+<rect x="158.3" y="108.0" width="58.3" height="64.0" rx="8.0" fill="#f4f7fb" stroke="#243044" stroke-width="3.0" stroke-linejoin="round" stroke-linecap="round"/>
+<text x="187.4" y="138.0" dy="0.35em" text-anchor="middle" font-family='"PingFang TC","Microsoft JhengHei","Noto Sans CJK TC","WenQuanYi Micro Hei",sans-serif' font-size="22.0" font-weight="700" fill="#243044">二</text>
+<rect x="224.6" y="108.0" width="58.3" height="64.0" rx="8.0" fill="#e8f7f1" stroke="#2e9a5c" stroke-width="3.0" stroke-linejoin="round" stroke-linecap="round"/>
+<text x="253.7" y="138.0" dy="0.35em" text-anchor="middle" font-family='"PingFang TC","Microsoft JhengHei","Noto Sans CJK TC","WenQuanYi Micro Hei",sans-serif' font-size="22.0" font-weight="700" fill="#243044">三</text>
+<rect x="290.9" y="108.0" width="58.3" height="64.0" rx="8.0" fill="#f4f7fb" stroke="#243044" stroke-width="3.0" stroke-linejoin="round" stroke-linecap="round"/>
+<text x="320.0" y="138.0" dy="0.35em" text-anchor="middle" font-family='"PingFang TC","Microsoft JhengHei","Noto Sans CJK TC","WenQuanYi Micro Hei",sans-serif' font-size="22.0" font-weight="700" fill="#243044">四</text>
+<rect x="357.1" y="108.0" width="58.3" height="64.0" rx="8.0" fill="#f4f7fb" stroke="#243044" stroke-width="3.0" stroke-linejoin="round" stroke-linecap="round"/>
+<text x="386.3" y="138.0" dy="0.35em" text-anchor="middle" font-family='"PingFang TC","Microsoft JhengHei","Noto Sans CJK TC","WenQuanYi Micro Hei",sans-serif' font-size="22.0" font-weight="700" fill="#243044">五</text>
+<rect x="423.4" y="108.0" width="58.3" height="64.0" rx="8.0" fill="#f4f7fb" stroke="#243044" stroke-width="3.0" stroke-linejoin="round" stroke-linecap="round"/>
+<text x="452.6" y="138.0" dy="0.35em" text-anchor="middle" font-family='"PingFang TC","Microsoft JhengHei","Noto Sans CJK TC","WenQuanYi Micro Hei",sans-serif' font-size="22.0" font-weight="700" fill="#243044">六</text>
+<rect x="489.7" y="108.0" width="58.3" height="64.0" rx="8.0" fill="#f4f7fb" stroke="#243044" stroke-width="3.0" stroke-linejoin="round" stroke-linecap="round"/>
+<text x="518.9" y="138.0" dy="0.35em" text-anchor="middle" font-family='"PingFang TC","Microsoft JhengHei","Noto Sans CJK TC","WenQuanYi Micro Hei",sans-serif' font-size="22.0" font-weight="700" fill="#243044">日</text>
+<text x="320.0" y="280.0" dy="0.35em" text-anchor="middle" font-family='"PingFang TC","Microsoft JhengHei","Noto Sans CJK TC","WenQuanYi Micro Hei",sans-serif' font-size="48.0" font-weight="700" fill="#2f6fe0">星期三</text>
+<ellipse cx="320.0" cy="380.0" rx="70.0" ry="48.0" fill="#ffffff" stroke="#243044" stroke-width="4.0" stroke-linejoin="round" stroke-linecap="round"/>
+<circle cx="350.0" cy="390.0" r="14.0" fill="#f4f7fb" stroke="#243044" stroke-width="3.0" stroke-linejoin="round" stroke-linecap="round"/>
+<circle cx="270.0" cy="360.0" r="10.0" fill="#ef5b5b" stroke="#243044" stroke-width="2.0" stroke-linejoin="round" stroke-linecap="round"/>
+<circle cx="298.0" cy="360.0" r="10.0" fill="#ffd34d" stroke="#243044" stroke-width="2.0" stroke-linejoin="round" stroke-linecap="round"/>
+<circle cx="326.0" cy="360.0" r="10.0" fill="#4c8dff" stroke="#243044" stroke-width="2.0" stroke-linejoin="round" stroke-linecap="round"/>
+<circle cx="354.0" cy="360.0" r="10.0" fill="#3cb371" stroke="#243044" stroke-width="2.0" stroke-linejoin="round" stroke-linecap="round"/>
 </svg>

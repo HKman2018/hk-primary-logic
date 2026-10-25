@@ -3,7 +3,7 @@
 <rect x="0.0" y="0.0" width="640.0" height="480.0" fill="#d7f0ff"/>
 <rect x="0.0" y="348.0" width="640.0" height="132.0" fill="#7dce6a"/>
 <rect x="0.0" y="348.0" width="640.0" height="10.0" fill="#5eae4e"/>
-<g transform="translate(300.0 340.0) scale(1.8)">
+<g transform="translate(320.0 360.0) scale(2.0)">
 <ellipse cx="0.0" cy="4.0" rx="70.0" ry="12.0" fill="rgba(36,48,68,0.12)"/>
 <rect x="-40.0" y="-40.0" width="12.0" height="40.0" rx="6.0" fill="#2c3e50"/>
 <rect x="-10.0" y="-40.0" width="12.0" height="40.0" rx="6.0" fill="#2c3e50"/>
@@ -17,8 +17,8 @@
 <circle cx="78.0" cy="-84.0" r="4.0" fill="#ffffff"/>
 <circle cx="70.0" cy="-80.0" r="2.0" fill="#243044"/>
 </g>
-<circle cx="100.0" cy="80.0" r="18.2" fill="#ffffff"/>
-<circle cx="119.6" cy="84.2" r="15.4" fill="#ffffff"/>
-<circle cx="79.0" cy="85.6" r="14.0" fill="#ffffff"/>
-<ellipse cx="100.0" cy="91.2" rx="32.2" ry="12.6" fill="#ffffff"/>
+<circle cx="110.0" cy="80.0" r="20.8" fill="#ffffff"/>
+<circle cx="132.4" cy="84.8" r="17.6" fill="#ffffff"/>
+<circle cx="86.0" cy="86.4" r="16.0" fill="#ffffff"/>
+<ellipse cx="110.0" cy="92.8" rx="36.8" ry="14.4" fill="#ffffff"/>
 </svg>

@@ -25,6 +25,11 @@ WORDLIST = HERE / "wordlist-v2.json"
 IMAGE_DIR = HERE / "images"
 DATA_JS = ROOT / "js" / "vocab-data.js"
 TEXT_RE = re.compile(r"<text\b[^>]*>(.*?)</text>", re.DOTALL)
+FORBIDDEN_RE = re.compile(
+    r"<\s*(?:animate|script|foreignObject|image|iframe)\b|@font-face|"
+    r"(?:href|src)\s*=\s*[\"']https?:",
+    re.I,
+)
 
 
 def js_string(value):
@@ -51,8 +56,12 @@ def render_all(rows):
             for word in letters:
                 if word.upper() not in {"A", "B", "C", "P"}:
                     raise SystemExit("unexpected latin text %r in id %s" % (part, scene_id))
-        if len(svg) < 200:
-            raise SystemExit("image too small for id %s" % scene_id)
+        if 'viewBox="0 0 640 480"' not in svg:
+            raise SystemExit("bad viewBox for id %s" % scene_id)
+        if FORBIDDEN_RE.search(svg):
+            raise SystemExit("forbidden svg content for id %s" % scene_id)
+        if len(svg) < 800:
+            raise SystemExit("image too small for id %s (%s bytes)" % (scene_id, len(svg)))
         name = "w%03d.svg" % scene_id
         target = IMAGE_DIR / name
         target.write_text(svg, encoding="utf-8")
@@ -80,10 +89,36 @@ def assert_distinct(rows, hashes):
             raise SystemExit("multi-sense row collapsed for %s" % english)
 
 
+# §1.5 multi-sense pairs. Both rows take zh_cue so the quiz can split near senses.
+MULTI_SENSE_IDS = {
+    6, 168, 9, 12, 13, 55, 14, 216, 15, 21, 20, 126, 24, 191, 32, 33,
+    42, 43, 45, 46, 50, 153, 51, 52, 56, 57, 61, 62, 98, 99, 100, 101,
+    114, 115, 123, 124, 130, 131, 199, 200, 217, 220,
+}
+
+# Concrete nouns and clear pictures that pass a glance without a gloss.
+# Everything else is abstract, a functional verb, an odd gloss, or a multi-sense row.
+CONCRETE_IDS = {
+    2, 3, 4, 5, 7, 8, 18, 19, 25, 26, 27, 34, 37, 38, 39, 58, 64, 66, 67,
+    69, 74, 75, 76, 78, 79, 80, 82, 84, 86, 87, 88, 89, 94, 95, 104, 109,
+    112, 116, 118, 134, 135, 136, 137, 138, 141, 146, 147, 148, 149, 150,
+    160, 162, 169, 170, 171, 172, 173, 174, 175, 176, 177, 178, 179, 180,
+    181, 182, 183, 184, 185, 186, 187, 188, 189, 190, 193, 194, 196, 197,
+    201, 203, 204, 205, 206, 209, 211, 213, 214, 215, 218,
+}
+
+
+def zh_cue_for(row):
+    scene_id = int(row["id"])
+    if scene_id in MULTI_SENSE_IDS:
+        return True
+    return scene_id not in CONCRETE_IDS
+
+
 def write_bank(rows):
     lines = [
-        "/** Picture vocab for 「看圖學英文」 v2. Independent of LOGIC_BANK and the daily pool.",
-        " *  Gameplay answer is the English lemma. zh and pos are kept for later use.",
+        "/** Picture vocab for 「看圖學英文」 v2.1. Independent of LOGIC_BANK and the daily pool.",
+        " *  The quiz shows zh and accepts only the English lemma. It does not load image.",
         " *  Images are original CC0 drawings; see assets/vocab/README.md.",
         " */",
         "window.VOCAB_PICTURE_BANK = [",
@@ -91,8 +126,9 @@ def write_bank(rows):
     for row in rows:
         scene_id = int(row["id"])
         image = "assets/vocab/images/w%03d.svg" % scene_id
+        cue = "true" if zh_cue_for(row) else "false"
         lines.append(
-            "  { id: %s, image: %s, answer: %s, altZh: %s, zh: %s, pos: %s },"
+            "  { id: %s, image: %s, answer: %s, altZh: %s, zh: %s, pos: %s, zhCue: %s },"
             % (
                 js_string("w%03d" % scene_id),
                 js_string(image),
@@ -100,6 +136,7 @@ def write_bank(rows):
                 js_string(row["zh"]),
                 js_string(row["zh"]),
                 js_string(row["pos"]),
+                cue,
             )
         )
     lines.append("];")
@@ -115,8 +152,16 @@ def main():
         missing = sorted(set(range(1, 223)) - set(SCENES))
         extra = sorted(set(SCENES) - set(range(1, 223)))
         raise SystemExit("scene ids missing %s extra %s" % (missing, extra))
+    overlap = MULTI_SENSE_IDS & CONCRETE_IDS
+    if overlap:
+        raise SystemExit("multi-sense ids marked concrete: %s" % sorted(overlap))
+    if len(MULTI_SENSE_IDS) != 42:
+        raise SystemExit("expected 42 multi-sense ids, got %s" % len(MULTI_SENSE_IDS))
     hashes = render_all(rows)
     assert_distinct(rows, hashes)
+    for row in rows:
+        if int(row["id"]) in MULTI_SENSE_IDS and not zh_cue_for(row):
+            raise SystemExit("multi-sense row missing zh_cue: %s" % row["id"])
     write_bank(rows)
     stale = [
         path.name

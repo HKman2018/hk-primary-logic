@@ -1,9 +1,11 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="640" height="480" viewBox="0 0 640 480" shape-rendering="geometricPrecision">
 <rect x="0.0" y="0.0" width="640.0" height="480.0" fill="#d7f0ff"/>
-<rect x="0.0" y="0.0" width="640.0" height="480.0" fill="#e7e4f5"/>
-<path d="M220 420 L200 80 Q320 20 450 100 L430 420 Z" fill="#6b5b95" stroke="#243044" stroke-width="5.0" stroke-linejoin="round" stroke-linecap="round"/>
-<circle cx="330.0" cy="200.0" r="28.0" fill="#ffd34d" stroke="#243044" stroke-width="4.0" stroke-linejoin="round" stroke-linecap="round"/>
-<circle cx="322.0" cy="194.0" r="5.0" fill="#243044"/>
-<circle cx="340.0" cy="194.0" r="5.0" fill="#243044"/>
-<text x="480.0" y="80.0" dy="0.35em" text-anchor="middle" font-family='Verdana, sans-serif' font-size="48.0" font-weight="700" fill="#7d5cc7">?</text>
+<rect x="0.0" y="0.0" width="640.0" height="480.0" fill="#e6e3f4"/>
+<path d="M200 440 L170 90 Q320 10 470 110 L440 440 Z" fill="#6b5b95" stroke="#243044" stroke-width="6.0" stroke-linejoin="round" stroke-linecap="round"/>
+<circle cx="320.0" cy="200.0" r="40.0" fill="#ffd34d" stroke="#243044" stroke-width="5.0" stroke-linejoin="round" stroke-linecap="round"/>
+<circle cx="306.0" cy="192.0" r="7.0" fill="#243044"/>
+<circle cx="334.0" cy="192.0" r="7.0" fill="#243044"/>
+<ellipse cx="320.0" cy="230.0" rx="16.0" ry="10.0" fill="#243044"/>
+<circle cx="320.0" cy="340.0" r="12.0" fill="#e0b44a" stroke="#243044" stroke-width="3.0" stroke-linejoin="round" stroke-linecap="round"/>
+<text x="520.0" y="70.0" dy="0.35em" text-anchor="middle" font-family='Verdana, sans-serif' font-size="56.0" font-weight="700" fill="#7d5cc7">?</text>
 </svg>

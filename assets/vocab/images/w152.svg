@@ -1,10 +1,17 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="640" height="480" viewBox="0 0 640 480" shape-rendering="geometricPrecision">
 <rect x="0.0" y="0.0" width="640.0" height="480.0" fill="#d7f0ff"/>
 <rect x="0.0" y="0.0" width="640.0" height="480.0" fill="#f6f1e8"/>
-<circle cx="320.0" cy="250.0" r="150.0" fill="none" stroke="#8a5a3b" stroke-width="8.0" stroke-linejoin="round" stroke-linecap="round"/>
-<circle cx="320.0" cy="250.0" r="120.0" fill="none" stroke="#e0b44a" stroke-width="8.0" stroke-linejoin="round" stroke-linecap="round"/>
-<circle cx="320.0" cy="250.0" r="90.0" fill="none" stroke="#8a5a3b" stroke-width="8.0" stroke-linejoin="round" stroke-linecap="round"/>
-<circle cx="320.0" cy="250.0" r="60.0" fill="none" stroke="#e0b44a" stroke-width="8.0" stroke-linejoin="round" stroke-linecap="round"/>
-<circle cx="320.0" cy="250.0" r="30.0" fill="none" stroke="#8a5a3b" stroke-width="8.0" stroke-linejoin="round" stroke-linecap="round"/>
-<circle cx="320.0" cy="250.0" r="8.0" fill="#8a5a3b"/>
+<rect x="114.5" y="350.5" width="11.0" height="49.5" rx="6.0" fill="#8a5a3b" stroke="#243044" stroke-width="3.0" stroke-linejoin="round" stroke-linecap="round"/>
+<circle cx="120.0" cy="334.0" r="25.3" fill="#8fb86a" stroke="#243044" stroke-width="4.0" stroke-linejoin="round" stroke-linecap="round"/>
+<circle cx="102.4" cy="347.2" r="17.6" fill="#8fb86a" stroke="#243044" stroke-width="4.0" stroke-linejoin="round" stroke-linecap="round"/>
+<circle cx="138.7" cy="346.1" r="16.5" fill="#8fb86a" stroke="#243044" stroke-width="4.0" stroke-linejoin="round" stroke-linecap="round"/>
+<polyline points="180.0,300.0 230.0,260.0" fill="none" stroke="#c5ced8" stroke-width="6.0" stroke-linecap="round" stroke-linejoin="round"/>
+<polygon points="230.0,260.0 223.8,276.9 212.2,262.4" fill="#c5ced8"/>
+<rect x="250.0" y="300.0" width="18.0" height="120.0" rx="6.0" fill="#8a5a3b" stroke="#243044" stroke-width="3.0" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M259 180 Q300 120 280 220" fill="none" stroke="#8a5a3b" stroke-width="8.0" stroke-linejoin="round" stroke-linecap="round"/>
+<circle cx="300.0" cy="140.0" r="36.0" fill="#6a8f55" stroke="#243044" stroke-width="3.0" stroke-linejoin="round" stroke-linecap="round"/>
+<circle cx="480.0" cy="250.0" r="70.0" fill="none" stroke="#8a5a3b" stroke-width="7.0" stroke-linejoin="round" stroke-linecap="round"/>
+<circle cx="480.0" cy="250.0" r="52.0" fill="none" stroke="#e0b44a" stroke-width="7.0" stroke-linejoin="round" stroke-linecap="round"/>
+<circle cx="480.0" cy="250.0" r="34.0" fill="none" stroke="#8a5a3b" stroke-width="7.0" stroke-linejoin="round" stroke-linecap="round"/>
+<circle cx="480.0" cy="250.0" r="16.0" fill="none" stroke="#e0b44a" stroke-width="7.0" stroke-linejoin="round" stroke-linecap="round"/>
 </svg>

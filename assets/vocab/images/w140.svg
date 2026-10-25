@@ -3,8 +3,11 @@
 <rect x="0.0" y="0.0" width="640.0" height="480.0" fill="#f3f6fb"/>
 <rect x="0.0" y="340.0" width="640.0" height="140.0" fill="#e7d3b0"/>
 <rect x="0.0" y="340.0" width="640.0" height="6.0" fill="#d2b48c"/>
-<path d="M240 360 L280 300 L360 360 Z" fill="#c9854a" stroke="#243044" stroke-width="4.0" stroke-linejoin="round" stroke-linecap="round"/>
-<path d="M300 300 Q340 220 300 160" fill="none" stroke="#8a7a62" stroke-width="6.0" stroke-linejoin="round" stroke-linecap="round"/>
-<ellipse cx="330.0" cy="170.0" rx="30.0" ry="14.0" fill="#b7a48a" stroke="#243044" stroke-width="3.0" stroke-linejoin="round" stroke-linecap="round"/>
-<ellipse cx="250.0" cy="240.0" rx="22.0" ry="10.0" fill="#a89078"/>
+<path d="M220 390 L270 300 L380 390 Z" fill="#c9854a" stroke="#243044" stroke-width="5.0" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M310 300 Q360 220 300 140" fill="none" stroke="#8a7a62" stroke-width="8.0" stroke-linejoin="round" stroke-linecap="round"/>
+<ellipse cx="340.0" cy="150.0" rx="36.0" ry="16.0" fill="#b7a48a" stroke="#243044" stroke-width="3.0" stroke-linejoin="round" stroke-linecap="round"/>
+<ellipse cx="250.0" cy="230.0" rx="28.0" ry="12.0" fill="#a89078" stroke="#243044" stroke-width="3.0" stroke-linejoin="round" stroke-linecap="round"/>
+<ellipse cx="400.0" cy="250.0" rx="22.0" ry="10.0" fill="#c4b49a" stroke="#243044" stroke-width="2.0" stroke-linejoin="round" stroke-linecap="round"/>
+<polyline points="460.0,180.0 460.0,280.0" fill="none" stroke="#c5ced8" stroke-width="6.0" stroke-linecap="round" stroke-linejoin="round"/>
+<polygon points="460.0,280.0 450.7,264.6 469.3,264.6" fill="#c5ced8"/>
 </svg>

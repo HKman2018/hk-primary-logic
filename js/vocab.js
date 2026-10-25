@@ -1,9 +1,18 @@
-/** 「看圖學英文」— separate from the five logic categories and the HKT daily pool. */
+/** 「看圖學英文」— separate from the five logic categories and the HKT daily pool.
+ *  The question is the row's Traditional Chinese gloss. The picture is not shown.
+ */
 (function () {
   const SESSION_SIZE = 10;
 
   const bank = (window.VOCAB_PICTURE_BANK || []).filter(function (item) {
-    return Boolean(item && item.id && item.image && typeof item.answer === "string" && item.answer.trim());
+    return Boolean(
+      item &&
+        item.id &&
+        typeof item.answer === "string" &&
+        item.answer.trim() &&
+        typeof item.zh === "string" &&
+        item.zh.trim()
+    );
   });
 
   const els = {
@@ -22,10 +31,9 @@
     skip: document.getElementById("btn-vocab-skip"),
     modeCount: document.getElementById("vocab-mode-count"),
     progress: document.getElementById("vocab-progress"),
-    figure: document.getElementById("vocab-image-wrap"),
-    image: document.getElementById("vocab-image"),
-    loading: document.getElementById("vocab-image-loading"),
-    imageError: document.getElementById("vocab-image-error"),
+    zhCue: document.getElementById("vocab-zh-cue"),
+    zhText: document.getElementById("vocab-zh-text"),
+    prompt: document.getElementById("vocab-prompt"),
     input: document.getElementById("vocab-input"),
     feedback: document.getElementById("vocab-feedback"),
     doneSummary: document.getElementById("vocab-done-summary"),
@@ -36,7 +44,6 @@
     index: 0,
     correct: 0,
     phase: "empty",
-    token: 0,
   };
 
   function normalizeAnswer(value) {
@@ -68,17 +75,16 @@
     });
   }
 
-  function altFor(item) {
-    const fallback = "睇圖學英文題目圖";
-    const alt = item && item.altZh ? String(item.altZh) : fallback;
-    if (item && alt.toLowerCase().includes(normalizeAnswer(item.answer))) return fallback;
-    return alt;
+  function showMeaning(item) {
+    const text = item && item.zh ? item.zh : "";
+    els.zhText.textContent = text;
+    els.zhCue.classList.toggle("hidden", !text);
+    els.zhCue.setAttribute("aria-hidden", text ? "false" : "true");
+    els.prompt.textContent = "請打出對應嘅英文：";
   }
 
   function applyPhase(phase) {
     switch (phase) {
-      case "loading":
-      case "image-error":
       case "empty":
       case "typing":
       case "correct":
@@ -93,17 +99,9 @@
     state.phase = phase;
     const item = current();
     const answered = phase === "correct" || phase === "incorrect";
-    const loading = phase === "loading";
-    const imageError = phase === "image-error";
     const canType = phase === "empty" || phase === "typing";
 
-    els.figure.classList.toggle("is-loading", loading);
-    els.figure.classList.toggle("is-error", imageError);
-    els.figure.classList.toggle("is-ready", canType || answered);
-    els.loading.classList.toggle("hidden", !loading);
-    els.imageError.classList.toggle("hidden", !imageError);
-
-    els.input.disabled = loading || imageError;
+    els.input.disabled = false;
     els.input.readOnly = answered;
     els.input.classList.toggle("is-correct", phase === "correct");
     els.input.classList.toggle("is-incorrect", phase === "incorrect");
@@ -112,7 +110,8 @@
     els.submit.classList.toggle("hidden", answered);
     els.submit.disabled = !canType || !hasText;
     els.next.classList.toggle("hidden", !answered);
-    els.skip.classList.toggle("hidden", !imageError);
+    els.skip.classList.toggle("hidden", answered);
+    showMeaning(item);
 
     if (phase === "correct") {
       els.feedback.className = "feedback ok";
@@ -124,33 +123,6 @@
       els.feedback.className = "feedback hidden";
       els.feedback.textContent = "";
     }
-
-    if (!item || loading || imageError) {
-      els.image.alt = "";
-      els.image.setAttribute("aria-hidden", "true");
-    } else {
-      els.image.alt = altFor(item);
-      els.image.removeAttribute("aria-hidden");
-    }
-  }
-
-  function loadPicture(item) {
-    const token = (state.token += 1);
-    applyPhase("loading");
-    const pre = new Image();
-    pre.onload = function () {
-      if (token !== state.token) return;
-      els.image.src = item.image;
-      applyPhase(els.input.value.trim() ? "typing" : "empty");
-      els.input.focus();
-    };
-    pre.onerror = function () {
-      if (token !== state.token) return;
-      els.image.removeAttribute("src");
-      applyPhase("image-error");
-      els.skip.focus();
-    };
-    pre.src = item.image;
   }
 
   function renderQuestion() {
@@ -160,7 +132,8 @@
     els.progress.textContent = n + "/" + total;
     els.progress.setAttribute("aria-label", "第 " + n + " 題，共 " + total + " 題");
     els.input.value = "";
-    if (item) loadPicture(item);
+    applyPhase("empty");
+    els.input.focus();
   }
 
   function startRound() {
@@ -213,7 +186,6 @@
   }
 
   function goHome() {
-    state.token += 1;
     showPanel(els.home);
   }
 

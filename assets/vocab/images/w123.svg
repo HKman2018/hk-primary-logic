@@ -3,13 +3,25 @@
 <rect x="0.0" y="0.0" width="640.0" height="480.0" fill="#d7f0ff"/>
 <rect x="0.0" y="348.0" width="640.0" height="132.0" fill="#7dce6a"/>
 <rect x="0.0" y="348.0" width="640.0" height="10.0" fill="#5eae4e"/>
-<ellipse cx="150.0" cy="250.0" rx="70.0" ry="28.0" fill="#3cb371" stroke="#243044" stroke-width="4.0" stroke-linejoin="round" stroke-linecap="round"/>
-<circle cx="210.0" cy="240.0" r="16.0" fill="#3cb371" stroke="#243044" stroke-width="3.0" stroke-linejoin="round" stroke-linecap="round"/>
-<circle cx="200.0" cy="234.0" r="3.0" fill="#243044"/>
-<polyline points="250.0,240.0 360.0,240.0" fill="none" stroke="#f5a524" stroke-width="8.0" stroke-linecap="round" stroke-linejoin="round"/>
-<polygon points="360.0,240.0 344.6,249.3 344.6,230.7" fill="#f5a524"/>
-<ellipse cx="470.0" cy="200.0" rx="36.0" ry="22.0" fill="#7eb6ef" stroke="#243044" stroke-width="3.0" stroke-linejoin="round" stroke-linecap="round"/>
-<ellipse cx="520.0" cy="230.0" rx="30.0" ry="18.0" fill="#ff8fab" stroke="#243044" stroke-width="3.0" stroke-linejoin="round" stroke-linecap="round"/>
-<ellipse cx="430.0" cy="230.0" rx="28.0" ry="16.0" fill="#ffd34d" stroke="#243044" stroke-width="3.0" stroke-linejoin="round" stroke-linecap="round"/>
-<circle cx="490.0" cy="240.0" r="10.0" fill="#3a322c" stroke="#243044" stroke-width="2.0" stroke-linejoin="round" stroke-linecap="round"/>
+<ellipse cx="140.0" cy="250.0" rx="80.0" ry="32.0" fill="#3cb371" stroke="#243044" stroke-width="5.0" stroke-linejoin="round" stroke-linecap="round"/>
+<circle cx="210.0" cy="236.0" r="20.0" fill="#3cb371" stroke="#243044" stroke-width="4.0" stroke-linejoin="round" stroke-linecap="round"/>
+<circle cx="200.0" cy="230.0" r="4.0" fill="#243044"/>
+<circle cx="218.0" cy="230.0" r="4.0" fill="#243044"/>
+<polyline points="190.0,220.0 180.0,200.0" fill="none" stroke="#243044" stroke-width="3.0" stroke-linecap="round" stroke-linejoin="round"/>
+<polyline points="220.0,218.0 232.0,198.0" fill="none" stroke="#243044" stroke-width="3.0" stroke-linecap="round" stroke-linejoin="round"/>
+<polyline points="250.0,240.0 340.0,240.0" fill="none" stroke="#f5a524" stroke-width="10.0" stroke-linecap="round" stroke-linejoin="round"/>
+<polygon points="340.0,240.0 324.6,249.3 324.6,230.7" fill="#f5a524"/>
+<g transform="translate(490.0 220.0) scale(1.4)">
+<ellipse cx="-38.0" cy="-28.0" rx="42.0" ry="28.0" fill="#7eb6ef" stroke="#243044" stroke-width="4.0" stroke-linejoin="round" stroke-linecap="round"/>
+<ellipse cx="38.0" cy="-28.0" rx="42.0" ry="28.0" fill="#7eb6ef" stroke="#243044" stroke-width="4.0" stroke-linejoin="round" stroke-linecap="round"/>
+<ellipse cx="-34.0" cy="22.0" rx="28.0" ry="36.0" fill="#ff8fab" stroke="#243044" stroke-width="4.0" stroke-linejoin="round" stroke-linecap="round"/>
+<ellipse cx="34.0" cy="22.0" rx="28.0" ry="36.0" fill="#ff8fab" stroke="#243044" stroke-width="4.0" stroke-linejoin="round" stroke-linecap="round"/>
+<circle cx="-28.0" cy="-24.0" r="8.0" fill="#ffd34d" stroke="#243044" stroke-width="2.0" stroke-linejoin="round" stroke-linecap="round"/>
+<circle cx="28.0" cy="-24.0" r="8.0" fill="#ffd34d" stroke="#243044" stroke-width="2.0" stroke-linejoin="round" stroke-linecap="round"/>
+<ellipse cx="0.0" cy="0.0" rx="8.0" ry="36.0" fill="#3a322c" stroke="#243044" stroke-width="3.0" stroke-linejoin="round" stroke-linecap="round"/>
+<polyline points="0.0,-34.0 -16.0,-58.0" fill="none" stroke="#243044" stroke-width="3.0" stroke-linecap="round" stroke-linejoin="round"/>
+<polyline points="0.0,-34.0 16.0,-58.0" fill="none" stroke="#243044" stroke-width="3.0" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="-16.0" cy="-58.0" r="4.0" fill="#243044"/>
+<circle cx="16.0" cy="-58.0" r="4.0" fill="#243044"/>
+</g>
 </svg>

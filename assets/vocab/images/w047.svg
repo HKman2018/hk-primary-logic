@@ -3,7 +3,7 @@
 <rect x="0.0" y="0.0" width="640.0" height="480.0" fill="#d7f0ff"/>
 <rect x="0.0" y="348.0" width="640.0" height="132.0" fill="#7dce6a"/>
 <rect x="0.0" y="348.0" width="640.0" height="10.0" fill="#5eae4e"/>
-<g transform="translate(240.0 430.0) scale(1.1 1.1)">
+<g transform="translate(200.0 430.0) scale(1.2 1.2)">
 <ellipse cx="0.0" cy="6.0" rx="50.0" ry="12.0" fill="rgba(36,48,68,0.12)"/>
 <rect x="-26.0" y="-86.0" width="20.0" height="82.0" rx="10.0" fill="#2c3e50" stroke="#243044" stroke-width="4.0" stroke-linejoin="round" stroke-linecap="round"/>
 <rect x="6.0" y="-86.0" width="20.0" height="82.0" rx="10.0" fill="#2c3e50" stroke="#243044" stroke-width="4.0" stroke-linejoin="round" stroke-linecap="round"/>
@@ -20,13 +20,14 @@
 <circle cx="17.0" cy="-222.0" r="2.0" fill="#ffffff"/>
 <path d="M-16 -196 Q0 -178 16 -196" fill="none" stroke="#243044" stroke-width="4.0" stroke-linejoin="round" stroke-linecap="round"/>
 </g>
-<ellipse cx="470.0" cy="250.0" rx="38.5" ry="6.6" fill="rgba(36,48,68,0.13)"/>
-<rect x="428.8" y="192.8" width="82.5" height="57.2" rx="3.3" fill="#fff6e4" stroke="#243044" stroke-width="4.0" stroke-linejoin="round" stroke-linecap="round"/>
-<polygon points="419.9,198.8 470.0,153.2 520.0,198.8" fill="#ef5b5b" stroke="#243044" stroke-width="4.0" stroke-linejoin="round" stroke-linecap="round"/>
-<rect x="461.2" y="218.1" width="17.6" height="31.9" rx="2.2" fill="#8a5a3b" stroke="#243044" stroke-width="3.0" stroke-linejoin="round" stroke-linecap="round"/>
-<circle cx="474.4" cy="234.6" r="1.7" fill="#ffd34d"/>
-<rect x="437.6" y="204.9" width="17.6" height="15.4" rx="1.7" fill="#9fd4ff" stroke="#243044" stroke-width="3.0" stroke-linejoin="round" stroke-linecap="round"/>
-<rect x="484.9" y="204.9" width="17.6" height="15.4" rx="1.7" fill="#9fd4ff" stroke="#243044" stroke-width="3.0" stroke-linejoin="round" stroke-linecap="round"/>
-<circle cx="250.0" cy="210.0" r="16.0" fill="#ffd34d" stroke="#243044" stroke-width="3.0" stroke-linejoin="round" stroke-linecap="round"/>
-<rect x="262.0" y="204.0" width="28.0" height="8.0" fill="#ffd34d" stroke="#243044" stroke-width="2.0" stroke-linejoin="round" stroke-linecap="round"/>
+<ellipse cx="480.0" cy="280.0" rx="49.0" ry="8.4" fill="rgba(36,48,68,0.13)"/>
+<rect x="427.5" y="207.2" width="105.0" height="72.8" rx="4.2" fill="#fff6e4" stroke="#243044" stroke-width="4.0" stroke-linejoin="round" stroke-linecap="round"/>
+<polygon points="416.3,213.2 480.0,156.8 543.7,213.2" fill="#ef5b5b" stroke="#243044" stroke-width="4.0" stroke-linejoin="round" stroke-linecap="round"/>
+<rect x="468.8" y="239.4" width="22.4" height="40.6" rx="2.8" fill="#8a5a3b" stroke="#243044" stroke-width="3.0" stroke-linejoin="round" stroke-linecap="round"/>
+<circle cx="485.6" cy="260.4" r="2.1" fill="#ffd34d"/>
+<rect x="438.7" y="222.6" width="22.4" height="19.6" rx="2.1" fill="#9fd4ff" stroke="#243044" stroke-width="3.0" stroke-linejoin="round" stroke-linecap="round"/>
+<rect x="498.9" y="222.6" width="22.4" height="19.6" rx="2.1" fill="#9fd4ff" stroke="#243044" stroke-width="3.0" stroke-linejoin="round" stroke-linecap="round"/>
+<circle cx="250.0" cy="170.0" r="22.0" fill="#ffd34d" stroke="#243044" stroke-width="4.0" stroke-linejoin="round" stroke-linecap="round"/>
+<rect x="268.0" y="160.0" width="46.0" height="12.0" fill="#ffd34d" stroke="#243044" stroke-width="3.0" stroke-linejoin="round" stroke-linecap="round"/>
+<rect x="300.0" y="172.0" width="12.0" height="22.0" fill="#ffd34d" stroke="#243044" stroke-width="3.0" stroke-linejoin="round" stroke-linecap="round"/>
 </svg>

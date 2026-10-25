@@ -1,10 +1,14 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="640" height="480" viewBox="0 0 640 480" shape-rendering="geometricPrecision">
 <rect x="0.0" y="0.0" width="640.0" height="480.0" fill="#d7f0ff"/>
-<rect x="0.0" y="0.0" width="640.0" height="200.0" fill="#bfe9ff"/>
-<polygon points="0.0,200.0 640.0,200.0 520.0,480.0 120.0,480.0" fill="#6b7280" stroke="#243044" stroke-width="4.0" stroke-linejoin="round" stroke-linecap="round"/>
-<polyline points="300.0,230.0 320.0,460.0" fill="none" stroke="#ffd34d" stroke-width="8.0" stroke-linecap="round" stroke-linejoin="round"/>
-<polyline points="80.0,300.0 200.0,300.0" fill="none" stroke="#ffffff" stroke-width="6.0" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="0.0" y="0.0" width="640.0" height="160.0" fill="#bfe8ff"/>
+<polygon points="40.0,180.0 600.0,180.0 560.0,450.0 80.0,450.0" fill="#6b7280" stroke="#243044" stroke-width="5.0" stroke-linejoin="round" stroke-linecap="round"/>
+<polyline points="300.0,210.0 320.0,430.0" fill="none" stroke="#ffd34d" stroke-width="10.0" stroke-linecap="round" stroke-linejoin="round"/>
+<polyline points="70.0,300.0 200.0,300.0" fill="none" stroke="#ffffff" stroke-width="8.0" stroke-linecap="round" stroke-linejoin="round"/>
 <polygon points="200.0,300.0 184.6,309.3 184.6,290.7" fill="#ffffff"/>
-<polyline points="560.0,300.0 440.0,300.0" fill="none" stroke="#ffffff" stroke-width="6.0" stroke-linecap="round" stroke-linejoin="round"/>
+<polyline points="570.0,300.0 440.0,300.0" fill="none" stroke="#ffffff" stroke-width="8.0" stroke-linecap="round" stroke-linejoin="round"/>
 <polygon points="440.0,300.0 455.4,290.7 455.4,309.3" fill="#ffffff"/>
+<circle cx="120.0" cy="70.0" r="18.2" fill="#ffffff"/>
+<circle cx="139.6" cy="74.2" r="15.4" fill="#ffffff"/>
+<circle cx="99.0" cy="75.6" r="14.0" fill="#ffffff"/>
+<ellipse cx="120.0" cy="81.2" rx="32.2" ry="12.6" fill="#ffffff"/>
 </svg>

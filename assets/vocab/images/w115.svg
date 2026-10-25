@@ -1,9 +1,10 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="640" height="480" viewBox="0 0 640 480" shape-rendering="geometricPrecision">
 <rect x="0.0" y="0.0" width="640.0" height="480.0" fill="#d7f0ff"/>
-<rect x="0.0" y="0.0" width="640.0" height="480.0" fill="#f4fbf6"/>
-<rect x="80.0" y="160.0" width="360.0" height="40.0" rx="12.0" fill="#e5f0ea" stroke="#243044" stroke-width="4.0" stroke-linejoin="round" stroke-linecap="round"/>
-<rect x="80.0" y="160.0" width="250.0" height="40.0" fill="#b7e6c8"/>
-<polyline points="330.0,140.0 330.0,220.0" fill="none" stroke="#2e9a5c" stroke-width="4.0" stroke-linecap="round" stroke-linejoin="round"/>
-<rect x="475.8" y="189.0" width="48.4" height="77.0" rx="17.6" fill="#f6c7a1" stroke="#243044" stroke-width="4.0" stroke-linejoin="round" stroke-linecap="round"/>
-<rect x="480.2" y="140.6" width="30.8" height="52.8" rx="13.2" fill="#f6c7a1" stroke="#243044" stroke-width="4.0" stroke-linejoin="round" stroke-linecap="round"/>
+<rect x="0.0" y="0.0" width="640.0" height="480.0" fill="#f3faf5"/>
+<rect x="70.0" y="180.0" width="360.0" height="48.0" rx="16.0" fill="#e4f0e8" stroke="#243044" stroke-width="4.0" stroke-linejoin="round" stroke-linecap="round"/>
+<rect x="70.0" y="180.0" width="240.0" height="48.0" fill="#b7e4c7"/>
+<polyline points="310.0,150.0 310.0,250.0" fill="none" stroke="#2e9a5c" stroke-width="6.0" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="494.7" y="178.5" width="50.6" height="80.5" rx="18.4" fill="#f6c7a1" stroke="#243044" stroke-width="4.0" stroke-linejoin="round" stroke-linecap="round"/>
+<rect x="499.3" y="127.9" width="32.2" height="55.2" rx="13.8" fill="#f6c7a1" stroke="#243044" stroke-width="4.0" stroke-linejoin="round" stroke-linecap="round"/>
+<text x="230.0" y="280.0" dy="0.35em" text-anchor="middle" font-family='"PingFang TC","Microsoft JhengHei","Noto Sans CJK TC","WenQuanYi Micro Hei",sans-serif' font-size="36.0" font-weight="700" fill="#2e9a5c">還可以</text>
 </svg>

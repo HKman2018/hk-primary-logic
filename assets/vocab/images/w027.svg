@@ -3,11 +3,11 @@
 <rect x="0.0" y="0.0" width="640.0" height="480.0" fill="#d7f0ff"/>
 <rect x="0.0" y="348.0" width="640.0" height="132.0" fill="#7dce6a"/>
 <rect x="0.0" y="348.0" width="640.0" height="10.0" fill="#5eae4e"/>
-<rect x="200.0" y="180.0" width="240.0" height="200.0" rx="6.0" fill="#fff6e4" stroke="#243044" stroke-width="4.0" stroke-linejoin="round" stroke-linecap="round"/>
-<polygon points="180.0,190.0 320.0,70.0 460.0,190.0" fill="#c9ccd4" stroke="#243044" stroke-width="4.0" stroke-linejoin="round" stroke-linecap="round"/>
-<rect x="300.0" y="40.0" width="40.0" height="50.0" fill="#c9ccd4" stroke="#243044" stroke-width="3.0" stroke-linejoin="round" stroke-linecap="round"/>
-<polyline points="320.0,16.0 320.0,50.0" fill="none" stroke="#243044" stroke-width="4.0" stroke-linecap="round" stroke-linejoin="round"/>
-<polyline points="306.0,32.0 334.0,32.0" fill="none" stroke="#243044" stroke-width="4.0" stroke-linecap="round" stroke-linejoin="round"/>
-<path d="M290 380 L290 250 Q320 210 350 250 L350 380" fill="#8eb6e0" stroke="#243044" stroke-width="3.0" stroke-linejoin="round" stroke-linecap="round"/>
-<rect x="292.0" y="300.0" width="56.0" height="80.0" rx="4.0" fill="#8a5a3b" stroke="#243044" stroke-width="3.0" stroke-linejoin="round" stroke-linecap="round"/>
+<rect x="180.0" y="190.0" width="280.0" height="220.0" rx="8.0" fill="#fff6e4" stroke="#243044" stroke-width="5.0" stroke-linejoin="round" stroke-linecap="round"/>
+<polygon points="160.0,200.0 320.0,60.0 480.0,200.0" fill="#d5dbe3" stroke="#243044" stroke-width="5.0" stroke-linejoin="round" stroke-linecap="round"/>
+<rect x="304.0" y="28.0" width="32.0" height="48.0" fill="#d5dbe3" stroke="#243044" stroke-width="3.0" stroke-linejoin="round" stroke-linecap="round"/>
+<polyline points="320.0,8.0 320.0,40.0" fill="none" stroke="#243044" stroke-width="5.0" stroke-linecap="round" stroke-linejoin="round"/>
+<polyline points="304.0,24.0 336.0,24.0" fill="none" stroke="#243044" stroke-width="5.0" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M270 400 L270 260 Q320 210 370 260 L370 400" fill="#8eb6e0" stroke="#243044" stroke-width="4.0" stroke-linejoin="round" stroke-linecap="round"/>
+<rect x="292.0" y="310.0" width="56.0" height="90.0" rx="4.0" fill="#8a5a3b" stroke="#243044" stroke-width="3.0" stroke-linejoin="round" stroke-linecap="round"/>
 </svg>

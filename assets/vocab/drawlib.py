@@ -301,6 +301,11 @@ class Draw:
         elif pose == "lie":
             self._limb(-8, -78, 18, 84, 8, pants)
             self._limb(14, -78, 18, 84, -6, pants)
+        elif pose == "slump":
+            self._limb(-18, -60, 20, 64, 48, pants)
+            self._limb(16, -60, 20, 64, 28, pants)
+            self.ellipse(-6, 4, 18, 8, shoe)
+            self.ellipse(28, 8, 18, 8, shoe)
         elif pose == "bow":
             self._limb(-12, -78, 20, 78, -8, pants)
             self._limb(14, -78, 20, 78, 10, pants)
@@ -342,6 +347,13 @@ class Draw:
         elif pose == "giveup":
             self._limb(-36, -140, 16, 70, 24, shirt)
             self._limb(36, -140, 16, 70, -24, shirt)
+        elif pose == "slump":
+            self._limb(-34, -130, 16, 72, 36, shirt)
+            self._limb(34, -130, 16, 72, -36, shirt)
+        elif pose == "plead":
+            self._limb(-12, -150, 16, 62, -58, shirt)
+            self._limb(12, -150, 16, 62, 58, shirt)
+            self.circle(0, -200, 11, skin, INK, 3)
         elif pose == "bow":
             self._limb(-30, -120, 16, 60, 70, shirt)
             self._limb(30, -120, 16, 60, -70, shirt)
@@ -393,6 +405,14 @@ class Draw:
         elif mood == "shut":
             self.path("M-22 -222 Q-13 -230 -4 -222", stroke=INK, sw=4)
             self.path("M4 -222 Q13 -230 22 -222", stroke=INK, sw=4)
+        elif mood == "tired":
+            self.line([(-22, -222), (-8, -222)], INK, 4)
+            self.line([(8, -222), (22, -222)], INK, 4)
+        elif mood == "wild":
+            self.circle(-16, -222, 8, WHITE, INK, 3)
+            self.circle(16, -222, 8, WHITE, INK, 3)
+            self.circle(-16, -222, 3, INK)
+            self.circle(16, -222, 3, INK)
         else:
             self.circle(-15, -220, 5.5, INK)
             self.circle(15, -220, 5.5, INK)
@@ -420,6 +440,11 @@ class Draw:
             self.ellipse(0, -192, 8, 10, INK)
         elif mood == "shy":
             self.path("M-10 -196 Q0 -188 10 -196", stroke=INK, sw=3)
+        elif mood == "tired":
+            self.path("M-12 -190 Q0 -198 12 -190", stroke=INK, sw=4)
+        elif mood == "wild":
+            self.ellipse(0, -188, 12, 14, "#e86b7a", INK, 3)
+            self.path("M-8 -186 Q0 -176 10 -188", stroke=INK, sw=3)
         else:
             self.line([(-10, -194), (10, -194)], INK, 4)
         if mood == "cry":
@@ -494,16 +519,19 @@ class Draw:
         )
         return self
 
-    def glass_cup(self, x, y, fill, w=70, h=120):
+    def glass_cup(self, x, y, fill, w=70, h=120, level=0.35):
         self.path(
             f"M{n(x)} {n(y)} L{n(x+14)} {n(y+h)} L{n(x+w-14)} {n(y+h)} L{n(x+w)} {n(y)} Z",
-            fill="rgba(255,255,255,0.35)", stroke=INK, sw=4,
+            fill="rgba(255,255,255,0.28)", stroke=INK, sw=5,
         )
+        top = y + h * level
         self.path(
-            f"M{n(x+8)} {n(y+h*0.35)} L{n(x+18)} {n(y+h-8)} L{n(x+w-18)} {n(y+h-8)} L{n(x+w-8)} {n(y+h*0.35)} Z",
+            f"M{n(x+8)} {n(top)} L{n(x+16)} {n(y+h-8)} L{n(x+w-16)} {n(y+h-8)} L{n(x+w-8)} {n(top)} Z",
             fill=fill,
         )
-        self.line([(x + 16, y + 18), (x + 22, y + h - 16)], "rgba(255,255,255,0.8)", 6)
+        self.ellipse(x + w / 2, y, w / 2, 12, "rgba(255,255,255,0.45)", INK, 4)
+        self.ellipse(x + w / 2, top, w * 0.38, 8, fill, INK, 2)
+        self.line([(x + 18, y + 16), (x + 24, y + h - 18)], "rgba(255,255,255,0.85)", 6)
         return self
 
     def bowl(self, x, y, w=160, h=70, inner="#fff"):
@@ -717,12 +745,15 @@ class Draw:
 
     def eagle(self, x, y, sc=1):
         with self.g(f"translate({n(x)} {n(y)}) scale({n(sc)})"):
-            self.path("M0 0 C-40 -20 -120 -10 -170 20 C-90 10 -40 20 0 10 Z", fill="#6b4a2e", stroke=INK, sw=3)
-            self.path("M0 0 C40 -20 120 -10 170 20 C90 10 40 20 0 10 Z", fill="#6b4a2e", stroke=INK, sw=3)
-            self.ellipse(0, 6, 28, 18, "#5a3b24", INK, 3)
-            self.circle(34, -8, 16, WHITE, INK, 3)
-            self.poly([(46, -8), (70, -2), (46, 2)], YELLOW, INK, 2)
-            self.circle(30, -10, 3, INK)
+            self.path("M0 0 C-40 -30 -140 -20 -190 30 C-100 8 -40 24 0 12 Z", fill="#6b4a2e", stroke=INK, sw=4)
+            self.path("M0 0 C40 -30 140 -20 190 30 C100 8 40 24 0 12 Z", fill="#6b4a2e", stroke=INK, sw=4)
+            self.path("M-70 -8 L-20 8 L-60 16 Z", fill="#4a301c", stroke=INK, sw=2)
+            self.path("M70 -8 L20 8 L60 16 Z", fill="#4a301c", stroke=INK, sw=2)
+            self.ellipse(0, 8, 26, 18, "#5a3b24", INK, 3)
+            self.circle(36, -10, 20, WHITE, INK, 3)
+            self.poly([(50, -12), (78, -4), (50, 4)], YELLOW, INK, 3)
+            self.circle(32, -12, 3.5, INK)
+            self.path("M-8 16 Q-4 28 2 16", stroke=YELLOW, sw=3)
         return self
 
     def bee(self, x, y, sc=1):
@@ -801,6 +832,59 @@ class Draw:
     def plate(self, x, y, w=180):
         self.ellipse(x, y, w / 2, 28, WHITE, INK, 4)
         self.ellipse(x, y, w / 2 - 16, 16, "#f4f7fb", INK, 2)
+        return self
+
+    def butterfly(self, x, y, sc=1):
+        with self.g(f"translate({n(x)} {n(y)}) scale({n(sc)})"):
+            self.ellipse(-38, -28, 42, 28, "#7eb6ef", INK, 4)
+            self.ellipse(38, -28, 42, 28, "#7eb6ef", INK, 4)
+            self.ellipse(-34, 22, 28, 36, PINK, INK, 4)
+            self.ellipse(34, 22, 28, 36, PINK, INK, 4)
+            self.circle(-28, -24, 8, YELLOW, INK, 2)
+            self.circle(28, -24, 8, YELLOW, INK, 2)
+            self.ellipse(0, 0, 8, 36, "#3a322c", INK, 3)
+            self.line([(0, -34), (-16, -58)], INK, 3)
+            self.line([(0, -34), (16, -58)], INK, 3)
+            self.circle(-16, -58, 4, INK)
+            self.circle(16, -58, 4, INK)
+        return self
+
+    def knife(self, x, y, sc=1):
+        with self.g(f"translate({n(x)} {n(y)}) scale({n(sc)})"):
+            self.poly([(0, -18), (210, -6), (210, 8), (0, 18)], "#e8eef5", INK, 4)
+            self.line([(16, -4), (180, 0)], WHITE, 4)
+            self.rrect(200, -22, 78, 44, 10, BROWN, INK, 4)
+            self.circle(230, 0, 5, YELLOW)
+            self.sparkles([(40, -28, 7), (120, -24, 5)])
+        return self
+
+    def iron(self, x, y, sc=1):
+        with self.g(f"translate({n(x)} {n(y)}) scale({n(sc)})"):
+            self.path("M-20 40 L10 -20 L150 -20 L190 40 Z", fill="#d5dde6", stroke=INK, sw=5)
+            self.rrect(20, -48, 120, 36, 12, "#8ea0b4", INK, 4)
+            self.circle(50, 10, 7, BLUE)
+            self.path("M150 -40 C190 -70 210 -20 180 -10", stroke=INK, sw=4)
+            self.ellipse(80, 52, 110, 12, "rgba(36,48,68,0.12)")
+        return self
+
+    def popcorn_bucket(self, x, y, sc=1):
+        with self.g(f"translate({n(x)} {n(y)}) scale({n(sc)})"):
+            self.path("M-70 20 L-50 150 L50 150 L70 20 Z", fill=RED, stroke=INK, sw=4)
+            for i, xx in enumerate((-40, -10, 20)):
+                self.rect(xx, 20, 16, 130, WHITE)
+            for cx, cy, r in (
+                (-30, -10, 22), (0, -28, 26), (34, -8, 20),
+                (-10, 8, 18), (24, 16, 16), (-46, 16, 14), (8, -4, 14),
+            ):
+                self.circle(cx, cy, r, "#fffdf6", INK, 3)
+        return self
+
+    def steam(self, x, y, count=3):
+        for i in range(count):
+            self.path(
+                f"M{n(x + i * 18)} {n(y)} Q{n(x + 16 + i * 18)} {n(y - 24)} {n(x + i * 18)} {n(y - 48)}",
+                stroke="#c5d4e4", sw=5,
+            )
         return self
 
     def umbrella(self, x, y, sc=1):

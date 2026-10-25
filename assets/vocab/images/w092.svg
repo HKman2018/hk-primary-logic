@@ -1,7 +1,9 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="640" height="480" viewBox="0 0 640 480" shape-rendering="geometricPrecision">
 <rect x="0.0" y="0.0" width="640.0" height="480.0" fill="#d7f0ff"/>
-<rect x="0.0" y="0.0" width="640.0" height="480.0" fill="#fff8f2"/>
-<rect x="250.0" y="180.0" width="70.0" height="160.0" rx="30.0" fill="#f6c7a1" stroke="#243044" stroke-width="5.0" stroke-linejoin="round" stroke-linecap="round"/>
-<circle cx="285.0" cy="160.0" r="28.0" fill="#f6c7a1" stroke="#243044" stroke-width="4.0" stroke-linejoin="round" stroke-linecap="round"/>
-<path d="M300 150 Q360 120 340 190 Q320 160 300 170" fill="none" stroke="#ef5b5b" stroke-width="5.0" stroke-linejoin="round" stroke-linecap="round"/>
+<rect x="0.0" y="0.0" width="640.0" height="480.0" fill="#fff6f0"/>
+<ellipse cx="320.0" cy="400.0" rx="90.0" ry="18.0" fill="rgba(36,48,68,0.1)"/>
+<rect x="250.0" y="160.0" width="90.0" height="200.0" rx="36.0" fill="#f6c7a1" stroke="#243044" stroke-width="6.0" stroke-linejoin="round" stroke-linecap="round"/>
+<circle cx="295.0" cy="140.0" r="40.0" fill="#f6c7a1" stroke="#243044" stroke-width="5.0" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M320 120 Q420 70 390 180 Q340 140 330 170" fill="none" stroke="#ef5b5b" stroke-width="8.0" stroke-linejoin="round" stroke-linecap="round"/>
+<circle cx="400.0" cy="100.0" r="10.0" fill="#ef5b5b"/>
 </svg>

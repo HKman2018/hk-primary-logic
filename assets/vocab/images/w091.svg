@@ -3,7 +3,7 @@
 <rect x="0.0" y="0.0" width="640.0" height="480.0" fill="#d7f0ff"/>
 <rect x="0.0" y="348.0" width="640.0" height="132.0" fill="#7dce6a"/>
 <rect x="0.0" y="348.0" width="640.0" height="10.0" fill="#5eae4e"/>
-<g transform="translate(260.0 430.0) scale(1.1 1.1)">
+<g transform="translate(230.0 440.0) scale(1.2 1.2)">
 <ellipse cx="0.0" cy="6.0" rx="50.0" ry="12.0" fill="rgba(36,48,68,0.12)"/>
 <rect x="-26.0" y="-86.0" width="20.0" height="82.0" rx="10.0" fill="#2c3e50" stroke="#243044" stroke-width="4.0" stroke-linejoin="round" stroke-linecap="round"/>
 <rect x="6.0" y="-86.0" width="20.0" height="82.0" rx="10.0" fill="#2c3e50" stroke="#243044" stroke-width="4.0" stroke-linejoin="round" stroke-linecap="round"/>
@@ -22,7 +22,9 @@
 <polyline points="8.0,-240.0 24.0,-232.0" fill="none" stroke="#243044" stroke-width="4.0" stroke-linecap="round" stroke-linejoin="round"/>
 <polyline points="-10.0,-194.0 10.0,-194.0" fill="none" stroke="#243044" stroke-width="4.0" stroke-linecap="round" stroke-linejoin="round"/>
 </g>
-<ellipse cx="470.0" cy="150.0" rx="80.0" ry="48.0" fill="#ffffff" stroke="#243044" stroke-width="4.0" stroke-linejoin="round" stroke-linecap="round"/>
-<text x="470.0" y="130.0" dy="0.35em" text-anchor="middle" font-family='Verdana, sans-serif' font-size="36.0" font-weight="700" fill="#c5ced8">?</text>
-<circle cx="400.0" cy="210.0" r="10.0" fill="#ffffff" stroke="#243044" stroke-width="2.0" stroke-linejoin="round" stroke-linecap="round"/>
+<ellipse cx="480.0" cy="140.0" rx="100.0" ry="60.0" fill="#ffffff" stroke="#243044" stroke-width="4.0" stroke-linejoin="round" stroke-linecap="round"/>
+<text x="480.0" y="115.0" dy="0.35em" text-anchor="middle" font-family='Verdana, sans-serif' font-size="48.0" font-weight="700" fill="#c5ced8">?</text>
+<circle cx="400.0" cy="210.0" r="14.0" fill="#ffffff" stroke="#243044" stroke-width="3.0" stroke-linejoin="round" stroke-linecap="round"/>
+<circle cx="370.0" cy="240.0" r="8.0" fill="#ffffff" stroke="#243044" stroke-width="2.0" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M430 130 Q470 150 510 130" fill="none" stroke="#d9dee6" stroke-width="4.0" stroke-linejoin="round" stroke-linecap="round"/>
 </svg>

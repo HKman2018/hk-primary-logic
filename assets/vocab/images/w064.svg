@@ -1,8 +1,9 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="640" height="480" viewBox="0 0 640 480" shape-rendering="geometricPrecision">
 <rect x="0.0" y="0.0" width="640.0" height="480.0" fill="#d7f0ff"/>
-<rect x="0.0" y="0.0" width="640.0" height="480.0" fill="#fff6f2"/>
-<ellipse cx="320.0" cy="300.0" rx="140.0" ry="28.0" fill="#ffffff" stroke="#243044" stroke-width="4.0" stroke-linejoin="round" stroke-linecap="round"/>
-<ellipse cx="320.0" cy="300.0" rx="124.0" ry="16.0" fill="#f4f7fb" stroke="#243044" stroke-width="2.0" stroke-linejoin="round" stroke-linecap="round"/>
-<ellipse cx="320.0" cy="250.0" rx="110.0" ry="70.0" fill="#f2a3b0" stroke="#243044" stroke-width="4.0" stroke-linejoin="round" stroke-linecap="round"/>
-<ellipse cx="360.0" cy="240.0" rx="28.0" ry="22.0" fill="#f7d7c4" stroke="#243044" stroke-width="3.0" stroke-linejoin="round" stroke-linecap="round"/>
+<rect x="0.0" y="0.0" width="640.0" height="480.0" fill="#fff4f0"/>
+<ellipse cx="320.0" cy="330.0" rx="160.0" ry="28.0" fill="#ffffff" stroke="#243044" stroke-width="4.0" stroke-linejoin="round" stroke-linecap="round"/>
+<ellipse cx="320.0" cy="330.0" rx="144.0" ry="16.0" fill="#f4f7fb" stroke="#243044" stroke-width="2.0" stroke-linejoin="round" stroke-linecap="round"/>
+<ellipse cx="320.0" cy="250.0" rx="140.0" ry="90.0" fill="#f0a0b0" stroke="#243044" stroke-width="5.0" stroke-linejoin="round" stroke-linecap="round"/>
+<ellipse cx="370.0" cy="240.0" rx="36.0" ry="28.0" fill="#f7d7c4" stroke="#243044" stroke-width="4.0" stroke-linejoin="round" stroke-linecap="round"/>
+<ellipse cx="280.0" cy="270.0" rx="20.0" ry="14.0" fill="#e07088"/>
 </svg>

@@ -3,25 +3,28 @@
 <rect x="0.0" y="0.0" width="640.0" height="480.0" fill="#d7f0ff"/>
 <rect x="0.0" y="348.0" width="640.0" height="132.0" fill="#7dce6a"/>
 <rect x="0.0" y="348.0" width="640.0" height="10.0" fill="#5eae4e"/>
-<rect x="80.0" y="200.0" width="200.0" height="160.0" rx="6.0" fill="#ef5b5b" stroke="#243044" stroke-width="4.0" stroke-linejoin="round" stroke-linecap="round"/>
-<polygon points="60.0,210.0 180.0,110.0 300.0,210.0" fill="#f4f1ea" stroke="#243044" stroke-width="4.0" stroke-linejoin="round" stroke-linecap="round"/>
-<rect x="150.0" y="250.0" width="50.0" height="70.0" fill="#ffffff" stroke="#243044" stroke-width="3.0" stroke-linejoin="round" stroke-linecap="round"/>
-<polyline points="40.0,360.0 600.0,360.0" fill="none" stroke="#8a5a3b" stroke-width="4.0" stroke-linecap="round" stroke-linejoin="round"/>
-<polyline points="40.0,360.0 40.0,400.0" fill="none" stroke="#8a5a3b" stroke-width="4.0" stroke-linecap="round" stroke-linejoin="round"/>
-<polyline points="80.0,360.0 80.0,400.0" fill="none" stroke="#8a5a3b" stroke-width="4.0" stroke-linecap="round" stroke-linejoin="round"/>
-<polyline points="120.0,360.0 120.0,400.0" fill="none" stroke="#8a5a3b" stroke-width="4.0" stroke-linecap="round" stroke-linejoin="round"/>
-<polyline points="160.0,360.0 160.0,400.0" fill="none" stroke="#8a5a3b" stroke-width="4.0" stroke-linecap="round" stroke-linejoin="round"/>
-<polyline points="200.0,360.0 200.0,400.0" fill="none" stroke="#8a5a3b" stroke-width="4.0" stroke-linecap="round" stroke-linejoin="round"/>
-<polyline points="240.0,360.0 240.0,400.0" fill="none" stroke="#8a5a3b" stroke-width="4.0" stroke-linecap="round" stroke-linejoin="round"/>
-<polyline points="280.0,360.0 280.0,400.0" fill="none" stroke="#8a5a3b" stroke-width="4.0" stroke-linecap="round" stroke-linejoin="round"/>
-<polyline points="320.0,360.0 320.0,400.0" fill="none" stroke="#8a5a3b" stroke-width="4.0" stroke-linecap="round" stroke-linejoin="round"/>
-<polyline points="360.0,360.0 360.0,400.0" fill="none" stroke="#8a5a3b" stroke-width="4.0" stroke-linecap="round" stroke-linejoin="round"/>
-<polyline points="400.0,360.0 400.0,400.0" fill="none" stroke="#8a5a3b" stroke-width="4.0" stroke-linecap="round" stroke-linejoin="round"/>
-<polyline points="440.0,360.0 440.0,400.0" fill="none" stroke="#8a5a3b" stroke-width="4.0" stroke-linecap="round" stroke-linejoin="round"/>
-<polyline points="480.0,360.0 480.0,400.0" fill="none" stroke="#8a5a3b" stroke-width="4.0" stroke-linecap="round" stroke-linejoin="round"/>
-<polyline points="520.0,360.0 520.0,400.0" fill="none" stroke="#8a5a3b" stroke-width="4.0" stroke-linecap="round" stroke-linejoin="round"/>
-<polyline points="560.0,360.0 560.0,400.0" fill="none" stroke="#8a5a3b" stroke-width="4.0" stroke-linecap="round" stroke-linejoin="round"/>
-<g transform="translate(480.0 400.0) scale(0.7)">
+<rect x="70.0" y="200.0" width="230.0" height="180.0" rx="6.0" fill="#ef5b5b" stroke="#243044" stroke-width="5.0" stroke-linejoin="round" stroke-linecap="round"/>
+<polygon points="50.0,210.0 185.0,90.0 320.0,210.0" fill="#f7f4ee" stroke="#243044" stroke-width="5.0" stroke-linejoin="round" stroke-linecap="round"/>
+<rect x="150.0" y="270.0" width="60.0" height="90.0" fill="#ffffff" stroke="#243044" stroke-width="3.0" stroke-linejoin="round" stroke-linecap="round"/>
+<polyline points="40.0,390.0 40.0,450.0" fill="none" stroke="#c4a574" stroke-width="4.0" stroke-linecap="round" stroke-linejoin="round"/>
+<polyline points="76.0,390.0 76.0,450.0" fill="none" stroke="#c4a574" stroke-width="4.0" stroke-linecap="round" stroke-linejoin="round"/>
+<polyline points="112.0,390.0 112.0,450.0" fill="none" stroke="#c4a574" stroke-width="4.0" stroke-linecap="round" stroke-linejoin="round"/>
+<polyline points="148.0,390.0 148.0,450.0" fill="none" stroke="#c4a574" stroke-width="4.0" stroke-linecap="round" stroke-linejoin="round"/>
+<polyline points="184.0,390.0 184.0,450.0" fill="none" stroke="#c4a574" stroke-width="4.0" stroke-linecap="round" stroke-linejoin="round"/>
+<polyline points="220.0,390.0 220.0,450.0" fill="none" stroke="#c4a574" stroke-width="4.0" stroke-linecap="round" stroke-linejoin="round"/>
+<polyline points="256.0,390.0 256.0,450.0" fill="none" stroke="#c4a574" stroke-width="4.0" stroke-linecap="round" stroke-linejoin="round"/>
+<polyline points="292.0,390.0 292.0,450.0" fill="none" stroke="#c4a574" stroke-width="4.0" stroke-linecap="round" stroke-linejoin="round"/>
+<polyline points="328.0,390.0 328.0,450.0" fill="none" stroke="#c4a574" stroke-width="4.0" stroke-linecap="round" stroke-linejoin="round"/>
+<polyline points="364.0,390.0 364.0,450.0" fill="none" stroke="#c4a574" stroke-width="4.0" stroke-linecap="round" stroke-linejoin="round"/>
+<polyline points="400.0,390.0 400.0,450.0" fill="none" stroke="#c4a574" stroke-width="4.0" stroke-linecap="round" stroke-linejoin="round"/>
+<polyline points="436.0,390.0 436.0,450.0" fill="none" stroke="#c4a574" stroke-width="4.0" stroke-linecap="round" stroke-linejoin="round"/>
+<polyline points="472.0,390.0 472.0,450.0" fill="none" stroke="#c4a574" stroke-width="4.0" stroke-linecap="round" stroke-linejoin="round"/>
+<polyline points="508.0,390.0 508.0,450.0" fill="none" stroke="#c4a574" stroke-width="4.0" stroke-linecap="round" stroke-linejoin="round"/>
+<polyline points="544.0,390.0 544.0,450.0" fill="none" stroke="#c4a574" stroke-width="4.0" stroke-linecap="round" stroke-linejoin="round"/>
+<polyline points="580.0,390.0 580.0,450.0" fill="none" stroke="#c4a574" stroke-width="4.0" stroke-linecap="round" stroke-linejoin="round"/>
+<polyline points="616.0,390.0 616.0,450.0" fill="none" stroke="#c4a574" stroke-width="4.0" stroke-linecap="round" stroke-linejoin="round"/>
+<polyline points="30.0,390.0 620.0,390.0" fill="none" stroke="#8a5a3b" stroke-width="5.0" stroke-linecap="round" stroke-linejoin="round"/>
+<g transform="translate(500.0 400.0) scale(0.8)">
 <ellipse cx="0.0" cy="4.0" rx="70.0" ry="12.0" fill="rgba(36,48,68,0.12)"/>
 <rect x="-40.0" y="-40.0" width="12.0" height="40.0" rx="6.0" fill="#2c3e50"/>
 <rect x="-10.0" y="-40.0" width="12.0" height="40.0" rx="6.0" fill="#2c3e50"/>
