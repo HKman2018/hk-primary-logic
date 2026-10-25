@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="480" viewBox="0 0 640 480" shape-rendering="geometricPrecision">
+<rect x="0.0" y="0.0" width="640.0" height="480.0" fill="#d7f0ff"/>
+<rect x="0.0" y="0.0" width="640.0" height="480.0" fill="#d7f0ff"/>
+<rect x="0.0" y="348.0" width="640.0" height="132.0" fill="#7dce6a"/>
+<rect x="0.0" y="348.0" width="640.0" height="10.0" fill="#5eae4e"/>
+<ellipse cx="150.0" cy="250.0" rx="70.0" ry="28.0" fill="#3cb371" stroke="#243044" stroke-width="4.0" stroke-linejoin="round" stroke-linecap="round"/>
+<circle cx="210.0" cy="240.0" r="16.0" fill="#3cb371" stroke="#243044" stroke-width="3.0" stroke-linejoin="round" stroke-linecap="round"/>
+<circle cx="200.0" cy="234.0" r="3.0" fill="#243044"/>
+<polyline points="250.0,240.0 360.0,240.0" fill="none" stroke="#f5a524" stroke-width="8.0" stroke-linecap="round" stroke-linejoin="round"/>
+<polygon points="360.0,240.0 344.6,249.3 344.6,230.7" fill="#f5a524"/>
+<ellipse cx="470.0" cy="200.0" rx="36.0" ry="22.0" fill="#7eb6ef" stroke="#243044" stroke-width="3.0" stroke-linejoin="round" stroke-linecap="round"/>
+<ellipse cx="520.0" cy="230.0" rx="30.0" ry="18.0" fill="#ff8fab" stroke="#243044" stroke-width="3.0" stroke-linejoin="round" stroke-linecap="round"/>
+<ellipse cx="430.0" cy="230.0" rx="28.0" ry="16.0" fill="#ffd34d" stroke="#243044" stroke-width="3.0" stroke-linejoin="round" stroke-linecap="round"/>
+<circle cx="490.0" cy="240.0" r="10.0" fill="#3a322c" stroke="#243044" stroke-width="2.0" stroke-linejoin="round" stroke-linecap="round"/>
+</svg>

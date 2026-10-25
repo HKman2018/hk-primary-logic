@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="480" viewBox="0 0 640 480" shape-rendering="geometricPrecision">
+<rect x="0.0" y="0.0" width="640.0" height="480.0" fill="#d7f0ff"/>
+<rect x="0.0" y="0.0" width="640.0" height="480.0" fill="#e7f6ff"/>
+<rect x="150.0" y="24.0" width="340.0" height="150.0" rx="16.0" fill="#ffffff" stroke="#243044" stroke-width="4.0" stroke-linejoin="round" stroke-linecap="round"/>
+<rect x="150.0" y="24.0" width="340.0" height="48.0" fill="#ef5b5b"/>
+<rect x="150.0" y="24.0" width="340.0" height="48.0" rx="16.0" fill="#ef5b5b"/>
+<rect x="150.0" y="48.0" width="340.0" height="24.0" fill="#ef5b5b"/>
+<circle cx="186.0" cy="32.0" r="8.0" fill="#ffffff"/>
+<circle cx="454.0" cy="32.0" r="8.0" fill="#ffffff"/>
+<text x="320.0" y="42.0" dy="0.35em" text-anchor="middle" font-family='"PingFang TC","Microsoft JhengHei","Noto Sans CJK TC","WenQuanYi Micro Hei",sans-serif' font-size="32.0" font-weight="700" fill="#ffffff">三月</text>
+<path d="M120 240 Q240 210 360 240 T540 240" fill="none" stroke="#4c8dff" stroke-width="6.0" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M120 290 Q240 260 360 290 T540 290" fill="none" stroke="#4c8dff" stroke-width="6.0" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M120 340 Q240 310 360 340 T540 340" fill="none" stroke="#4c8dff" stroke-width="6.0" stroke-linejoin="round" stroke-linecap="round"/>
+</svg>

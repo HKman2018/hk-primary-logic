@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="480" viewBox="0 0 640 480" shape-rendering="geometricPrecision">
+<rect x="0.0" y="0.0" width="640.0" height="480.0" fill="#d7f0ff"/>
+<rect x="0.0" y="0.0" width="640.0" height="480.0" fill="#e9f6ee"/>
+<rect x="150.0" y="24.0" width="340.0" height="150.0" rx="16.0" fill="#ffffff" stroke="#243044" stroke-width="4.0" stroke-linejoin="round" stroke-linecap="round"/>
+<rect x="150.0" y="24.0" width="340.0" height="48.0" fill="#ef5b5b"/>
+<rect x="150.0" y="24.0" width="340.0" height="48.0" rx="16.0" fill="#ef5b5b"/>
+<rect x="150.0" y="48.0" width="340.0" height="24.0" fill="#ef5b5b"/>
+<circle cx="186.0" cy="32.0" r="8.0" fill="#ffffff"/>
+<circle cx="454.0" cy="32.0" r="8.0" fill="#ffffff"/>
+<text x="320.0" y="42.0" dy="0.35em" text-anchor="middle" font-family='"PingFang TC","Microsoft JhengHei","Noto Sans CJK TC","WenQuanYi Micro Hei",sans-serif' font-size="32.0" font-weight="700" fill="#ffffff">十二月</text>
+<rect x="309.6" y="353.2" width="20.8" height="46.8" rx="4.0" fill="#8a5a3b"/>
+<polygon points="320.0,205.0 255.0,309.0 385.0,309.0" fill="#2f8f5b" stroke="#243044" stroke-width="3.0" stroke-linejoin="round" stroke-linecap="round"/>
+<polygon points="320.0,257.0 239.4,361.0 400.6,361.0" fill="#237a48" stroke="#243044" stroke-width="3.0" stroke-linejoin="round" stroke-linecap="round"/>
+<circle cx="300.0" cy="250.0" r="8.0" fill="#ef5b5b"/>
+<circle cx="340.0" cy="290.0" r="8.0" fill="#ffd34d"/>
+<circle cx="310.0" cy="330.0" r="8.0" fill="#4c8dff"/>
+</svg>

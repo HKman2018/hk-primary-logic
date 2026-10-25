@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="480" viewBox="0 0 640 480" shape-rendering="geometricPrecision">
+<rect x="0.0" y="0.0" width="640.0" height="480.0" fill="#d7f0ff"/>
+<rect x="0.0" y="0.0" width="640.0" height="480.0" fill="#d7f0ff"/>
+<rect x="0.0" y="348.0" width="640.0" height="132.0" fill="#d7e8c4"/>
+<rect x="0.0" y="348.0" width="640.0" height="10.0" fill="#5eae4e"/>
+<g transform="translate(320.0 360.0) scale(1.5)">
+<ellipse cx="0.0" cy="6.0" rx="90.0" ry="14.0" fill="rgba(36,48,68,0.12)"/>
+<ellipse cx="-20.0" cy="-70.0" rx="100.0" ry="48.0" fill="#f5a524" stroke="#243044" stroke-width="4.0" stroke-linejoin="round" stroke-linecap="round"/>
+<polyline points="-70.0,-96.0 -62.0,-44.0" fill="none" stroke="#243044" stroke-width="4.0" stroke-linecap="round" stroke-linejoin="round"/>
+<polyline points="-30.0,-96.0 -22.0,-44.0" fill="none" stroke="#243044" stroke-width="4.0" stroke-linecap="round" stroke-linejoin="round"/>
+<polyline points="10.0,-96.0 18.0,-44.0" fill="none" stroke="#243044" stroke-width="4.0" stroke-linecap="round" stroke-linejoin="round"/>
+<polyline points="46.0,-96.0 54.0,-44.0" fill="none" stroke="#243044" stroke-width="4.0" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="78.0" cy="-96.0" r="40.0" fill="#f5a524" stroke="#243044" stroke-width="4.0" stroke-linejoin="round" stroke-linecap="round"/>
+<polygon points="60.0,-120.0 70.0,-160.0 96.0,-118.0" fill="#f5a524" stroke="#243044" stroke-width="3.0" stroke-linejoin="round" stroke-linecap="round"/>
+<polygon points="96.0,-118.0 118.0,-156.0 112.0,-108.0" fill="#f5a524" stroke="#243044" stroke-width="3.0" stroke-linejoin="round" stroke-linecap="round"/>
+<circle cx="90.0" cy="-100.0" r="5.0" fill="#243044"/>
+<circle cx="92.0" cy="-102.0" r="2.0" fill="#ffffff"/>
+<polygon points="100.0,-86.0 112.0,-80.0 100.0,-74.0" fill="#ff8fab"/>
+<path d="M-110 -60 Q-150 -90 -120 -20" fill="none" stroke="#f5a524" stroke-width="12.0" stroke-linejoin="round" stroke-linecap="round"/>
+<rect x="-70.0" y="-40.0" width="16.0" height="40.0" rx="6.0" fill="#f5a524" stroke="#243044" stroke-width="3.0" stroke-linejoin="round" stroke-linecap="round"/>
+<rect x="-30.0" y="-40.0" width="16.0" height="40.0" rx="6.0" fill="#f5a524" stroke="#243044" stroke-width="3.0" stroke-linejoin="round" stroke-linecap="round"/>
+<rect x="10.0" y="-40.0" width="16.0" height="40.0" rx="6.0" fill="#f5a524" stroke="#243044" stroke-width="3.0" stroke-linejoin="round" stroke-linecap="round"/>
+</g>
+<rect x="73.0" y="317.0" width="14.0" height="63.0" rx="6.0" fill="#8a5a3b" stroke="#243044" stroke-width="3.0" stroke-linejoin="round" stroke-linecap="round"/>
+<circle cx="80.0" cy="296.0" r="32.2" fill="#3cb371" stroke="#243044" stroke-width="4.0" stroke-linejoin="round" stroke-linecap="round"/>
+<circle cx="57.6" cy="312.8" r="22.4" fill="#3cb371" stroke="#243044" stroke-width="4.0" stroke-linejoin="round" stroke-linecap="round"/>
+<circle cx="103.8" cy="311.4" r="21.0" fill="#3cb371" stroke="#243044" stroke-width="4.0" stroke-linejoin="round" stroke-linecap="round"/>
+</svg>

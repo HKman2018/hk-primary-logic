@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="480" viewBox="0 0 640 480" shape-rendering="geometricPrecision">
+<rect x="0.0" y="0.0" width="640.0" height="480.0" fill="#d7f0ff"/>
+<rect x="0.0" y="0.0" width="640.0" height="480.0" fill="#f7fbff"/>
+<rect x="70.0" y="30.0" width="500.0" height="420.0" rx="16.0" fill="#ffffff" stroke="#243044" stroke-width="4.0" stroke-linejoin="round" stroke-linecap="round"/>
+<rect x="70.0" y="30.0" width="500.0" height="48.0" fill="#ef5b5b"/>
+<rect x="70.0" y="30.0" width="500.0" height="48.0" rx="16.0" fill="#ef5b5b"/>
+<rect x="70.0" y="54.0" width="500.0" height="24.0" fill="#ef5b5b"/>
+<circle cx="106.0" cy="38.0" r="8.0" fill="#ffffff"/>
+<circle cx="534.0" cy="38.0" r="8.0" fill="#ffffff"/>
+<text x="320.0" y="90.0" dy="0.35em" text-anchor="middle" font-family='"PingFang TC","Microsoft JhengHei","Noto Sans CJK TC","WenQuanYi Micro Hei",sans-serif' font-size="36.0" font-weight="700" fill="#ffffff">月</text>
+<rect x="100.0" y="180.0" width="48.0" height="36.0" rx="6.0" fill="#f4f7fb" stroke="#243044" stroke-width="2.0" stroke-linejoin="round" stroke-linecap="round"/>
+<rect x="164.0" y="180.0" width="48.0" height="36.0" rx="6.0" fill="#f4f7fb" stroke="#243044" stroke-width="2.0" stroke-linejoin="round" stroke-linecap="round"/>
+<rect x="228.0" y="180.0" width="48.0" height="36.0" rx="6.0" fill="#f4f7fb" stroke="#243044" stroke-width="2.0" stroke-linejoin="round" stroke-linecap="round"/>
+<rect x="292.0" y="180.0" width="48.0" height="36.0" rx="6.0" fill="#f4f7fb" stroke="#243044" stroke-width="2.0" stroke-linejoin="round" stroke-linecap="round"/>
+<rect x="356.0" y="180.0" width="48.0" height="36.0" rx="6.0" fill="#f4f7fb" stroke="#243044" stroke-width="2.0" stroke-linejoin="round" stroke-linecap="round"/>
+<rect x="420.0" y="180.0" width="48.0" height="36.0" rx="6.0" fill="#f4f7fb" stroke="#243044" stroke-width="2.0" stroke-linejoin="round" stroke-linecap="round"/>
+<rect x="484.0" y="180.0" width="48.0" height="36.0" rx="6.0" fill="#f4f7fb" stroke="#243044" stroke-width="2.0" stroke-linejoin="round" stroke-linecap="round"/>
+<rect x="100.0" y="228.0" width="48.0" height="36.0" rx="6.0" fill="#f4f7fb" stroke="#243044" stroke-width="2.0" stroke-linejoin="round" stroke-linecap="round"/>
+<rect x="164.0" y="228.0" width="48.0" height="36.0" rx="6.0" fill="#f4f7fb" stroke="#243044" stroke-width="2.0" stroke-linejoin="round" stroke-linecap="round"/>
+<rect x="228.0" y="228.0" width="48.0" height="36.0" rx="6.0" fill="#f4f7fb" stroke="#243044" stroke-width="2.0" stroke-linejoin="round" stroke-linecap="round"/>
+<rect x="292.0" y="228.0" width="48.0" height="36.0" rx="6.0" fill="#f4f7fb" stroke="#243044" stroke-width="2.0" stroke-linejoin="round" stroke-linecap="round"/>
+<rect x="356.0" y="228.0" width="48.0" height="36.0" rx="6.0" fill="#f4f7fb" stroke="#243044" stroke-width="2.0" stroke-linejoin="round" stroke-linecap="round"/>
+<rect x="420.0" y="228.0" width="48.0" height="36.0" rx="6.0" fill="#f4f7fb" stroke="#243044" stroke-width="2.0" stroke-linejoin="round" stroke-linecap="round"/>
+<rect x="484.0" y="228.0" width="48.0" height="36.0" rx="6.0" fill="#f4f7fb" stroke="#243044" stroke-width="2.0" stroke-linejoin="round" stroke-linecap="round"/>
+<rect x="100.0" y="276.0" width="48.0" height="36.0" rx="6.0" fill="#f4f7fb" stroke="#243044" stroke-width="2.0" stroke-linejoin="round" stroke-linecap="round"/>
+<rect x="164.0" y="276.0" width="48.0" height="36.0" rx="6.0" fill="#f4f7fb" stroke="#243044" stroke-width="2.0" stroke-linejoin="round" stroke-linecap="round"/>
+<rect x="228.0" y="276.0" width="48.0" height="36.0" rx="6.0" fill="#f4f7fb" stroke="#243044" stroke-width="2.0" stroke-linejoin="round" stroke-linecap="round"/>
+<rect x="292.0" y="276.0" width="48.0" height="36.0" rx="6.0" fill="#f4f7fb" stroke="#243044" stroke-width="2.0" stroke-linejoin="round" stroke-linecap="round"/>
+<rect x="356.0" y="276.0" width="48.0" height="36.0" rx="6.0" fill="#f4f7fb" stroke="#243044" stroke-width="2.0" stroke-linejoin="round" stroke-linecap="round"/>
+<rect x="420.0" y="276.0" width="48.0" height="36.0" rx="6.0" fill="#f4f7fb" stroke="#243044" stroke-width="2.0" stroke-linejoin="round" stroke-linecap="round"/>
+<rect x="484.0" y="276.0" width="48.0" height="36.0" rx="6.0" fill="#f4f7fb" stroke="#243044" stroke-width="2.0" stroke-linejoin="round" stroke-linecap="round"/>
+<rect x="100.0" y="324.0" width="48.0" height="36.0" rx="6.0" fill="#f4f7fb" stroke="#243044" stroke-width="2.0" stroke-linejoin="round" stroke-linecap="round"/>
+<rect x="164.0" y="324.0" width="48.0" height="36.0" rx="6.0" fill="#f4f7fb" stroke="#243044" stroke-width="2.0" stroke-linejoin="round" stroke-linecap="round"/>
+<rect x="228.0" y="324.0" width="48.0" height="36.0" rx="6.0" fill="#f4f7fb" stroke="#243044" stroke-width="2.0" stroke-linejoin="round" stroke-linecap="round"/>
+<rect x="292.0" y="324.0" width="48.0" height="36.0" rx="6.0" fill="#f4f7fb" stroke="#243044" stroke-width="2.0" stroke-linejoin="round" stroke-linecap="round"/>
+<rect x="356.0" y="324.0" width="48.0" height="36.0" rx="6.0" fill="#f4f7fb" stroke="#243044" stroke-width="2.0" stroke-linejoin="round" stroke-linecap="round"/>
+<rect x="420.0" y="324.0" width="48.0" height="36.0" rx="6.0" fill="#f4f7fb" stroke="#243044" stroke-width="2.0" stroke-linejoin="round" stroke-linecap="round"/>
+<rect x="484.0" y="324.0" width="48.0" height="36.0" rx="6.0" fill="#f4f7fb" stroke="#243044" stroke-width="2.0" stroke-linejoin="round" stroke-linecap="round"/>
+<rect x="100.0" y="372.0" width="48.0" height="36.0" rx="6.0" fill="#f4f7fb" stroke="#243044" stroke-width="2.0" stroke-linejoin="round" stroke-linecap="round"/>
+<rect x="164.0" y="372.0" width="48.0" height="36.0" rx="6.0" fill="#f4f7fb" stroke="#243044" stroke-width="2.0" stroke-linejoin="round" stroke-linecap="round"/>
+<rect x="228.0" y="372.0" width="48.0" height="36.0" rx="6.0" fill="#f4f7fb" stroke="#243044" stroke-width="2.0" stroke-linejoin="round" stroke-linecap="round"/>
+<rect x="292.0" y="372.0" width="48.0" height="36.0" rx="6.0" fill="#f4f7fb" stroke="#243044" stroke-width="2.0" stroke-linejoin="round" stroke-linecap="round"/>
+<rect x="356.0" y="372.0" width="48.0" height="36.0" rx="6.0" fill="#f4f7fb" stroke="#243044" stroke-width="2.0" stroke-linejoin="round" stroke-linecap="round"/>
+<rect x="420.0" y="372.0" width="48.0" height="36.0" rx="6.0" fill="#f4f7fb" stroke="#243044" stroke-width="2.0" stroke-linejoin="round" stroke-linecap="round"/>
+<rect x="484.0" y="372.0" width="48.0" height="36.0" rx="6.0" fill="#f4f7fb" stroke="#243044" stroke-width="2.0" stroke-linejoin="round" stroke-linecap="round"/>
+</svg>

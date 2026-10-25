@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="480" viewBox="0 0 640 480" shape-rendering="geometricPrecision">
+<rect x="0.0" y="0.0" width="640.0" height="480.0" fill="#d7f0ff"/>
+<rect x="0.0" y="0.0" width="640.0" height="480.0" fill="#fff8ea"/>
+<circle cx="220.0" cy="200.0" r="60.0" fill="#f0d78c" stroke="#243044" stroke-width="5.0" stroke-linejoin="round" stroke-linecap="round"/>
+<circle cx="220.0" cy="200.0" r="24.0" fill="#fff8ea" stroke="#243044" stroke-width="4.0" stroke-linejoin="round" stroke-linecap="round"/>
+<rect x="270.0" y="184.0" width="180.0" height="28.0" fill="#f0d78c" stroke="#243044" stroke-width="4.0" stroke-linejoin="round" stroke-linecap="round"/>
+<rect x="400.0" y="212.0" width="20.0" height="36.0" fill="#f0d78c" stroke="#243044" stroke-width="3.0" stroke-linejoin="round" stroke-linecap="round"/>
+<rect x="440.0" y="212.0" width="20.0" height="24.0" fill="#f0d78c" stroke="#243044" stroke-width="3.0" stroke-linejoin="round" stroke-linecap="round"/>
+<polygon points="500.0,96.0 506.3,111.3 522.8,112.6 510.3,123.3 514.1,139.4 500.0,130.8 485.9,139.4 489.7,123.3 477.2,112.6 493.7,111.3" fill="#ffd34d" stroke="#243044" stroke-width="3.0" stroke-linejoin="round" stroke-linecap="round"/>
+</svg>

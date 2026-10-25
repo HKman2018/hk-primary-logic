@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="480" viewBox="0 0 640 480" shape-rendering="geometricPrecision">
+<rect x="0.0" y="0.0" width="640.0" height="480.0" fill="#d7f0ff"/>
+<rect x="0.0" y="0.0" width="640.0" height="160.0" fill="#bfe9ff"/>
+<rect x="0.0" y="160.0" width="640.0" height="320.0" fill="#2f7fbe"/>
+<g transform="translate(300.0 300.0) scale(1.1)">
+<path d="M-160 10 C-80 -70 120 -80 200 -10 C120 40 -40 46 -160 10 Z" fill="#4c8dff" stroke="#243044" stroke-width="4.0" stroke-linejoin="round" stroke-linecap="round"/>
+<polygon points="20.0,-48.0 70.0,-110.0 80.0,-30.0" fill="#2f6fe0" stroke="#243044" stroke-width="3.0" stroke-linejoin="round" stroke-linecap="round"/>
+<circle cx="120.0" cy="-16.0" r="6.0" fill="#243044"/>
+<circle cx="124.0" cy="-18.0" r="2.0" fill="#ffffff"/>
+<path d="M150 -20 Q170 -50 160 -70" fill="none" stroke="#9fd4ff" stroke-width="6.0" stroke-linejoin="round" stroke-linecap="round"/>
+<circle cx="164.0" cy="-78.0" r="8.0" fill="rgba(255,255,255,0.7)"/>
+</g>
+<path d="M470 150 L520 190 L480 190 Z" fill="#ffffff" stroke="#243044" stroke-width="3.0" stroke-linejoin="round" stroke-linecap="round"/>
+</svg>

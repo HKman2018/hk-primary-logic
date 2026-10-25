@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="480" viewBox="0 0 640 480" shape-rendering="geometricPrecision">
+<rect x="0.0" y="0.0" width="640.0" height="480.0" fill="#d7f0ff"/>
+<rect x="0.0" y="0.0" width="640.0" height="480.0" fill="#e7f6ff"/>
+<path d="M280.0 160.0 L294.0 360.0 L386.0 360.0 L400.0 160.0 Z" fill="rgba(255,255,255,0.35)" stroke="#243044" stroke-width="4.0" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M288.0 230.0 L298.0 352.0 L382.0 352.0 L392.0 230.0 Z" fill="#9fd4ff"/>
+<polyline points="296.0,178.0 302.0,344.0" fill="none" stroke="rgba(255,255,255,0.8)" stroke-width="6.0" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M250 40 Q300 80 310 150" fill="none" stroke="#4aa3e8" stroke-width="10.0" stroke-linejoin="round" stroke-linecap="round"/>
+<polyline points="430.0,260.0 430.0,180.0" fill="none" stroke="#4c8dff" stroke-width="8.0" stroke-linecap="round" stroke-linejoin="round"/>
+<polygon points="430.0,180.0 439.3,195.4 420.7,195.4" fill="#4c8dff"/>
+</svg>

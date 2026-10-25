@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="480" viewBox="0 0 640 480" shape-rendering="geometricPrecision">
+<rect x="0.0" y="0.0" width="640.0" height="480.0" fill="#d7f0ff"/>
+<rect x="0.0" y="0.0" width="640.0" height="480.0" fill="#f4f8fc"/>
+<rect x="40.0" y="80.0" width="560.0" height="250.0" rx="16.0" fill="#ffffff" stroke="#243044" stroke-width="4.0" stroke-linejoin="round" stroke-linecap="round"/>
+<rect x="40.0" y="80.0" width="560.0" height="48.0" fill="#ef5b5b"/>
+<rect x="40.0" y="80.0" width="560.0" height="48.0" rx="16.0" fill="#ef5b5b"/>
+<rect x="40.0" y="104.0" width="560.0" height="24.0" fill="#ef5b5b"/>
+<circle cx="76.0" cy="88.0" r="8.0" fill="#ffffff"/>
+<circle cx="564.0" cy="88.0" r="8.0" fill="#ffffff"/>
+<rect x="60.0" y="160.0" width="67.4" height="64.0" rx="8.0" fill="#f4f7fb" stroke="#243044" stroke-width="3.0" stroke-linejoin="round" stroke-linecap="round"/>
+<text x="93.7" y="190.0" dy="0.35em" text-anchor="middle" font-family='"PingFang TC","Microsoft JhengHei","Noto Sans CJK TC","WenQuanYi Micro Hei",sans-serif' font-size="22.0" font-weight="700" fill="#243044">一</text>
+<rect x="135.4" y="160.0" width="67.4" height="64.0" rx="8.0" fill="#f4f7fb" stroke="#243044" stroke-width="3.0" stroke-linejoin="round" stroke-linecap="round"/>
+<text x="169.1" y="190.0" dy="0.35em" text-anchor="middle" font-family='"PingFang TC","Microsoft JhengHei","Noto Sans CJK TC","WenQuanYi Micro Hei",sans-serif' font-size="22.0" font-weight="700" fill="#243044">二</text>
+<rect x="210.9" y="160.0" width="67.4" height="64.0" rx="8.0" fill="#f4f7fb" stroke="#243044" stroke-width="3.0" stroke-linejoin="round" stroke-linecap="round"/>
+<text x="244.6" y="190.0" dy="0.35em" text-anchor="middle" font-family='"PingFang TC","Microsoft JhengHei","Noto Sans CJK TC","WenQuanYi Micro Hei",sans-serif' font-size="22.0" font-weight="700" fill="#243044">三</text>
+<rect x="286.3" y="160.0" width="67.4" height="64.0" rx="8.0" fill="#f4f7fb" stroke="#243044" stroke-width="3.0" stroke-linejoin="round" stroke-linecap="round"/>
+<text x="320.0" y="190.0" dy="0.35em" text-anchor="middle" font-family='"PingFang TC","Microsoft JhengHei","Noto Sans CJK TC","WenQuanYi Micro Hei",sans-serif' font-size="22.0" font-weight="700" fill="#243044">四</text>
+<rect x="361.7" y="160.0" width="67.4" height="64.0" rx="8.0" fill="#f4f7fb" stroke="#243044" stroke-width="3.0" stroke-linejoin="round" stroke-linecap="round"/>
+<text x="395.4" y="190.0" dy="0.35em" text-anchor="middle" font-family='"PingFang TC","Microsoft JhengHei","Noto Sans CJK TC","WenQuanYi Micro Hei",sans-serif' font-size="22.0" font-weight="700" fill="#243044">五</text>
+<rect x="437.1" y="160.0" width="67.4" height="64.0" rx="8.0" fill="#f4f7fb" stroke="#243044" stroke-width="3.0" stroke-linejoin="round" stroke-linecap="round"/>
+<text x="470.9" y="190.0" dy="0.35em" text-anchor="middle" font-family='"PingFang TC","Microsoft JhengHei","Noto Sans CJK TC","WenQuanYi Micro Hei",sans-serif' font-size="22.0" font-weight="700" fill="#243044">六</text>
+<rect x="512.6" y="160.0" width="67.4" height="64.0" rx="8.0" fill="#f4f7fb" stroke="#243044" stroke-width="3.0" stroke-linejoin="round" stroke-linecap="round"/>
+<text x="546.3" y="190.0" dy="0.35em" text-anchor="middle" font-family='"PingFang TC","Microsoft JhengHei","Noto Sans CJK TC","WenQuanYi Micro Hei",sans-serif' font-size="22.0" font-weight="700" fill="#243044">日</text>
+<path d="M70 430 Q320 300 570 430" fill="none" stroke="#4c8dff" stroke-width="6.0" stroke-linejoin="round" stroke-linecap="round"/>
+<text x="320.0" y="40.0" dy="0.35em" text-anchor="middle" font-family='"PingFang TC","Microsoft JhengHei","Noto Sans CJK TC","WenQuanYi Micro Hei",sans-serif' font-size="36.0" font-weight="700" fill="#2f6fe0">一星期</text>
+</svg>

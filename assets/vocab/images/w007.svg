@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="480" viewBox="0 0 640 480" shape-rendering="geometricPrecision">
+<rect x="0.0" y="0.0" width="640.0" height="480.0" fill="#d7f0ff"/>
+<rect x="0.0" y="0.0" width="640.0" height="480.0" fill="#e7f7ff"/>
+<ellipse cx="310.0" cy="120.0" rx="40.0" ry="14.0" fill="#ff8b8b" stroke="#243044" stroke-width="3.0" stroke-linejoin="round" stroke-linecap="round"/>
+<rect x="270.0" y="120.0" width="80.0" height="140.0" fill="#ef5b5b" stroke="#243044" stroke-width="4.0" stroke-linejoin="round" stroke-linecap="round"/>
+<ellipse cx="310.0" cy="260.0" rx="40.0" ry="14.0" fill="#d64545" stroke="#243044" stroke-width="3.0" stroke-linejoin="round" stroke-linecap="round"/>
+<rect x="270.0" y="168.0" width="80.0" height="36.0" fill="#ffffff"/>
+<circle cx="310.0" cy="186.0" r="10.0" fill="#7fd3ff" stroke="#243044" stroke-width="2.0" stroke-linejoin="round" stroke-linecap="round"/>
+<circle cx="180.0" cy="180.0" r="14.0" fill="rgba(255,255,255,0.8)" stroke="#9fd4ff" stroke-width="2.0" stroke-linejoin="round" stroke-linecap="round"/>
+<circle cx="470.0" cy="220.0" r="20.0" fill="rgba(255,255,255,0.8)" stroke="#9fd4ff" stroke-width="2.0" stroke-linejoin="round" stroke-linecap="round"/>
+<circle cx="160.0" cy="280.0" r="10.0" fill="rgba(255,255,255,0.8)" stroke="#9fd4ff" stroke-width="2.0" stroke-linejoin="round" stroke-linecap="round"/>
+</svg>

@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="480" viewBox="0 0 640 480" shape-rendering="geometricPrecision">
+<rect x="0.0" y="0.0" width="640.0" height="480.0" fill="#d7f0ff"/>
+<rect x="0.0" y="0.0" width="640.0" height="480.0" fill="#fff1e4"/>
+<rect x="150.0" y="24.0" width="340.0" height="150.0" rx="16.0" fill="#ffffff" stroke="#243044" stroke-width="4.0" stroke-linejoin="round" stroke-linecap="round"/>
+<rect x="150.0" y="24.0" width="340.0" height="48.0" fill="#ef5b5b"/>
+<rect x="150.0" y="24.0" width="340.0" height="48.0" rx="16.0" fill="#ef5b5b"/>
+<rect x="150.0" y="48.0" width="340.0" height="24.0" fill="#ef5b5b"/>
+<circle cx="186.0" cy="32.0" r="8.0" fill="#ffffff"/>
+<circle cx="454.0" cy="32.0" r="8.0" fill="#ffffff"/>
+<text x="320.0" y="42.0" dy="0.35em" text-anchor="middle" font-family='"PingFang TC","Microsoft JhengHei","Noto Sans CJK TC","WenQuanYi Micro Hei",sans-serif' font-size="32.0" font-weight="700" fill="#ffffff">九月</text>
+<ellipse cx="160.0" cy="300.0" rx="36.0" ry="20.0" fill="#f5a524" stroke="#243044" stroke-width="3.0" stroke-linejoin="round" stroke-linecap="round"/>
+<ellipse cx="270.0" cy="300.0" rx="36.0" ry="20.0" fill="#ef5b5b" stroke="#243044" stroke-width="3.0" stroke-linejoin="round" stroke-linecap="round"/>
+<ellipse cx="380.0" cy="300.0" rx="36.0" ry="20.0" fill="#ffd34d" stroke="#243044" stroke-width="3.0" stroke-linejoin="round" stroke-linecap="round"/>
+<ellipse cx="490.0" cy="300.0" rx="36.0" ry="20.0" fill="#8a5a3b" stroke="#243044" stroke-width="3.0" stroke-linejoin="round" stroke-linecap="round"/>
+</svg>

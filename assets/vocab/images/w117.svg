@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="480" viewBox="0 0 640 480" shape-rendering="geometricPrecision">
+<rect x="0.0" y="0.0" width="640.0" height="480.0" fill="#d7f0ff"/>
+<rect x="0.0" y="0.0" width="640.0" height="480.0" fill="#fff8ea"/>
+<polygon points="320.0,100.0 351.7,176.3 434.1,182.9 371.4,236.7 390.5,317.1 320.0,274.0 249.5,317.1 268.6,236.7 205.9,182.9 288.3,176.3" fill="#ffd34d" stroke="#243044" stroke-width="3.0" stroke-linejoin="round" stroke-linecap="round"/>
+<text x="320.0" y="190.0" dy="0.35em" text-anchor="middle" font-family='Verdana, sans-serif' font-size="72.0" font-weight="700" fill="#ef5b5b">!</text>
+</svg>

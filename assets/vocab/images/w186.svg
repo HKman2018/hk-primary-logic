@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="480" viewBox="0 0 640 480" shape-rendering="geometricPrecision">
+<rect x="0.0" y="0.0" width="640.0" height="480.0" fill="#d7f0ff"/>
+<rect x="0.0" y="0.0" width="640.0" height="480.0" fill="#fff4d8"/>
+<rect x="150.0" y="24.0" width="340.0" height="150.0" rx="16.0" fill="#ffffff" stroke="#243044" stroke-width="4.0" stroke-linejoin="round" stroke-linecap="round"/>
+<rect x="150.0" y="24.0" width="340.0" height="48.0" fill="#ef5b5b"/>
+<rect x="150.0" y="24.0" width="340.0" height="48.0" rx="16.0" fill="#ef5b5b"/>
+<rect x="150.0" y="48.0" width="340.0" height="24.0" fill="#ef5b5b"/>
+<circle cx="186.0" cy="32.0" r="8.0" fill="#ffffff"/>
+<circle cx="454.0" cy="32.0" r="8.0" fill="#ffffff"/>
+<text x="320.0" y="42.0" dy="0.35em" text-anchor="middle" font-family='"PingFang TC","Microsoft JhengHei","Noto Sans CJK TC","WenQuanYi Micro Hei",sans-serif' font-size="32.0" font-weight="700" fill="#ffffff">八月</text>
+<ellipse cx="320.0" cy="360.0" rx="200.0" ry="40.0" fill="#f0d78c"/>
+<path d="M187.0 300.0 Q250.0 223.0 313.0 300.0 Z" fill="#ef5b5b" stroke="#243044" stroke-width="4.0" stroke-linejoin="round" stroke-linecap="round"/>
+<polyline points="250.0,300.0 250.0,363.0" fill="none" stroke="#243044" stroke-width="4.0" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M250.0 363.0 Q264.0 377.0 255.6 363.0" fill="none" stroke="#243044" stroke-width="4.0" stroke-linejoin="round" stroke-linecap="round"/>
+<polyline points="524.0,250.0 542.0,250.0" fill="none" stroke="#f5a524" stroke-width="6.0" stroke-linecap="round" stroke-linejoin="round"/>
+<polyline points="518.1,272.0 533.7,281.0" fill="none" stroke="#f5a524" stroke-width="6.0" stroke-linecap="round" stroke-linejoin="round"/>
+<polyline points="502.0,288.1 511.0,303.7" fill="none" stroke="#f5a524" stroke-width="6.0" stroke-linecap="round" stroke-linejoin="round"/>
+<polyline points="480.0,294.0 480.0,312.0" fill="none" stroke="#f5a524" stroke-width="6.0" stroke-linecap="round" stroke-linejoin="round"/>
+<polyline points="458.0,288.1 449.0,303.7" fill="none" stroke="#f5a524" stroke-width="6.0" stroke-linecap="round" stroke-linejoin="round"/>
+<polyline points="441.9,272.0 426.3,281.0" fill="none" stroke="#f5a524" stroke-width="6.0" stroke-linecap="round" stroke-linejoin="round"/>
+<polyline points="436.0,250.0 418.0,250.0" fill="none" stroke="#f5a524" stroke-width="6.0" stroke-linecap="round" stroke-linejoin="round"/>
+<polyline points="441.9,228.0 426.3,219.0" fill="none" stroke="#f5a524" stroke-width="6.0" stroke-linecap="round" stroke-linejoin="round"/>
+<polyline points="458.0,211.9 449.0,196.3" fill="none" stroke="#f5a524" stroke-width="6.0" stroke-linecap="round" stroke-linejoin="round"/>
+<polyline points="480.0,206.0 480.0,188.0" fill="none" stroke="#f5a524" stroke-width="6.0" stroke-linecap="round" stroke-linejoin="round"/>
+<polyline points="502.0,211.9 511.0,196.3" fill="none" stroke="#f5a524" stroke-width="6.0" stroke-linecap="round" stroke-linejoin="round"/>
+<polyline points="518.1,228.0 533.7,219.0" fill="none" stroke="#f5a524" stroke-width="6.0" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="480.0" cy="250.0" r="36.0" fill="#ffd34d" stroke="#243044" stroke-width="4.0" stroke-linejoin="round" stroke-linecap="round"/>
+<circle cx="464.0" cy="244.0" r="5.0" fill="#243044"/>
+<circle cx="496.0" cy="244.0" r="5.0" fill="#243044"/>
+<path d="M462.0 260.0 Q480.0 278.0 498.0 260.0" fill="none" stroke="#243044" stroke-width="4.0" stroke-linejoin="round" stroke-linecap="round"/>
+</svg>

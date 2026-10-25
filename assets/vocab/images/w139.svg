@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="480" viewBox="0 0 640 480" shape-rendering="geometricPrecision">
+<rect x="0.0" y="0.0" width="640.0" height="480.0" fill="#d7f0ff"/>
+<rect x="0.0" y="0.0" width="640.0" height="480.0" fill="#f7fbff"/>
+<polyline points="80.0,60.0 80.0,400.0 560.0,400.0" fill="none" stroke="#243044" stroke-width="4.0" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M120 340 L200 300 L280 310 L360 200 L460 120" fill="none" stroke="#3cb371" stroke-width="8.0" stroke-linejoin="round" stroke-linecap="round"/>
+<circle cx="120.0" cy="340.0" r="8.0" fill="#3cb371" stroke="#243044" stroke-width="3.0" stroke-linejoin="round" stroke-linecap="round"/>
+<circle cx="200.0" cy="300.0" r="8.0" fill="#3cb371" stroke="#243044" stroke-width="3.0" stroke-linejoin="round" stroke-linecap="round"/>
+<circle cx="280.0" cy="310.0" r="8.0" fill="#3cb371" stroke="#243044" stroke-width="3.0" stroke-linejoin="round" stroke-linecap="round"/>
+<circle cx="360.0" cy="200.0" r="8.0" fill="#3cb371" stroke="#243044" stroke-width="3.0" stroke-linejoin="round" stroke-linecap="round"/>
+<circle cx="460.0" cy="120.0" r="8.0" fill="#3cb371" stroke="#243044" stroke-width="3.0" stroke-linejoin="round" stroke-linecap="round"/>
+<polyline points="480.0,140.0 520.0,80.0" fill="none" stroke="#3cb371" stroke-width="8.0" stroke-linecap="round" stroke-linejoin="round"/>
+<polygon points="520.0,80.0 519.2,98.0 503.7,87.7" fill="#3cb371"/>
+</svg>
