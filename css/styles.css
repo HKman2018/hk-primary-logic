@@ -304,8 +304,7 @@ button.mode-card:hover .vocab-pill { background: var(--vocab-hover); }
   text-align: center;
 }
 #vocab-zh-cue.is-primary .vocab-zh-prefix {
-  display: block;
-  margin: 0 0 0.2rem;
+  margin-right: 0.2rem;
 }
 .vocab-prompt {
   display: block;
