@@ -1,5 +1,5 @@
 /** Picture vocab for 「看圖學英文」 v2.1. Independent of LOGIC_BANK and the daily pool.
- *  Gameplay answer is the English lemma only. zhCue asks the quiz to show zh as a hint.
+ *  The quiz shows zh and accepts only the English lemma. It does not load image.
  *  Images are original CC0 drawings; see assets/vocab/README.md.
  */
 window.VOCAB_PICTURE_BANK = [

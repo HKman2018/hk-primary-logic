@@ -25,7 +25,7 @@ python3 assets/vocab/generate_images.py
 - 停車牌用國際符號字母 P；接受嘅答案係 `park`。
 - 字母積木（A、B、C）用嚟表示 basic / spell，答案唔係字母本身，亦唔會拼出目標詞。
 - `free`（免費的）標價用 `0` 同繁中「免費」；`fine`（夠好的）用繁中「還可以」。兩處都唔寫英文答案。
-- 題面繁中提示唔畫入 SVG。`js/vocab-data.js` 嘅 `zhCue` 先決定答題殼係咪顯示「意思：{zh}」。圖載入失敗時，無論 `zhCue`，題面都會改為以繁中做主提示。
+- 答題殼而家以詞庫 `zh` 做題面，唔顯示呢批 SVG。`zhCue` 唔再控制題面。
 
 ## 舊版
 
