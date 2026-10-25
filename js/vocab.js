@@ -7,6 +7,7 @@
   });
 
   const els = {
+    home: document.getElementById("home"),
     mode: document.getElementById("vocab-mode"),
     quiz: document.getElementById("vocab-quiz"),
     done: document.getElementById("vocab-done"),
