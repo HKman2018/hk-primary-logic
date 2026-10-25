@@ -1,8 +1,9 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="640" height="480" viewBox="0 0 640 480" shape-rendering="geometricPrecision">
 <rect x="0.0" y="0.0" width="640.0" height="480.0" fill="#d7f0ff"/>
-<rect x="0.0" y="0.0" width="640.0" height="480.0" fill="#f4f7fb"/>
-<rect x="140.0" y="180.0" width="180.0" height="28.0" fill="#8a5a3b" stroke="#243044" stroke-width="4.0" stroke-linejoin="round" stroke-linecap="round"/>
-<rect x="300.0" y="150.0" width="80.0" height="90.0" rx="8.0" fill="#9aa8b8" stroke="#243044" stroke-width="4.0" stroke-linejoin="round" stroke-linecap="round"/>
-<path d="M160 320 Q240 250 340 340" fill="none" stroke="#7f8ea3" stroke-width="14.0" stroke-linejoin="round" stroke-linecap="round"/>
-<circle cx="340.0" cy="340.0" r="22.0" fill="none" stroke="#243044" stroke-width="6.0" stroke-linejoin="round" stroke-linecap="round"/>
+<rect x="0.0" y="0.0" width="640.0" height="480.0" fill="#f3f6fb"/>
+<rect x="120.0" y="160.0" width="220.0" height="36.0" fill="#8a5a3b" stroke="#243044" stroke-width="5.0" stroke-linejoin="round" stroke-linecap="round"/>
+<rect x="310.0" y="120.0" width="110.0" height="120.0" rx="10.0" fill="#9aa8b8" stroke="#243044" stroke-width="5.0" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M140 340 Q250 240 380 360" fill="none" stroke="#7f8ea3" stroke-width="16.0" stroke-linejoin="round" stroke-linecap="round"/>
+<circle cx="380.0" cy="360.0" r="28.0" fill="none" stroke="#243044" stroke-width="8.0" stroke-linejoin="round" stroke-linecap="round"/>
+<rect x="400.0" y="300.0" width="70.0" height="22.0" rx="6.0" fill="#9aa8b8" stroke="#243044" stroke-width="3.0" stroke-linejoin="round" stroke-linecap="round"/>
 </svg>

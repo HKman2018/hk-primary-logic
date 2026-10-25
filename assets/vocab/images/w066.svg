@@ -1,13 +1,14 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="640" height="480" viewBox="0 0 640 480" shape-rendering="geometricPrecision">
 <rect x="0.0" y="0.0" width="640.0" height="480.0" fill="#d7f0ff"/>
-<rect x="0.0" y="0.0" width="640.0" height="480.0" fill="#e7f6fb"/>
-<rect x="0.0" y="340.0" width="640.0" height="140.0" fill="#d5e4ea"/>
+<rect x="0.0" y="0.0" width="640.0" height="480.0" fill="#e5f6fb"/>
+<rect x="0.0" y="340.0" width="640.0" height="140.0" fill="#d5e6ee"/>
 <rect x="0.0" y="340.0" width="640.0" height="6.0" fill="#d2b48c"/>
-<ellipse cx="320.0" cy="300.0" rx="200.0" ry="80.0" fill="#ffffff" stroke="#243044" stroke-width="5.0" stroke-linejoin="round" stroke-linecap="round"/>
-<ellipse cx="320.0" cy="280.0" rx="160.0" ry="40.0" fill="#9fd4ff" stroke="#243044" stroke-width="3.0" stroke-linejoin="round" stroke-linecap="round"/>
-<circle cx="250.0" cy="230.0" r="36.0" fill="#f6c7a1" stroke="#243044" stroke-width="4.0" stroke-linejoin="round" stroke-linecap="round"/>
-<circle cx="236.0" cy="224.0" r="4.0" fill="#243044"/>
-<circle cx="262.0" cy="224.0" r="4.0" fill="#243044"/>
-<path d="M236 242 Q250 252 264 242" fill="none" stroke="#243044" stroke-width="3.0" stroke-linejoin="round" stroke-linecap="round"/>
-<circle cx="430.0" cy="180.0" r="10.0" fill="#9fd4ff"/>
+<ellipse cx="320.0" cy="320.0" rx="230.0" ry="90.0" fill="#ffffff" stroke="#243044" stroke-width="6.0" stroke-linejoin="round" stroke-linecap="round"/>
+<ellipse cx="320.0" cy="300.0" rx="180.0" ry="48.0" fill="#8ec8f0" stroke="#243044" stroke-width="4.0" stroke-linejoin="round" stroke-linecap="round"/>
+<circle cx="240.0" cy="230.0" r="42.0" fill="#f6c7a1" stroke="#243044" stroke-width="4.0" stroke-linejoin="round" stroke-linecap="round"/>
+<circle cx="224.0" cy="222.0" r="5.0" fill="#243044"/>
+<circle cx="254.0" cy="222.0" r="5.0" fill="#243044"/>
+<path d="M226 246 Q240 258 256 246" fill="none" stroke="#243044" stroke-width="3.0" stroke-linejoin="round" stroke-linecap="round"/>
+<circle cx="450.0" cy="160.0" r="14.0" fill="#9fd4ff" stroke="#243044" stroke-width="3.0" stroke-linejoin="round" stroke-linecap="round"/>
+<circle cx="470.0" cy="190.0" r="10.0" fill="#9fd4ff"/>
 </svg>

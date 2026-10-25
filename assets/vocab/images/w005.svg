@@ -1,14 +1,17 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="640" height="480" viewBox="0 0 640 480" shape-rendering="geometricPrecision">
 <rect x="0.0" y="0.0" width="640.0" height="480.0" fill="#d7f0ff"/>
-<rect x="0.0" y="0.0" width="640.0" height="480.0" fill="#fff8ea"/>
-<path d="M180.0 250.0 Q320.0 403.0 460.0 250.0" fill="#f4f7fb" stroke="#243044" stroke-width="4.0" stroke-linejoin="round" stroke-linecap="round"/>
-<ellipse cx="320.0" cy="250.0" rx="117.6" ry="16.0" fill="#ffd34d" stroke="#243044" stroke-width="3.0" stroke-linejoin="round" stroke-linecap="round"/>
-<circle cx="250.0" cy="200.0" r="22.0" fill="#fffdf6" stroke="#243044" stroke-width="3.0" stroke-linejoin="round" stroke-linecap="round"/>
-<circle cx="310.0" cy="170.0" r="26.0" fill="#fffdf6" stroke="#243044" stroke-width="3.0" stroke-linejoin="round" stroke-linecap="round"/>
-<circle cx="370.0" cy="200.0" r="22.0" fill="#fffdf6" stroke="#243044" stroke-width="3.0" stroke-linejoin="round" stroke-linecap="round"/>
-<circle cx="280.0" cy="140.0" r="20.0" fill="#fffdf6" stroke="#243044" stroke-width="3.0" stroke-linejoin="round" stroke-linecap="round"/>
-<circle cx="350.0" cy="130.0" r="18.0" fill="#fffdf6" stroke="#243044" stroke-width="3.0" stroke-linejoin="round" stroke-linecap="round"/>
-<circle cx="320.0" cy="210.0" r="20.0" fill="#fffdf6" stroke="#243044" stroke-width="3.0" stroke-linejoin="round" stroke-linecap="round"/>
-<circle cx="400.0" cy="160.0" r="16.0" fill="#fffdf6" stroke="#243044" stroke-width="3.0" stroke-linejoin="round" stroke-linecap="round"/>
-<circle cx="230.0" cy="160.0" r="16.0" fill="#fffdf6" stroke="#243044" stroke-width="3.0" stroke-linejoin="round" stroke-linecap="round"/>
+<rect x="0.0" y="0.0" width="640.0" height="480.0" fill="#fff6e4"/>
+<g transform="translate(320.0 180.0) scale(1.7)">
+<path d="M-70 20 L-50 150 L50 150 L70 20 Z" fill="#ef5b5b" stroke="#243044" stroke-width="4.0" stroke-linejoin="round" stroke-linecap="round"/>
+<rect x="-40.0" y="20.0" width="16.0" height="130.0" fill="#ffffff"/>
+<rect x="-10.0" y="20.0" width="16.0" height="130.0" fill="#ffffff"/>
+<rect x="20.0" y="20.0" width="16.0" height="130.0" fill="#ffffff"/>
+<circle cx="-30.0" cy="-10.0" r="22.0" fill="#fffdf6" stroke="#243044" stroke-width="3.0" stroke-linejoin="round" stroke-linecap="round"/>
+<circle cx="0.0" cy="-28.0" r="26.0" fill="#fffdf6" stroke="#243044" stroke-width="3.0" stroke-linejoin="round" stroke-linecap="round"/>
+<circle cx="34.0" cy="-8.0" r="20.0" fill="#fffdf6" stroke="#243044" stroke-width="3.0" stroke-linejoin="round" stroke-linecap="round"/>
+<circle cx="-10.0" cy="8.0" r="18.0" fill="#fffdf6" stroke="#243044" stroke-width="3.0" stroke-linejoin="round" stroke-linecap="round"/>
+<circle cx="24.0" cy="16.0" r="16.0" fill="#fffdf6" stroke="#243044" stroke-width="3.0" stroke-linejoin="round" stroke-linecap="round"/>
+<circle cx="-46.0" cy="16.0" r="14.0" fill="#fffdf6" stroke="#243044" stroke-width="3.0" stroke-linejoin="round" stroke-linecap="round"/>
+<circle cx="8.0" cy="-4.0" r="14.0" fill="#fffdf6" stroke="#243044" stroke-width="3.0" stroke-linejoin="round" stroke-linecap="round"/>
+</g>
 </svg>

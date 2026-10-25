@@ -1,9 +1,9 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="640" height="480" viewBox="0 0 640 480" shape-rendering="geometricPrecision">
 <rect x="0.0" y="0.0" width="640.0" height="480.0" fill="#d7f0ff"/>
-<rect x="0.0" y="0.0" width="640.0" height="480.0" fill="#fff8ea"/>
-<polygon points="320.0,40.0 560.0,400.0 80.0,400.0" fill="#ffd34d" stroke="#243044" stroke-width="6.0" stroke-linejoin="round" stroke-linecap="round"/>
-<text x="320.0" y="200.0" dy="0.35em" text-anchor="middle" font-family='Verdana, sans-serif' font-size="96.0" font-weight="700" fill="#243044">!</text>
-<g transform="translate(110.0 450.0) scale(0.5 0.5)">
+<rect x="0.0" y="0.0" width="640.0" height="480.0" fill="#fff6e0"/>
+<polygon points="320.0,30.0 590.0,420.0 50.0,420.0" fill="#ffd34d" stroke="#243044" stroke-width="8.0" stroke-linejoin="round" stroke-linecap="round"/>
+<text x="320.0" y="190.0" dy="0.35em" text-anchor="middle" font-family='Verdana, sans-serif' font-size="120.0" font-weight="700" fill="#243044">!</text>
+<g transform="translate(100.0 460.0) scale(0.4 0.4)">
 <ellipse cx="0.0" cy="6.0" rx="50.0" ry="12.0" fill="rgba(36,48,68,0.12)"/>
 <rect x="-26.0" y="-86.0" width="20.0" height="82.0" rx="10.0" fill="#2c3e50" stroke="#243044" stroke-width="4.0" stroke-linejoin="round" stroke-linecap="round"/>
 <rect x="6.0" y="-86.0" width="20.0" height="82.0" rx="10.0" fill="#2c3e50" stroke="#243044" stroke-width="4.0" stroke-linejoin="round" stroke-linecap="round"/>

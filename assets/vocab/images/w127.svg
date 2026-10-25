@@ -1,10 +1,10 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="640" height="480" viewBox="0 0 640 480" shape-rendering="geometricPrecision">
 <rect x="0.0" y="0.0" width="640.0" height="480.0" fill="#d7f0ff"/>
-<rect x="0.0" y="0.0" width="640.0" height="480.0" fill="#f4f8ff"/>
-<circle cx="320.0" cy="240.0" r="100.0" fill="#f5a524" stroke="#243044" stroke-width="4.0" stroke-linejoin="round" stroke-linecap="round"/>
-<path d="M220.0 240.0 Q320.0 220.0 420.0 240.0" fill="none" stroke="#ffffff" stroke-width="3.0" stroke-linejoin="round" stroke-linecap="round"/>
-<polyline points="320.0,140.0 320.0,340.0" fill="none" stroke="#ffffff" stroke-width="3.0" stroke-linecap="round" stroke-linejoin="round"/>
-<path d="M320 80 A160 160 0 0 1 480 240" fill="none" stroke="#4c8dff" stroke-width="6.0" stroke-linejoin="round" stroke-linecap="round"/>
-<polyline points="470.0,210.0 500.0,250.0" fill="none" stroke="#4c8dff" stroke-width="6.0" stroke-linecap="round" stroke-linejoin="round"/>
-<polygon points="500.0,250.0 483.3,243.2 498.2,232.1" fill="#4c8dff"/>
+<rect x="0.0" y="0.0" width="640.0" height="480.0" fill="#f3f6ff"/>
+<circle cx="320.0" cy="250.0" r="120.0" fill="#f5a524" stroke="#243044" stroke-width="4.0" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M200.0 250.0 Q320.0 232.0 440.0 250.0" fill="none" stroke="#ffffff" stroke-width="4.0" stroke-linejoin="round" stroke-linecap="round"/>
+<polyline points="320.0,130.0 320.0,370.0" fill="none" stroke="#ffffff" stroke-width="3.0" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M320 70 A180 180 0 0 1 500 250" fill="none" stroke="#4c8dff" stroke-width="8.0" stroke-linejoin="round" stroke-linecap="round"/>
+<polyline points="480.0,210.0 530.0,270.0" fill="none" stroke="#4c8dff" stroke-width="8.0" stroke-linecap="round" stroke-linejoin="round"/>
+<polygon points="530.0,270.0 513.0,264.1 527.3,252.2" fill="#4c8dff"/>
 </svg>

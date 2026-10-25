@@ -1,9 +1,9 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="640" height="480" viewBox="0 0 640 480" shape-rendering="geometricPrecision">
 <rect x="0.0" y="0.0" width="640.0" height="480.0" fill="#d7f0ff"/>
-<rect x="0.0" y="0.0" width="640.0" height="480.0" fill="#f4f8ff"/>
-<rect x="70.0" y="150.0" width="140.0" height="140.0" rx="16.0" fill="#4c8dff" stroke="#243044" stroke-width="4.0" stroke-linejoin="round" stroke-linecap="round"/>
-<text x="140.0" y="200.0" dy="0.35em" text-anchor="middle" font-family='Verdana, sans-serif' font-size="64.0" font-weight="700" fill="#ffffff">2</text>
-<text x="280.0" y="200.0" dy="0.35em" text-anchor="middle" font-family='Verdana, sans-serif' font-size="64.0" font-weight="700" fill="#243044">+</text>
-<rect x="360.0" y="150.0" width="140.0" height="140.0" rx="16.0" fill="#3cb371" stroke="#243044" stroke-width="4.0" stroke-linejoin="round" stroke-linecap="round"/>
-<text x="430.0" y="200.0" dy="0.35em" text-anchor="middle" font-family='Verdana, sans-serif' font-size="64.0" font-weight="700" fill="#ffffff">3</text>
+<rect x="0.0" y="0.0" width="640.0" height="480.0" fill="#f2f6ff"/>
+<rect x="50.0" y="150.0" width="160.0" height="160.0" rx="18.0" fill="#4c8dff" stroke="#243044" stroke-width="5.0" stroke-linejoin="round" stroke-linecap="round"/>
+<text x="130.0" y="200.0" dy="0.35em" text-anchor="middle" font-family='Verdana, sans-serif' font-size="72.0" font-weight="700" fill="#ffffff">2</text>
+<text x="290.0" y="200.0" dy="0.35em" text-anchor="middle" font-family='Verdana, sans-serif' font-size="80.0" font-weight="700" fill="#243044">+</text>
+<rect x="380.0" y="150.0" width="160.0" height="160.0" rx="18.0" fill="#3cb371" stroke="#243044" stroke-width="5.0" stroke-linejoin="round" stroke-linecap="round"/>
+<text x="460.0" y="200.0" dy="0.35em" text-anchor="middle" font-family='Verdana, sans-serif' font-size="72.0" font-weight="700" fill="#ffffff">3</text>
 </svg>

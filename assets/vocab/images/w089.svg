@@ -1,10 +1,13 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="640" height="480" viewBox="0 0 640 480" shape-rendering="geometricPrecision">
 <rect x="0.0" y="0.0" width="640.0" height="480.0" fill="#d7f0ff"/>
-<rect x="0.0" y="0.0" width="640.0" height="480.0" fill="#e7f6ff"/>
-<path d="M280.0 160.0 L294.0 360.0 L386.0 360.0 L400.0 160.0 Z" fill="rgba(255,255,255,0.35)" stroke="#243044" stroke-width="4.0" stroke-linejoin="round" stroke-linecap="round"/>
-<path d="M288.0 230.0 L298.0 352.0 L382.0 352.0 L392.0 230.0 Z" fill="#9fd4ff"/>
-<polyline points="296.0,178.0 302.0,344.0" fill="none" stroke="rgba(255,255,255,0.8)" stroke-width="6.0" stroke-linecap="round" stroke-linejoin="round"/>
-<path d="M250 40 Q300 80 310 150" fill="none" stroke="#4aa3e8" stroke-width="10.0" stroke-linejoin="round" stroke-linecap="round"/>
-<polyline points="430.0,260.0 430.0,180.0" fill="none" stroke="#4c8dff" stroke-width="8.0" stroke-linecap="round" stroke-linejoin="round"/>
-<polygon points="430.0,180.0 439.3,195.4 420.7,195.4" fill="#4c8dff"/>
+<rect x="0.0" y="0.0" width="640.0" height="480.0" fill="#e5f6ff"/>
+<path d="M250.0 150.0 L264.0 390.0 L386.0 390.0 L400.0 150.0 Z" fill="rgba(255,255,255,0.28)" stroke="#243044" stroke-width="5.0" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M258.0 186.0 L266.0 382.0 L384.0 382.0 L392.0 186.0 Z" fill="#7ec8f0"/>
+<ellipse cx="325.0" cy="150.0" rx="75.0" ry="12.0" fill="rgba(255,255,255,0.45)" stroke="#243044" stroke-width="4.0" stroke-linejoin="round" stroke-linecap="round"/>
+<ellipse cx="325.0" cy="186.0" rx="57.0" ry="8.0" fill="#7ec8f0" stroke="#243044" stroke-width="2.0" stroke-linejoin="round" stroke-linecap="round"/>
+<polyline points="268.0,166.0 274.0,372.0" fill="none" stroke="rgba(255,255,255,0.85)" stroke-width="6.0" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M300 20 Q340 80 320 150" fill="none" stroke="#3d98e0" stroke-width="14.0" stroke-linejoin="round" stroke-linecap="round"/>
+<circle cx="325.0" cy="150.0" r="8.0" fill="#3d98e0"/>
+<polyline points="480.0,300.0 480.0,160.0" fill="none" stroke="#4c8dff" stroke-width="10.0" stroke-linecap="round" stroke-linejoin="round"/>
+<polygon points="480.0,160.0 489.3,175.4 470.7,175.4" fill="#4c8dff"/>
 </svg>

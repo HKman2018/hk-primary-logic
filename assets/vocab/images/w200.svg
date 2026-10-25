@@ -1,9 +1,11 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="640" height="480" viewBox="0 0 640 480" shape-rendering="geometricPrecision">
 <rect x="0.0" y="0.0" width="640.0" height="480.0" fill="#d7f0ff"/>
-<rect x="0.0" y="0.0" width="640.0" height="480.0" fill="#f7f5f2"/>
-<path d="M120 340 A200 200 0 0 1 520 340" fill="none" stroke="#c5ced8" stroke-width="18.0" stroke-linejoin="round" stroke-linecap="round"/>
-<path d="M120 340 A200 200 0 0 1 200 180" fill="none" stroke="#ef5b5b" stroke-width="18.0" stroke-linejoin="round" stroke-linecap="round"/>
-<polyline points="320.0,340.0 180.0,200.0" fill="none" stroke="#243044" stroke-width="8.0" stroke-linecap="round" stroke-linejoin="round"/>
-<circle cx="320.0" cy="340.0" r="16.0" fill="#2c3e50"/>
-<text x="150.0" y="300.0" dy="0.35em" text-anchor="middle" font-family='Verdana, sans-serif' font-size="28.0" font-weight="700" fill="#ef5b5b">0</text>
+<rect x="0.0" y="0.0" width="640.0" height="480.0" fill="#f6f4f1"/>
+<rect x="160.0" y="60.0" width="320.0" height="200.0" rx="20.0" fill="#2c3e50" stroke="#243044" stroke-width="5.0" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M200 300 A140 140 0 0 1 440 300" fill="none" stroke="#c5ced8" stroke-width="22.0" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M200 300 A140 140 0 0 1 250 190" fill="none" stroke="#ef5b5b" stroke-width="22.0" stroke-linejoin="round" stroke-linecap="round"/>
+<polyline points="320.0,300.0 230.0,190.0" fill="none" stroke="#243044" stroke-width="8.0" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="320.0" cy="300.0" r="16.0" fill="#ffd34d" stroke="#243044" stroke-width="3.0" stroke-linejoin="round" stroke-linecap="round"/>
+<text x="180.0" y="340.0" dy="0.35em" text-anchor="middle" font-family='Verdana, sans-serif' font-size="36.0" font-weight="700" fill="#ef5b5b">0</text>
+<rect x="250.0" y="380.0" width="140.0" height="36.0" rx="8.0" fill="#ef5b5b" stroke="#243044" stroke-width="3.0" stroke-linejoin="round" stroke-linecap="round"/>
 </svg>

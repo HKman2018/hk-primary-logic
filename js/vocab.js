@@ -26,6 +26,9 @@
     image: document.getElementById("vocab-image"),
     loading: document.getElementById("vocab-image-loading"),
     imageError: document.getElementById("vocab-image-error"),
+    zhCue: document.getElementById("vocab-zh-cue"),
+    zhText: document.getElementById("vocab-zh-text"),
+    prompt: document.getElementById("vocab-prompt"),
     input: document.getElementById("vocab-input"),
     feedback: document.getElementById("vocab-feedback"),
     doneSummary: document.getElementById("vocab-done-summary"),
@@ -37,6 +40,7 @@
     correct: 0,
     phase: "empty",
     token: 0,
+    imageFailed: false,
   };
 
   function normalizeAnswer(value) {
@@ -103,7 +107,7 @@
     els.loading.classList.toggle("hidden", !loading);
     els.imageError.classList.toggle("hidden", !imageError);
 
-    els.input.disabled = loading || imageError;
+    els.input.disabled = loading;
     els.input.readOnly = answered;
     els.input.classList.toggle("is-correct", phase === "correct");
     els.input.classList.toggle("is-incorrect", phase === "incorrect");
@@ -112,7 +116,8 @@
     els.submit.classList.toggle("hidden", answered);
     els.submit.disabled = !canType || !hasText;
     els.next.classList.toggle("hidden", !answered);
-    els.skip.classList.toggle("hidden", !imageError);
+    els.skip.classList.toggle("hidden", !state.imageFailed || answered);
+    applyCue(item);
 
     if (phase === "correct") {
       els.feedback.className = "feedback ok";
@@ -134,8 +139,21 @@
     }
   }
 
+  function applyCue(item) {
+    const showZh = Boolean(item && item.zh && (state.imageFailed || item.zhCue));
+    const primary = Boolean(state.imageFailed && showZh);
+    els.figure.classList.toggle("is-cue", showZh && !primary);
+    els.figure.classList.toggle("is-zh-only", primary);
+    els.zhCue.classList.toggle("hidden", !showZh);
+    els.zhCue.classList.toggle("is-primary", primary);
+    els.zhCue.setAttribute("aria-hidden", showZh ? "false" : "true");
+    els.zhText.textContent = showZh ? item.zh : "";
+    els.prompt.textContent = showZh ? "請打出對應嘅英文：" : "請打出圖中事物嘅英文：";
+  }
+
   function loadPicture(item) {
     const token = (state.token += 1);
+    state.imageFailed = false;
     applyPhase("loading");
     const pre = new Image();
     pre.onload = function () {
@@ -146,9 +164,10 @@
     };
     pre.onerror = function () {
       if (token !== state.token) return;
+      state.imageFailed = true;
       els.image.removeAttribute("src");
-      applyPhase("image-error");
-      els.skip.focus();
+      applyPhase(els.input.value.trim() ? "typing" : "empty");
+      els.input.focus();
     };
     pre.src = item.image;
   }
@@ -214,6 +233,7 @@
 
   function goHome() {
     state.token += 1;
+    state.imageFailed = false;
     showPanel(els.home);
   }
 

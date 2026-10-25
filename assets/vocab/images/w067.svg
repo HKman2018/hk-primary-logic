@@ -1,9 +1,10 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="640" height="480" viewBox="0 0 640 480" shape-rendering="geometricPrecision">
 <rect x="0.0" y="0.0" width="640.0" height="480.0" fill="#d7f0ff"/>
 <rect x="0.0" y="0.0" width="640.0" height="480.0" fill="#d7f0ff"/>
-<rect x="0.0" y="348.0" width="640.0" height="132.0" fill="#c4a574"/>
-<rect x="0.0" y="348.0" width="640.0" height="10.0" fill="#5eae4e"/>
-<g transform="translate(220.0 400.0) scale(1.0 1.0)">
+<rect x="0.0" y="300.0" width="640.0" height="180.0" fill="#c4a574"/>
+<rect x="0.0" y="300.0" width="640.0" height="10.0" fill="#5eae4e"/>
+<ellipse cx="460.0" cy="390.0" rx="90.0" ry="28.0" fill="#8a5a3b"/>
+<g transform="translate(200.0 420.0) scale(1.1 1.1)">
 <ellipse cx="0.0" cy="6.0" rx="50.0" ry="12.0" fill="rgba(36,48,68,0.12)"/>
 <rect x="-26.0" y="-86.0" width="20.0" height="82.0" rx="10.0" fill="#2c3e50" stroke="#243044" stroke-width="4.0" stroke-linejoin="round" stroke-linecap="round"/>
 <rect x="6.0" y="-86.0" width="20.0" height="82.0" rx="10.0" fill="#2c3e50" stroke="#243044" stroke-width="4.0" stroke-linejoin="round" stroke-linecap="round"/>
@@ -22,7 +23,6 @@
 <polyline points="8.0,-240.0 24.0,-232.0" fill="none" stroke="#243044" stroke-width="4.0" stroke-linecap="round" stroke-linejoin="round"/>
 <polyline points="-10.0,-194.0 10.0,-194.0" fill="none" stroke="#243044" stroke-width="4.0" stroke-linecap="round" stroke-linejoin="round"/>
 </g>
-<polyline points="340.0,160.0 420.0,340.0" fill="none" stroke="#c0c7d0" stroke-width="8.0" stroke-linecap="round" stroke-linejoin="round"/>
-<polygon points="400.0,330.0 470.0,350.0 430.0,390.0" fill="#d9dee6" stroke="#243044" stroke-width="4.0" stroke-linejoin="round" stroke-linecap="round"/>
-<ellipse cx="430.0" cy="400.0" rx="70.0" ry="20.0" fill="#8a5a3b"/>
+<polyline points="340.0,140.0 450.0,360.0" fill="none" stroke="#c5ced6" stroke-width="10.0" stroke-linecap="round" stroke-linejoin="round"/>
+<polygon points="420.0,340.0 510.0,360.0 460.0,410.0" fill="#d9dee6" stroke="#243044" stroke-width="5.0" stroke-linejoin="round" stroke-linecap="round"/>
 </svg>

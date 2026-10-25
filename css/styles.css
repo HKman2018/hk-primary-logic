@@ -22,6 +22,9 @@
   --vocab-soft: #e7f8f4;
   --vocab-line: #b7e6da;
   --vocab-disabled: #9edfd2;
+  --text-sm: 0.9rem;
+  --text-lg: 1.15rem;
+  --text-xl: 1.5rem;
   font-family: "Noto Sans TC", "PingFang TC", "Microsoft JhengHei", system-ui, sans-serif;
 }
 
@@ -230,6 +233,13 @@ button.mode-card:hover .vocab-pill { background: var(--vocab-hover); }
   object-fit: contain;
   display: block;
 }
+.vocab-figure.is-cue {
+  max-height: 260px;
+  width: min(100%, 347px);
+  margin-left: auto;
+  margin-right: auto;
+}
+.vocab-figure.is-zh-only { display: none; }
 .vocab-figure.is-loading img,
 .vocab-figure.is-error img { visibility: hidden; }
 .vocab-figure.is-loading,
@@ -274,6 +284,29 @@ button.mode-card:hover .vocab-pill { background: var(--vocab-hover); }
   .vocab-skeleton { animation: none; }
 }
 
+#vocab-zh-cue {
+  margin: 0.15rem 0 0.35rem;
+  color: var(--ink);
+  font-size: var(--text-lg);
+  font-weight: 600;
+  line-height: 1.45;
+}
+#vocab-zh-cue .vocab-zh-prefix {
+  margin-right: 0.2rem;
+  color: var(--muted);
+  font-size: var(--text-sm);
+  font-weight: 600;
+}
+#vocab-zh-cue.is-primary {
+  margin: 1.1rem 0 0.75rem;
+  font-size: var(--text-xl);
+  font-weight: 700;
+  text-align: center;
+}
+#vocab-zh-cue.is-primary .vocab-zh-prefix {
+  display: block;
+  margin: 0 0 0.2rem;
+}
 .vocab-prompt {
   display: block;
   margin: 0.35rem 0 0.55rem;

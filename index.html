@@ -98,7 +98,10 @@
         </div>
         <img id="vocab-image" alt="睇圖學英文題目圖" width="640" height="480" />
       </div>
-      <label for="vocab-input" class="vocab-prompt">請打出圖中事物嘅英文：</label>
+      <p id="vocab-zh-cue" class="hidden" aria-hidden="true">
+        <span class="vocab-zh-prefix">意思：</span><span id="vocab-zh-text"></span>
+      </p>
+      <label id="vocab-prompt" for="vocab-input" class="vocab-prompt">請打出圖中事物嘅英文：</label>
       <div class="vocab-answer">
         <input id="vocab-input" type="text" lang="en" autocomplete="off" autocapitalize="off" autocorrect="off" spellcheck="false" enterkeyhint="done" placeholder="例如 apple" disabled />
         <button type="button" id="btn-vocab-submit" class="primary vocab-primary" disabled>提交答案</button>

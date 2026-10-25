@@ -3,13 +3,17 @@
 <rect x="0.0" y="0.0" width="640.0" height="480.0" fill="#d7f0ff"/>
 <rect x="0.0" y="348.0" width="640.0" height="132.0" fill="#7dce6a"/>
 <rect x="0.0" y="348.0" width="640.0" height="10.0" fill="#5eae4e"/>
-<path d="M-20 80 C120 140 80 220 200 260 C340 310 260 380 420 420 C520 450 600 400 680 460 L680 200 C520 180 480 300 320 240 C180 180 160 80 -20 40 Z" fill="#4aa3e8" stroke="#243044" stroke-width="4.0" stroke-linejoin="round" stroke-linecap="round"/>
-<rect x="72.0" y="288.0" width="16.0" height="72.0" rx="6.0" fill="#8a5a3b" stroke="#243044" stroke-width="3.0" stroke-linejoin="round" stroke-linecap="round"/>
-<circle cx="80.0" cy="264.0" r="36.8" fill="#3cb371" stroke="#243044" stroke-width="4.0" stroke-linejoin="round" stroke-linecap="round"/>
-<circle cx="54.4" cy="283.2" r="25.6" fill="#3cb371" stroke="#243044" stroke-width="4.0" stroke-linejoin="round" stroke-linecap="round"/>
-<circle cx="107.2" cy="281.6" r="24.0" fill="#3cb371" stroke="#243044" stroke-width="4.0" stroke-linejoin="round" stroke-linecap="round"/>
-<rect x="534.0" y="146.0" width="12.0" height="54.0" rx="6.0" fill="#8a5a3b" stroke="#243044" stroke-width="3.0" stroke-linejoin="round" stroke-linecap="round"/>
-<circle cx="540.0" cy="128.0" r="27.6" fill="#3cb371" stroke="#243044" stroke-width="4.0" stroke-linejoin="round" stroke-linecap="round"/>
-<circle cx="520.8" cy="142.4" r="19.2" fill="#3cb371" stroke="#243044" stroke-width="4.0" stroke-linejoin="round" stroke-linecap="round"/>
-<circle cx="560.4" cy="141.2" r="18.0" fill="#3cb371" stroke="#243044" stroke-width="4.0" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M-20 40 C140 120 60 200 200 250 C360 310 240 390 420 430 C540 470 620 400 680 460 L680 180 C500 160 460 280 300 210 C140 140 160 40 -20 10 Z" fill="#3d98e0" stroke="#243044" stroke-width="5.0" stroke-linejoin="round" stroke-linecap="round"/>
+<polyline points="180.0,180.0 240.0,230.0" fill="none" stroke="#ffffff" stroke-width="6.0" stroke-linecap="round" stroke-linejoin="round"/>
+<polygon points="240.0,230.0 222.2,227.3 234.1,213.0" fill="#ffffff"/>
+<polyline points="360.0,300.0 430.0,360.0" fill="none" stroke="#ffffff" stroke-width="6.0" stroke-linecap="round" stroke-linejoin="round"/>
+<polygon points="430.0,360.0 412.3,357.0 424.3,342.9" fill="#ffffff"/>
+<rect x="61.5" y="303.5" width="17.0" height="76.5" rx="6.0" fill="#8a5a3b" stroke="#243044" stroke-width="3.0" stroke-linejoin="round" stroke-linecap="round"/>
+<circle cx="70.0" cy="278.0" r="39.1" fill="#3cb371" stroke="#243044" stroke-width="4.0" stroke-linejoin="round" stroke-linecap="round"/>
+<circle cx="42.8" cy="298.4" r="27.2" fill="#3cb371" stroke="#243044" stroke-width="4.0" stroke-linejoin="round" stroke-linecap="round"/>
+<circle cx="98.9" cy="296.7" r="25.5" fill="#3cb371" stroke="#243044" stroke-width="4.0" stroke-linejoin="round" stroke-linecap="round"/>
+<rect x="554.0" y="126.0" width="12.0" height="54.0" rx="6.0" fill="#8a5a3b" stroke="#243044" stroke-width="3.0" stroke-linejoin="round" stroke-linecap="round"/>
+<circle cx="560.0" cy="108.0" r="27.6" fill="#3cb371" stroke="#243044" stroke-width="4.0" stroke-linejoin="round" stroke-linecap="round"/>
+<circle cx="540.8" cy="122.4" r="19.2" fill="#3cb371" stroke="#243044" stroke-width="4.0" stroke-linejoin="round" stroke-linecap="round"/>
+<circle cx="580.4" cy="121.2" r="18.0" fill="#3cb371" stroke="#243044" stroke-width="4.0" stroke-linejoin="round" stroke-linecap="round"/>
 </svg>

@@ -1,11 +1,12 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="640" height="480" viewBox="0 0 640 480" shape-rendering="geometricPrecision">
 <rect x="0.0" y="0.0" width="640.0" height="480.0" fill="#d7f0ff"/>
-<rect x="0.0" y="0.0" width="640.0" height="480.0" fill="#f7fbff"/>
-<path d="M140 140 H300 L340 300 H180 Z" fill="none" stroke="#243044" stroke-width="6.0" stroke-linejoin="round" stroke-linecap="round"/>
-<polyline points="300.0,160.0 380.0,120.0" fill="none" stroke="#243044" stroke-width="6.0" stroke-linecap="round" stroke-linejoin="round"/>
-<circle cx="210.0" cy="340.0" r="22.0" fill="#2c3e50"/>
-<circle cx="320.0" cy="340.0" r="22.0" fill="#2c3e50"/>
-<circle cx="230.0" cy="200.0" r="16.0" fill="#ef5b5b"/>
-<circle cx="270.0" cy="210.0" r="14.0" fill="#3cb371"/>
-<rect x="240.0" y="230.0" width="30.0" height="24.0" rx="4.0" fill="#ffd34d" stroke="#243044" stroke-width="2.0" stroke-linejoin="round" stroke-linecap="round"/>
+<rect x="0.0" y="0.0" width="640.0" height="480.0" fill="#f5f9ff"/>
+<path d="M140 120 H340 L390 320 H190 Z" fill="#e7eef6" stroke="#243044" stroke-width="6.0" stroke-linejoin="round" stroke-linecap="round"/>
+<polyline points="340.0,150.0 460.0,90.0" fill="none" stroke="#243044" stroke-width="8.0" stroke-linecap="round" stroke-linejoin="round"/>
+<polyline points="430.0,90.0 480.0,90.0" fill="none" stroke="#243044" stroke-width="8.0" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="230.0" cy="360.0" r="28.0" fill="#2c3e50" stroke="#243044" stroke-width="4.0" stroke-linejoin="round" stroke-linecap="round"/>
+<circle cx="350.0" cy="360.0" r="28.0" fill="#2c3e50" stroke="#243044" stroke-width="4.0" stroke-linejoin="round" stroke-linecap="round"/>
+<circle cx="230.0" cy="200.0" r="22.0" fill="#ef5b5b" stroke="#243044" stroke-width="3.0" stroke-linejoin="round" stroke-linecap="round"/>
+<circle cx="290.0" cy="210.0" r="18.0" fill="#3cb371" stroke="#243044" stroke-width="3.0" stroke-linejoin="round" stroke-linecap="round"/>
+<rect x="250.0" y="240.0" width="40.0" height="30.0" rx="6.0" fill="#ffd34d" stroke="#243044" stroke-width="3.0" stroke-linejoin="round" stroke-linecap="round"/>
 </svg>

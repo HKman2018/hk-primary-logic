@@ -1,6 +1,9 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="640" height="480" viewBox="0 0 640 480" shape-rendering="geometricPrecision">
 <rect x="0.0" y="0.0" width="640.0" height="480.0" fill="#d7f0ff"/>
-<rect x="0.0" y="0.0" width="640.0" height="480.0" fill="#fff8ee"/>
-<path d="M80 240 C180 80 180 400 320 240 C460 80 460 400 560 240" fill="none" stroke="#8a5a3b" stroke-width="16.0" stroke-linejoin="round" stroke-linecap="round"/>
-<circle cx="320.0" cy="240.0" r="28.0" fill="none" stroke="#8a5a3b" stroke-width="10.0" stroke-linejoin="round" stroke-linecap="round"/>
+<rect x="0.0" y="0.0" width="640.0" height="480.0" fill="#fff6ea"/>
+<rect x="180.0" y="140.0" width="280.0" height="200.0" rx="16.0" fill="#e0b44a" stroke="#243044" stroke-width="5.0" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M80 240 C160 80 200 400 320 240 C440 80 480 400 560 240" fill="none" stroke="#8a5a3b" stroke-width="14.0" stroke-linejoin="round" stroke-linecap="round"/>
+<circle cx="320.0" cy="230.0" r="26.0" fill="none" stroke="#8a5a3b" stroke-width="10.0" stroke-linejoin="round" stroke-linecap="round"/>
+<polyline points="250.0,140.0 250.0,340.0" fill="none" stroke="#8a5a3b" stroke-width="6.0" stroke-linecap="round" stroke-linejoin="round"/>
+<polyline points="390.0,140.0 390.0,340.0" fill="none" stroke="#8a5a3b" stroke-width="6.0" stroke-linecap="round" stroke-linejoin="round"/>
 </svg>

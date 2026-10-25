@@ -1,9 +1,9 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="640" height="480" viewBox="0 0 640 480" shape-rendering="geometricPrecision">
 <rect x="0.0" y="0.0" width="640.0" height="480.0" fill="#d7f0ff"/>
-<rect x="0.0" y="0.0" width="640.0" height="480.0" fill="#fff8f2"/>
+<rect x="0.0" y="0.0" width="640.0" height="480.0" fill="#fff6f0"/>
 <rect x="0.0" y="340.0" width="640.0" height="140.0" fill="#e7d3b0"/>
 <rect x="0.0" y="340.0" width="640.0" height="6.0" fill="#d2b48c"/>
-<g transform="translate(200.0 420.0) scale(1.1 1.1)">
+<g transform="translate(170.0 430.0) scale(1.1 1.1)">
 <ellipse cx="0.0" cy="6.0" rx="50.0" ry="12.0" fill="rgba(36,48,68,0.12)"/>
 <rect x="-26.0" y="-86.0" width="20.0" height="82.0" rx="10.0" fill="#2c3e50" stroke="#243044" stroke-width="4.0" stroke-linejoin="round" stroke-linecap="round"/>
 <rect x="6.0" y="-86.0" width="20.0" height="82.0" rx="10.0" fill="#2c3e50" stroke="#243044" stroke-width="4.0" stroke-linejoin="round" stroke-linecap="round"/>
@@ -22,12 +22,15 @@
 <circle cx="17.0" cy="-222.0" r="2.0" fill="#ffffff"/>
 <path d="M-16 -196 Q0 -178 16 -196" fill="none" stroke="#243044" stroke-width="4.0" stroke-linejoin="round" stroke-linecap="round"/>
 </g>
-<ellipse cx="340.0" cy="230.0" rx="80.0" ry="16.0" fill="#d9dee6" stroke="#243044" stroke-width="3.0" stroke-linejoin="round" stroke-linecap="round"/>
-<circle cx="310.0" cy="200.0" r="16.0" fill="#f2a3b0" stroke="#243044" stroke-width="2.0" stroke-linejoin="round" stroke-linecap="round"/>
-<path d="M350.0 140.0 L364.0 210.0 L372.0 210.0 L386.0 140.0 Z" fill="rgba(255,255,255,0.35)" stroke="#243044" stroke-width="4.0" stroke-linejoin="round" stroke-linecap="round"/>
-<path d="M358.0 164.5 L368.0 202.0 L368.0 202.0 L378.0 164.5 Z" fill="#9fd4ff"/>
-<polyline points="366.0,158.0 372.0,194.0" fill="none" stroke="rgba(255,255,255,0.8)" stroke-width="6.0" stroke-linecap="round" stroke-linejoin="round"/>
-<g transform="translate(500.0 420.0) scale(-0.8 0.8)">
+<ellipse cx="360.0" cy="230.0" rx="110.0" ry="20.0" fill="#d9dee6" stroke="#243044" stroke-width="4.0" stroke-linejoin="round" stroke-linecap="round"/>
+<polyline points="300.0,230.0 300.0,300.0" fill="none" stroke="#c5ced8" stroke-width="6.0" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="320.0" cy="200.0" r="20.0" fill="#f2a3b0" stroke="#243044" stroke-width="3.0" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M370.0 140.0 L384.0 220.0 L396.0 220.0 L410.0 140.0 Z" fill="rgba(255,255,255,0.28)" stroke="#243044" stroke-width="5.0" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M378.0 168.0 L386.0 212.0 L394.0 212.0 L402.0 168.0 Z" fill="#9fd4ff"/>
+<ellipse cx="390.0" cy="140.0" rx="20.0" ry="12.0" fill="rgba(255,255,255,0.45)" stroke="#243044" stroke-width="4.0" stroke-linejoin="round" stroke-linecap="round"/>
+<ellipse cx="390.0" cy="168.0" rx="15.2" ry="8.0" fill="#9fd4ff" stroke="#243044" stroke-width="2.0" stroke-linejoin="round" stroke-linecap="round"/>
+<polyline points="388.0,156.0 394.0,202.0" fill="none" stroke="rgba(255,255,255,0.85)" stroke-width="6.0" stroke-linecap="round" stroke-linejoin="round"/>
+<g transform="translate(520.0 440.0) scale(-0.8 0.8)">
 <ellipse cx="0.0" cy="6.0" rx="50.0" ry="12.0" fill="rgba(36,48,68,0.12)"/>
 <rect x="-26.0" y="-86.0" width="20.0" height="82.0" rx="10.0" fill="#2c3e50" stroke="#243044" stroke-width="4.0" stroke-linejoin="round" stroke-linecap="round"/>
 <rect x="6.0" y="-86.0" width="20.0" height="82.0" rx="10.0" fill="#2c3e50" stroke="#243044" stroke-width="4.0" stroke-linejoin="round" stroke-linecap="round"/>
