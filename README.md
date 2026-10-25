@@ -69,6 +69,8 @@ python3 -m http.server 8765
 3. 揀答案 → 睇啱／錯同提示。
 4. 進度存在瀏覽器 `localStorage`（換瀏覽器或清網站資料＝當新用戶）。
 
+首頁分隔線下面有獨立嘅「其他練習」：**看圖學英文單字**。呢個唔係第六類邏輯，亦唔用每日題池。睇圖打英文，大小寫唔計，錯咗會顯示正確單字。
+
 ---
 
 ## 每日唔重複（硬約束）
@@ -87,7 +89,10 @@ python3 -m http.server 8765
 ├── css/styles.css
 ├── js/questions.js     # 靜態樣本（後備）
 ├── js/generators.js    # 日期種子＋參數化出題＋每日組卷（v4-rich-pool）
-├── js/app.js           # 答題流程、localStorage
+├── js/app.js           # 邏輯答題流程、localStorage
+├── js/vocab-data.js    # 看圖學英文單字表（獨立）
+├── js/vocab.js         # 看圖學英文流程
+├── assets/vocab/       # 本地插圖（webp）
 ├── docs/題型大綱.md
 ├── .gitignore          # 擋住 .env、金鑰、憑證同本機雜檔
 └── README.md
@@ -109,3 +114,4 @@ python3 -m http.server 8765
 
 - 圖形／空間題目前偏文字描述。
 - 進度只喺本機瀏覽器；唔會同步到其他裝置。
+- 看圖學英文每輪由本地字表隨機抽 10 題，唔跟邏輯題「每日唔重複」。單字只有一個正確寫法，冇同義字、發音或重試同一題。圖片載入失敗可以跳過。

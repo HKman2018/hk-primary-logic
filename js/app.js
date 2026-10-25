@@ -90,8 +90,9 @@
   }
 
   function show(panel) {
-    [els.home, els.quiz, els.done].forEach((p) => p.classList.add("hidden"));
-    panel.classList.remove("hidden");
+    document.querySelectorAll(".panel").forEach((node) => {
+      node.classList.toggle("hidden", node !== panel);
+    });
   }
 
   function renderHome() {

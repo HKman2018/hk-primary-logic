@@ -10,6 +10,18 @@
   --bad-bg: #fdecea;
   --line: #d8e0ea;
   --radius: 14px;
+  --accent-hover: #1f5ad1;
+  --accent-soft: #eef4ff;
+  --focus-ring: 0 0 0 3px rgba(47, 111, 237, 0.35);
+  --shadow-card: 0 2px 8px rgba(26, 35, 50, 0.04);
+  --shadow-card-hover: 0 6px 20px rgba(26, 35, 50, 0.08);
+  --radius-pill: 999px;
+  --radius-input: 10px;
+  --vocab: #0f766e;
+  --vocab-hover: #0c5e58;
+  --vocab-soft: #e7f8f4;
+  --vocab-line: #b7e6da;
+  --vocab-disabled: #9edfd2;
   font-family: "Noto Sans TC", "PingFang TC", "Microsoft JhengHei", system-ui, sans-serif;
 }
 
@@ -119,3 +131,187 @@ button:disabled { opacity: 0.5; cursor: not-allowed; }
 .feedback.bad { background: var(--bad-bg); color: var(--bad); }
 .hint { font-size: 0.95rem; margin: 0.5rem 0 0; }
 .level { display: inline-block; font-size: 0.75rem; background: #e8eef8; color: var(--muted); padding: 0.15rem 0.5rem; border-radius: 999px; margin-left: 0.35rem; }
+
+button:focus-visible,
+input:focus-visible,
+.linkish:focus-visible {
+  outline: 3px solid rgba(47, 111, 237, 0.55);
+  outline-offset: 3px;
+}
+
+.home-divider {
+  border: 0;
+  height: 1px;
+  background: var(--line);
+  margin: 1.35rem 0 1.1rem;
+}
+.home-extra .lead { margin: 0 0 0.75rem; }
+
+button.mode-card {
+  display: flex;
+  flex-direction: column;
+  align-items: stretch;
+  gap: 0.85rem;
+  width: 100%;
+  margin: 0;
+  padding: 1rem 1rem 1rem 1.05rem;
+  text-align: left;
+  font: inherit;
+  color: inherit;
+  cursor: pointer;
+  background: var(--vocab-soft);
+  border: 1px solid var(--vocab-line);
+  border-left: 5px solid var(--vocab);
+  border-radius: var(--radius);
+  box-shadow: var(--shadow-card);
+}
+button.mode-card:hover { box-shadow: var(--shadow-card-hover); }
+button.mode-card:hover .vocab-pill { background: var(--vocab-hover); }
+.mode-card-main { display: flex; gap: 0.8rem; align-items: center; }
+.mode-card-icon {
+  flex: none;
+  width: 2.6rem;
+  height: 2.6rem;
+  display: grid;
+  place-items: center;
+  border-radius: 12px;
+  background: #fff;
+  color: var(--vocab);
+}
+.mode-card-copy { display: flex; flex-direction: column; gap: 0.15rem; min-width: 0; }
+.mode-card-copy strong { font-size: 1.05rem; }
+.mode-card-copy span { font-size: 0.9rem; color: var(--muted); }
+.vocab-pill {
+  align-self: flex-end;
+  display: inline-flex;
+  align-items: center;
+  border-radius: var(--radius-pill);
+  padding: 0.65rem 1.15rem;
+  background: var(--vocab);
+  color: #fff;
+  font-weight: 700;
+  font-size: 0.95rem;
+}
+
+.vocab-mode-card h2 { margin: 0 0 0.45rem; font-size: 1.35rem; }
+.vocab-mode-card p { margin: 0 0 0.85rem; line-height: 1.6; color: var(--muted); }
+.vocab-mode-count { font-size: 0.9rem; }
+@media (max-width: 559px) {
+  #btn-vocab-start,
+  .vocab-answer .vocab-primary { width: 100%; }
+}
+
+.vocab-meta {
+  display: grid;
+  grid-template-columns: 1fr auto 1fr;
+  align-items: center;
+}
+.vocab-meta .linkish { justify-self: start; }
+.vocab-title { justify-self: center; color: var(--ink); font-weight: 700; }
+#vocab-progress { justify-self: end; font-variant-numeric: tabular-nums; }
+
+.vocab-figure {
+  position: relative;
+  display: grid;
+  place-items: center;
+  width: 100%;
+  aspect-ratio: 4 / 3;
+  margin: 0.75rem 0;
+  padding: 0.75rem;
+  overflow: hidden;
+  background: #fff;
+}
+@media (min-width: 560px) {
+  .vocab-figure { width: min(100%, 480px); margin-left: auto; margin-right: auto; }
+}
+.vocab-figure img {
+  width: 100%;
+  height: 100%;
+  object-fit: contain;
+  display: block;
+}
+.vocab-figure.is-loading img,
+.vocab-figure.is-error img { visibility: hidden; }
+.vocab-figure.is-loading,
+.vocab-figure.is-error { background: #eef3f8; }
+.vocab-status {
+  position: absolute;
+  inset: 0;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 0.75rem;
+  padding: 1rem;
+  text-align: center;
+  color: #6b7c90;
+  background: #eef3f8;
+}
+.vocab-status p { margin: 0; font-size: 0.95rem; }
+.vocab-status-badge {
+  width: 4rem;
+  height: 4rem;
+  border-radius: 50%;
+  display: grid;
+  place-items: center;
+  background: #e4ebf3;
+  color: #8aa0b5;
+}
+.vocab-skeleton {
+  width: 46%;
+  max-width: 180px;
+  height: 28%;
+  border-radius: 16px;
+  background: linear-gradient(90deg, #e3ebf3 0%, #f7fafc 50%, #e3ebf3 100%);
+  background-size: 200% 100%;
+  animation: vocab-shimmer 1.2s ease-in-out infinite;
+}
+@keyframes vocab-shimmer {
+  0% { background-position: 100% 0; }
+  100% { background-position: -100% 0; }
+}
+@media (prefers-reduced-motion: reduce) {
+  .vocab-skeleton { animation: none; }
+}
+
+.vocab-prompt {
+  display: block;
+  margin: 0.35rem 0 0.55rem;
+  font-size: 1.05rem;
+  font-weight: 700;
+}
+.vocab-answer { display: flex; flex-direction: column; gap: 0.65rem; }
+#vocab-input {
+  width: 100%;
+  min-width: 0;
+  padding: 0.75rem 0.9rem;
+  border: 1px solid var(--line);
+  border-radius: var(--radius-input);
+  font: inherit;
+  font-size: 1rem;
+  color: var(--ink);
+  background: #fff;
+}
+#vocab-input::placeholder { color: #9aa8b8; }
+#vocab-input:disabled { background: #f4f7fb; color: var(--muted); }
+#vocab-input.is-correct { background: var(--ok-bg); border-color: #8fd4ae; }
+#vocab-input.is-incorrect { background: var(--bad-bg); border-color: #f0b4ae; }
+#vocab-input:focus-visible { border-color: var(--accent); box-shadow: var(--focus-ring); }
+@media (min-width: 560px) {
+  .vocab-answer { flex-direction: row; align-items: center; }
+  .vocab-answer input { flex: 1; }
+  .vocab-answer .vocab-primary { flex: none; }
+}
+
+button.vocab-primary { background: var(--vocab); font-weight: 700; }
+button.vocab-primary:hover:not(:disabled) { background: var(--vocab-hover); }
+button.vocab-primary:disabled {
+  background: var(--vocab-disabled);
+  color: #fff;
+  opacity: 1;
+}
+#vocab-feedback.ok::before { content: "✓ "; }
+#vocab-feedback.bad::before { content: "✗ "; }
+.vocab-actions { display: flex; flex-direction: column; gap: 0.5rem; margin-top: 0.35rem; }
+.vocab-actions button.vocab-primary { width: 100%; padding-top: 0.85rem; padding-bottom: 0.85rem; }
+.vocab-done-actions { justify-content: center; }

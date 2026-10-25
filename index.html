@@ -16,6 +16,26 @@
     <section id="home" class="panel">
       <p class="lead">揀一類開始練習：</p>
       <div id="category-list" class="grid"></div>
+      <section class="home-extra" aria-labelledby="home-extra-title">
+        <hr class="home-divider" />
+        <p id="home-extra-title" class="lead">其他練習</p>
+        <button type="button" id="btn-vocab-entry" class="mode-card">
+          <span class="mode-card-main">
+            <span class="mode-card-icon" aria-hidden="true">
+              <svg viewBox="0 0 24 24" width="22" height="22" fill="none">
+                <rect x="3.5" y="5" width="17" height="14" rx="2.5" stroke="currentColor" stroke-width="1.8" />
+                <circle cx="9" cy="10" r="1.4" fill="currentColor" />
+                <path d="M5 16.5l4.2-3.4 2.6 2.1 2.7-2.6L19 16.5" stroke="currentColor" stroke-width="1.8" stroke-linejoin="round" />
+              </svg>
+            </span>
+            <span class="mode-card-copy">
+              <strong>看圖學英文單字</strong>
+              <span>睇圖，打出英文單字</span>
+            </span>
+          </span>
+          <span class="vocab-pill">開始 →</span>
+        </button>
+      </section>
     </section>
 
     <section id="quiz" class="panel hidden">
@@ -44,10 +64,69 @@
       </div>
     </section>
 
+    <section id="vocab-mode" class="panel hidden">
+      <div class="quiz-meta">
+        <button type="button" id="btn-vocab-mode-home" class="linkish">← 返主頁</button>
+      </div>
+      <div class="card vocab-mode-card">
+        <h2>看圖學英文單字</h2>
+        <p>會見到一張圖，請打出對應嘅英文單字。答完即時睇結果。</p>
+        <p id="vocab-mode-count" class="vocab-mode-count"></p>
+        <button type="button" id="btn-vocab-start" class="primary vocab-primary">開始練習</button>
+      </div>
+    </section>
+
+    <section id="vocab-quiz" class="panel hidden">
+      <div class="quiz-meta vocab-meta">
+        <button type="button" id="btn-vocab-home" class="linkish">← 返主頁</button>
+        <span class="vocab-title">看圖學英文</span>
+        <span id="vocab-progress"></span>
+      </div>
+      <div id="vocab-image-wrap" class="card vocab-figure is-loading">
+        <div id="vocab-image-loading" class="vocab-status">
+          <span class="vocab-skeleton" aria-hidden="true"></span>
+          <p>圖片載入中…</p>
+        </div>
+        <div id="vocab-image-error" class="vocab-status hidden">
+          <span class="vocab-status-badge" aria-hidden="true">
+            <svg viewBox="0 0 24 24" width="28" height="28" fill="none">
+              <rect x="3.5" y="5" width="17" height="14" rx="2.5" stroke="currentColor" stroke-width="1.7" />
+              <path d="M9 10l6 6M15 10l-6 6" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" />
+            </svg>
+          </span>
+          <p>圖片載入唔到</p>
+        </div>
+        <img id="vocab-image" alt="睇圖學英文題目圖" width="640" height="480" />
+      </div>
+      <label for="vocab-input" class="vocab-prompt">請打出圖中事物嘅英文：</label>
+      <div class="vocab-answer">
+        <input id="vocab-input" type="text" lang="en" autocomplete="off" autocapitalize="off" autocorrect="off" spellcheck="false" enterkeyhint="done" placeholder="例如 apple" disabled />
+        <button type="button" id="btn-vocab-submit" class="primary vocab-primary" disabled>提交答案</button>
+      </div>
+      <div id="vocab-feedback" class="feedback hidden" role="status"></div>
+      <div class="vocab-actions">
+        <button type="button" id="btn-vocab-next" class="primary vocab-primary hidden">下一題</button>
+        <button type="button" id="btn-vocab-skip" class="primary vocab-primary hidden">跳過呢題</button>
+      </div>
+    </section>
+
+    <section id="vocab-done" class="panel hidden">
+      <div class="card center">
+        <h2>做得好！</h2>
+        <p id="vocab-done-summary"></p>
+        <div class="actions vocab-done-actions">
+          <button type="button" id="btn-vocab-retry" class="primary vocab-primary">再玩一輪</button>
+          <button type="button" id="btn-vocab-done-home" class="secondary">返主頁</button>
+        </div>
+      </div>
+    </section>
+
     <footer class="foot">香港小學邏輯訓練 · 靜態 MVP · 唔使登入</footer>
   </div>
   <script src="js/questions.js"></script>
   <script src="js/generators.js"></script>
   <script src="js/app.js"></script>
+  <script src="js/vocab-data.js"></script>
+  <script src="js/vocab.js"></script>
 </body>
 </html>
