@@ -1,5 +1,6 @@
 /** 「看圖學英文」— separate from the five logic categories and the HKT daily pool.
- *  The question is the row's Traditional Chinese gloss. The picture is not shown.
+ *  The question is「意思：{zh}」from the Google Translate zh-TW bank.
+ *  The answer is the English lemma only (trim + toLowerCase). Pictures are not shown.
  */
 (function () {
   const SESSION_SIZE = 10;
