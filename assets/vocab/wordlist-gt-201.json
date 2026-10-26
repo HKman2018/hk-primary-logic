@@ -1,0 +1,1007 @@
+[
+  {
+    "id": 1,
+    "english": "close",
+    "zh": "關閉"
+  },
+  {
+    "id": 2,
+    "english": "milk",
+    "zh": "牛奶"
+  },
+  {
+    "id": 3,
+    "english": "jam",
+    "zh": "果醬"
+  },
+  {
+    "id": 4,
+    "english": "black",
+    "zh": "黑色的"
+  },
+  {
+    "id": 5,
+    "english": "popcorn",
+    "zh": "爆米花"
+  },
+  {
+    "id": 6,
+    "english": "clear",
+    "zh": "清除"
+  },
+  {
+    "id": 7,
+    "english": "soda",
+    "zh": "蘇打"
+  },
+  {
+    "id": 8,
+    "english": "roof",
+    "zh": "屋頂"
+  },
+  {
+    "id": 9,
+    "english": "weak",
+    "zh": "虛弱的"
+  },
+  {
+    "id": 10,
+    "english": "light",
+    "zh": "光"
+  },
+  {
+    "id": 11,
+    "english": "special",
+    "zh": "特別的"
+  },
+  {
+    "id": 12,
+    "english": "down",
+    "zh": "向下"
+  },
+  {
+    "id": 13,
+    "english": "free",
+    "zh": "自由的"
+  },
+  {
+    "id": 14,
+    "english": "poor",
+    "zh": "貧窮的"
+  },
+  {
+    "id": 15,
+    "english": "bright",
+    "zh": "明亮的"
+  },
+  {
+    "id": 16,
+    "english": "near",
+    "zh": "靠近"
+  },
+  {
+    "id": 17,
+    "english": "dirty",
+    "zh": "骯髒的"
+  },
+  {
+    "id": 18,
+    "english": "dry",
+    "zh": "乾燥"
+  },
+  {
+    "id": 19,
+    "english": "sharp",
+    "zh": "鋒利的"
+  },
+  {
+    "id": 20,
+    "english": "basic",
+    "zh": "基本的"
+  },
+  {
+    "id": 21,
+    "english": "mean",
+    "zh": "意思是"
+  },
+  {
+    "id": 22,
+    "english": "iron",
+    "zh": "鐵"
+  },
+  {
+    "id": 23,
+    "english": "rice",
+    "zh": "白飯"
+  },
+  {
+    "id": 24,
+    "english": "bee",
+    "zh": "蜜蜂"
+  },
+  {
+    "id": 25,
+    "english": "church",
+    "zh": "教會"
+  },
+  {
+    "id": 26,
+    "english": "build",
+    "zh": "建造"
+  },
+  {
+    "id": 27,
+    "english": "continue",
+    "zh": "繼續"
+  },
+  {
+    "id": 28,
+    "english": "grow",
+    "zh": "生長"
+  },
+  {
+    "id": 29,
+    "english": "know",
+    "zh": "知道"
+  },
+  {
+    "id": 30,
+    "english": "agree",
+    "zh": "同意"
+  },
+  {
+    "id": 31,
+    "english": "old",
+    "zh": "老的"
+  },
+  {
+    "id": 32,
+    "english": "pretty",
+    "zh": "漂亮的"
+  },
+  {
+    "id": 33,
+    "english": "quick",
+    "zh": "快的"
+  },
+  {
+    "id": 34,
+    "english": "kitten",
+    "zh": "小貓"
+  },
+  {
+    "id": 35,
+    "english": "lake",
+    "zh": "湖"
+  },
+  {
+    "id": 36,
+    "english": "river",
+    "zh": "河"
+  },
+  {
+    "id": 37,
+    "english": "receive",
+    "zh": "收到"
+  },
+  {
+    "id": 38,
+    "english": "think",
+    "zh": "思考"
+  },
+  {
+    "id": 39,
+    "english": "big",
+    "zh": "大的"
+  },
+  {
+    "id": 40,
+    "english": "beautiful",
+    "zh": "美麗的"
+  },
+  {
+    "id": 41,
+    "english": "read",
+    "zh": "讀"
+  },
+  {
+    "id": 42,
+    "english": "own",
+    "zh": "自己的"
+  },
+  {
+    "id": 43,
+    "english": "allow",
+    "zh": "允許"
+  },
+  {
+    "id": 44,
+    "english": "believe",
+    "zh": "相信"
+  },
+  {
+    "id": 45,
+    "english": "appear",
+    "zh": "出現"
+  },
+  {
+    "id": 46,
+    "english": "careful",
+    "zh": "小心"
+  },
+  {
+    "id": 47,
+    "english": "difficult",
+    "zh": "難的"
+  },
+  {
+    "id": 48,
+    "english": "blue",
+    "zh": "藍色的"
+  },
+  {
+    "id": 49,
+    "english": "country",
+    "zh": "國家"
+  },
+  {
+    "id": 50,
+    "english": "driver",
+    "zh": "司機"
+  },
+  {
+    "id": 51,
+    "english": "point",
+    "zh": "觀點"
+  },
+  {
+    "id": 52,
+    "english": "prove",
+    "zh": "證明"
+  },
+  {
+    "id": 53,
+    "english": "mad",
+    "zh": "瘋狂的"
+  },
+  {
+    "id": 54,
+    "english": "silly",
+    "zh": "愚蠢的"
+  },
+  {
+    "id": 55,
+    "english": "ham",
+    "zh": "火腿"
+  },
+  {
+    "id": 56,
+    "english": "inch",
+    "zh": "英吋"
+  },
+  {
+    "id": 57,
+    "english": "bathe",
+    "zh": "洗澡"
+  },
+  {
+    "id": 58,
+    "english": "dig",
+    "zh": "挖"
+  },
+  {
+    "id": 59,
+    "english": "examine",
+    "zh": "檢查"
+  },
+  {
+    "id": 60,
+    "english": "hot",
+    "zh": "熱的"
+  },
+  {
+    "id": 61,
+    "english": "back",
+    "zh": "後退"
+  },
+  {
+    "id": 62,
+    "english": "force",
+    "zh": "力量"
+  },
+  {
+    "id": 63,
+    "english": "welcome",
+    "zh": "歡迎"
+  },
+  {
+    "id": 64,
+    "english": "kind",
+    "zh": "種類"
+  },
+  {
+    "id": 65,
+    "english": "shark",
+    "zh": "鯊魚"
+  },
+  {
+    "id": 66,
+    "english": "sheep",
+    "zh": "羊"
+  },
+  {
+    "id": 67,
+    "english": "tiger",
+    "zh": "老虎"
+  },
+  {
+    "id": 68,
+    "english": "wife",
+    "zh": "妻子"
+  },
+  {
+    "id": 69,
+    "english": "actor",
+    "zh": "演員"
+  },
+  {
+    "id": 70,
+    "english": "actress",
+    "zh": "演員"
+  },
+  {
+    "id": 71,
+    "english": "park",
+    "zh": "公園"
+  },
+  {
+    "id": 72,
+    "english": "blow",
+    "zh": "吹"
+  },
+  {
+    "id": 73,
+    "english": "carry",
+    "zh": "攜帶"
+  },
+  {
+    "id": 74,
+    "english": "nice",
+    "zh": "好的"
+  },
+  {
+    "id": 75,
+    "english": "tall",
+    "zh": "高的"
+  },
+  {
+    "id": 76,
+    "english": "wide",
+    "zh": "寬的"
+  },
+  {
+    "id": 77,
+    "english": "banana",
+    "zh": "香蕉"
+  },
+  {
+    "id": 78,
+    "english": "ant",
+    "zh": "螞蟻"
+  },
+  {
+    "id": 79,
+    "english": "bat",
+    "zh": "蝙蝠"
+  },
+  {
+    "id": 80,
+    "english": "fill",
+    "zh": "充滿"
+  },
+  {
+    "id": 81,
+    "english": "marry",
+    "zh": "結婚"
+  },
+  {
+    "id": 82,
+    "english": "forget",
+    "zh": "忘記"
+  },
+  {
+    "id": 83,
+    "english": "remember",
+    "zh": "記住"
+  },
+  {
+    "id": 84,
+    "english": "lucky",
+    "zh": "幸運的"
+  },
+  {
+    "id": 85,
+    "english": "chicken",
+    "zh": "雞"
+  },
+  {
+    "id": 86,
+    "english": "pie",
+    "zh": "派"
+  },
+  {
+    "id": 87,
+    "english": "say",
+    "zh": "說"
+  },
+  {
+    "id": 88,
+    "english": "take",
+    "zh": "拿"
+  },
+  {
+    "id": 89,
+    "english": "add",
+    "zh": "添加"
+  },
+  {
+    "id": 90,
+    "english": "ask",
+    "zh": "問"
+  },
+  {
+    "id": 91,
+    "english": "book",
+    "zh": "書"
+  },
+  {
+    "id": 92,
+    "english": "bring",
+    "zh": "帶來"
+  },
+  {
+    "id": 93,
+    "english": "check",
+    "zh": "查看"
+  },
+  {
+    "id": 94,
+    "english": "do",
+    "zh": "做"
+  },
+  {
+    "id": 95,
+    "english": "ready",
+    "zh": "準備好"
+  },
+  {
+    "id": 96,
+    "english": "selfish",
+    "zh": "自私"
+  },
+  {
+    "id": 97,
+    "english": "stupid",
+    "zh": "愚蠢的"
+  },
+  {
+    "id": 98,
+    "english": "policeman",
+    "zh": "警察"
+  },
+  {
+    "id": 99,
+    "english": "mind",
+    "zh": "頭腦"
+  },
+  {
+    "id": 100,
+    "english": "miss",
+    "zh": "錯過"
+  },
+  {
+    "id": 101,
+    "english": "rub",
+    "zh": "擦"
+  },
+  {
+    "id": 102,
+    "english": "dead",
+    "zh": "死的"
+  },
+  {
+    "id": 103,
+    "english": "fine",
+    "zh": "美好的"
+  },
+  {
+    "id": 104,
+    "english": "huge",
+    "zh": "巨大的"
+  },
+  {
+    "id": 105,
+    "english": "important",
+    "zh": "重要的"
+  },
+  {
+    "id": 106,
+    "english": "season",
+    "zh": "季節"
+  },
+  {
+    "id": 107,
+    "english": "story",
+    "zh": "故事"
+  },
+  {
+    "id": 108,
+    "english": "wear",
+    "zh": "穿"
+  },
+  {
+    "id": 109,
+    "english": "lay",
+    "zh": "躺著"
+  },
+  {
+    "id": 110,
+    "english": "lie",
+    "zh": "說謊"
+  },
+  {
+    "id": 111,
+    "english": "become",
+    "zh": "變得"
+  },
+  {
+    "id": 112,
+    "english": "best",
+    "zh": "最好的"
+  },
+  {
+    "id": 113,
+    "english": "round",
+    "zh": "圓形的"
+  },
+  {
+    "id": 114,
+    "english": "yummy",
+    "zh": "好吃"
+  },
+  {
+    "id": 115,
+    "english": "able",
+    "zh": "有能力的"
+  },
+  {
+    "id": 116,
+    "english": "give",
+    "zh": "給"
+  },
+  {
+    "id": 117,
+    "english": "mother",
+    "zh": "母親"
+  },
+  {
+    "id": 118,
+    "english": "funny",
+    "zh": "有趣的"
+  },
+  {
+    "id": 119,
+    "english": "soft",
+    "zh": "柔軟的"
+  },
+  {
+    "id": 120,
+    "english": "writer",
+    "zh": "作家"
+  },
+  {
+    "id": 121,
+    "english": "zoo",
+    "zh": "動物園"
+  },
+  {
+    "id": 122,
+    "english": "town",
+    "zh": "鎮"
+  },
+  {
+    "id": 123,
+    "english": "bug",
+    "zh": "漏洞"
+  },
+  {
+    "id": 124,
+    "english": "climb",
+    "zh": "爬"
+  },
+  {
+    "id": 125,
+    "english": "die",
+    "zh": "死"
+  },
+  {
+    "id": 126,
+    "english": "tiny",
+    "zh": "微小的"
+  },
+  {
+    "id": 127,
+    "english": "useful",
+    "zh": "有用"
+  },
+  {
+    "id": 128,
+    "english": "shy",
+    "zh": "害羞的"
+  },
+  {
+    "id": 129,
+    "english": "smart",
+    "zh": "聰明的"
+  },
+  {
+    "id": 130,
+    "english": "strange",
+    "zh": "奇怪的"
+  },
+  {
+    "id": 131,
+    "english": "week",
+    "zh": "星期"
+  },
+  {
+    "id": 132,
+    "english": "weekend",
+    "zh": "週末"
+  },
+  {
+    "id": 133,
+    "english": "year",
+    "zh": "年"
+  },
+  {
+    "id": 134,
+    "english": "pond",
+    "zh": "池塘"
+  },
+  {
+    "id": 135,
+    "english": "pool",
+    "zh": "水池"
+  },
+  {
+    "id": 136,
+    "english": "problem",
+    "zh": "問題"
+  },
+  {
+    "id": 137,
+    "english": "age",
+    "zh": "年齡"
+  },
+  {
+    "id": 138,
+    "english": "happen",
+    "zh": "發生"
+  },
+  {
+    "id": 139,
+    "english": "shut",
+    "zh": "關閉"
+  },
+  {
+    "id": 140,
+    "english": "store",
+    "zh": "店鋪"
+  },
+  {
+    "id": 141,
+    "english": "certain",
+    "zh": "肯定"
+  },
+  {
+    "id": 142,
+    "english": "common",
+    "zh": "常見的"
+  },
+  {
+    "id": 143,
+    "english": "final",
+    "zh": "最終的"
+  },
+  {
+    "id": 144,
+    "english": "key",
+    "zh": "鑰匙"
+  },
+  {
+    "id": 145,
+    "english": "sure",
+    "zh": "當然"
+  },
+  {
+    "id": 146,
+    "english": "tool",
+    "zh": "工具"
+  },
+  {
+    "id": 147,
+    "english": "unit",
+    "zh": "單元"
+  },
+  {
+    "id": 148,
+    "english": "voice",
+    "zh": "嗓音"
+  },
+  {
+    "id": 149,
+    "english": "action",
+    "zh": "行動"
+  },
+  {
+    "id": 150,
+    "english": "tie",
+    "zh": "領帶"
+  },
+  {
+    "id": 151,
+    "english": "better",
+    "zh": "更好的"
+  },
+  {
+    "id": 152,
+    "english": "bad",
+    "zh": "壞的"
+  },
+  {
+    "id": 153,
+    "english": "different",
+    "zh": "不同的"
+  },
+  {
+    "id": 154,
+    "english": "monday",
+    "zh": "週一"
+  },
+  {
+    "id": 155,
+    "english": "tuesday",
+    "zh": "週二"
+  },
+  {
+    "id": 156,
+    "english": "wednesday",
+    "zh": "週三"
+  },
+  {
+    "id": 157,
+    "english": "thursday",
+    "zh": "週四"
+  },
+  {
+    "id": 158,
+    "english": "friday",
+    "zh": "星期五"
+  },
+  {
+    "id": 159,
+    "english": "saturday",
+    "zh": "週六"
+  },
+  {
+    "id": 160,
+    "english": "sunday",
+    "zh": "星期日"
+  },
+  {
+    "id": 161,
+    "english": "month",
+    "zh": "月"
+  },
+  {
+    "id": 162,
+    "english": "january",
+    "zh": "一月"
+  },
+  {
+    "id": 163,
+    "english": "february",
+    "zh": "二月"
+  },
+  {
+    "id": 164,
+    "english": "march",
+    "zh": "行進"
+  },
+  {
+    "id": 165,
+    "english": "april",
+    "zh": "四月"
+  },
+  {
+    "id": 166,
+    "english": "may",
+    "zh": "可能"
+  },
+  {
+    "id": 167,
+    "english": "june",
+    "zh": "六月"
+  },
+  {
+    "id": 168,
+    "english": "july",
+    "zh": "七月"
+  },
+  {
+    "id": 169,
+    "english": "august",
+    "zh": "八月"
+  },
+  {
+    "id": 170,
+    "english": "september",
+    "zh": "九月"
+  },
+  {
+    "id": 171,
+    "english": "october",
+    "zh": "十月"
+  },
+  {
+    "id": 172,
+    "english": "november",
+    "zh": "十一月"
+  },
+  {
+    "id": 173,
+    "english": "december",
+    "zh": "十二月"
+  },
+  {
+    "id": 174,
+    "english": "join",
+    "zh": "加入"
+  },
+  {
+    "id": 175,
+    "english": "make",
+    "zh": "製作"
+  },
+  {
+    "id": 176,
+    "english": "plant",
+    "zh": "植物"
+  },
+  {
+    "id": 177,
+    "english": "reach",
+    "zh": "抵達"
+  },
+  {
+    "id": 178,
+    "english": "sad",
+    "zh": "傷心"
+  },
+  {
+    "id": 179,
+    "english": "strong",
+    "zh": "強的"
+  },
+  {
+    "id": 180,
+    "english": "sorry",
+    "zh": "對不起"
+  },
+  {
+    "id": 181,
+    "english": "short",
+    "zh": "短的"
+  },
+  {
+    "id": 182,
+    "english": "eagle",
+    "zh": "鷹"
+  },
+  {
+    "id": 183,
+    "english": "fact",
+    "zh": "事實"
+  },
+  {
+    "id": 184,
+    "english": "farmer",
+    "zh": "農民"
+  },
+  {
+    "id": 185,
+    "english": "save",
+    "zh": "節省"
+  },
+  {
+    "id": 186,
+    "english": "send",
+    "zh": "傳送"
+  },
+  {
+    "id": 187,
+    "english": "teach",
+    "zh": "教"
+  },
+  {
+    "id": 188,
+    "english": "understand",
+    "zh": "理解"
+  },
+  {
+    "id": 189,
+    "english": "let",
+    "zh": "讓"
+  },
+  {
+    "id": 190,
+    "english": "hear",
+    "zh": "聽到"
+  },
+  {
+    "id": 191,
+    "english": "new",
+    "zh": "新的"
+  },
+  {
+    "id": 192,
+    "english": "left",
+    "zh": "左邊"
+  },
+  {
+    "id": 193,
+    "english": "foreign",
+    "zh": "外國的"
+  },
+  {
+    "id": 194,
+    "english": "ice",
+    "zh": "冰"
+  },
+  {
+    "id": 195,
+    "english": "shop",
+    "zh": "店鋪"
+  },
+  {
+    "id": 196,
+    "english": "see",
+    "zh": "看"
+  },
+  {
+    "id": 197,
+    "english": "level",
+    "zh": "等級"
+  },
+  {
+    "id": 198,
+    "english": "kid",
+    "zh": "孩子"
+  },
+  {
+    "id": 199,
+    "english": "leader",
+    "zh": "領導者"
+  },
+  {
+    "id": 200,
+    "english": "set",
+    "zh": "放"
+  },
+  {
+    "id": 201,
+    "english": "spell",
+    "zh": "拼字"
+  }
+]
